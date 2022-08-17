@@ -21,6 +21,7 @@ I'm a Front-end Developer who enjoys building reusable components and solutions.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeltelagendijk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://developer.mendixcloud.com/link/profile/overview/609393" target="_blank"><img src="https://img.shields.io/badge/-Mendix-%230077B5?style=for-the-badge&logo=mendix&logoColor=white" target="_blank"></a>
   <a href="https://github.com/J3lte" target="_blank"><img src="https://img.shields.io/github/followers/J3lte?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </p>
 
