@@ -2,7 +2,10 @@
 
 <h3>Who am i?</h3>
 
-I'm a Front-end Developer who enjoys building reusable components and solutions. I'm fun to work with, enjoy coding and using creativity.
+I'm a Full Stack Developer who enjoys building reusable solutions. I'm fun to work with, enjoy coding and using creativity.
+Have been doing mostly Front End development in the past years, but made the transition to broader stacks last year (2022). I enjoy Typescript, Deno, Serverless technologies and Docker.
+
+Check out my [freelance website](https://caffcode.com) for more info.
 
 <br />
 <p align="center">
