@@ -22,7 +22,7 @@ jobs:
                 plugin_languages_recent_load: 400
                 plugin_languages_recent_days: 30
                 plugin_repositories: yes
-                plugin_repositories_featured: j3lte/react-mustache-template-component, j3lte/debian-torproxy, j3lte/alfredo
+                plugin_repositories_featured: j3lte/react-mustache-template-component, j3lte/debian-torproxy, j3lte/deno-soda
                 plugin_people: yes
                 plugin_people_types: followers, followed
                 plugin_calendar: yes
