@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1610" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1746" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;justify-content:flex-end;padding:0 4px}.category,.repository .name{display:flex;align-items:center}.category,footer{flex-direction:column}.category{flex:1 1 0}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.keyword{color:#b44418}.token.char,.token.number,.token.string{color:#2777aa}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.repository .name{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            93 issue comments
+                            94 issue comments
                         </div>
                     </section>
                     <section>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    6.84 GB used
+                                    7.01 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    131 Stargazers
+                                    132 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    335 views in last two weeks
+                                    351 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -476,7 +476,7 @@
                             <g transform="translate(0, 14)">
                                 <text x="0" y="0">2024</text>
                                 <g transform="translate(0, 0)">
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
@@ -489,6 +489,7 @@
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -580,6 +581,286 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#9509 Update gif-search extension</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by j3lte in <span class="repo">raycast/extensions</span></div>
+                                    <div class="comment">@thomaslombart the conflicts should be resolved now...</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 329 commits in
+                                        <span class="repo">j3lte/raycast-extensions</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ext/gif-search</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#62b5db7</div>
+                                        <div class="message">Update cal-com-share-meeting-links extension (#9535)
+
+* Sort event types
+
+* Add links to dashboard &amp; public page
+
+* Create actions for with quick links
+
+* Update cal-com-share-meeting-links extension
+
+- Add event length as keyword
+- Initial commit
+
+* Update cal-com-share-meeting-links extension
+
+- Add event type\'s length as a keyword
+- Add event length as keyword
+
+* Restore subtitle
+
+* Remove subtitle
+
+---------
+
+Co-authored-by: Per Nielsen Tikær &lt;per@raycast.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3a97ad</div>
+                                        <div class="message">Update CODEOWNERs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#388dddb</div>
+                                        <div class="message">Update copyq-clipboard-manager extension (#9320)
+
+* Update copyq-clipboard-manager extension
+
+- Merge branch \'contributions/merge-1700357404707863000\'
+- Pull contributions
+- Fixed some parts of view-clipboard-entries.tsx and package.json to pass linting. Added a new screenshot to metadata Updated CHANGELOG.md
+- Version 2.0! Added select-tab.tsx, a new command that allows the user to select a CopyQ tab. Completely reworked how clipboard contents are grabbed, resulting in a much faster loading time. With the rework of how clipboard contents are grabbed, preferences have been changed to allow the user to select how many clipboard entries to load.
+
+* Update copyq-clipboard-manager extension
+
+- Fixed portability issue with view-clipboard-entries command
+- Removed more files from cache
+- Added code-workspace to gitignore
+- Stop tracking node_modules folder
+
+* Update copyq-clipboard-manager extension
+
+- Changed pictures for metadata
+- Ran linter on 2 files.
+- Restructured the code to use execSync instead of exec and states. Improved the speed of getting clipboard entries. Changed clipboard view to display items and markdown simultaneously. Fixed error handling for CopyQ not found and server not running.
+
+* Update copyq-clipboard-manager extension
+
+- Ran linter on view-clipboard-entries.tsx
+- Fixed clipboard entries not parsing correctly.
+
+* Update package.json
+
+* Update CHANGELOG.md and optimise images
+
+---------
+
+Co-authored-by: Per Nielsen Tikær &lt;per@raycast.com&gt;
+Co-authored-by: raycastbot &lt;bot@raycast.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2efdf68</div>
+                                        <div class="message">Raycast Explorer: Fix importing prompts in Raycast</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6bea94</div>
+                                        <div class="message">Update CODEOWNERs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bba88f</div>
+                                        <div class="message">Add leafcast extension (#9418)
+
+* Add leafcast extension
+
+- Minor tweaks
+- HSL -&gt; HSV
+- Minor tweaks
+- tidy
+- Minor tweaks
+- Allows navigating to add color form from set color list item
+- simplify hsl string subtitle
+- tidy
+- Minor fix
+- Adds support for deleting single custom colors
+- Patches issue with grid props not updating
+- [wip] move custom color ux to grid
+- formatting
+- remove unused import
+- Slightly increase pairing timeout
+- Adds automatic device scanning, minor ux improvements
+- Finish implementing custom color adding
+- [wip] add option to persist colors
+- Supports setting panels to a custom color
+- Adds ability to add custom brightness values
+- Uses launchCommand instead of url
+- Removes old commands
+- Removes unused import
+- Updates categories
+- Make it actually good
+- Fix
+- Initial commit
+
+* Update package.json
+
+* Update leafcast extension
+
+- Adds missing action item icons
+- Pull contributions
+
+* Updated metadata images
+
+* Update CHANGELOG.md and optimise images
+
+---------
+
+Co-authored-by: Per Nielsen Tikær &lt;per@raycast.com&gt;
+Co-authored-by: raycastbot &lt;bot@raycast.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c153a50</div>
+                                        <div class="message">Update CODEOWNERs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3b2b63</div>
+                                        <div class="message">fix(dashlane-vault): prevent crash if List.Item has no title (#9536)
+
+* fix(dashlane-vault): prevent crash if item has no title
+
+* Update CHANGELOG.md
+
+---------
+
+Co-authored-by: Per Nielsen Tikær &lt;per@raycast.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#06e1065</div>
+                                        <div class="message">feat: notion tidyup (#9537)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#147a1bf</div>
+                                        <div class="message">Update CODEOWNERs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3938c68</div>
+                                        <div class="message">Update imessage-2fa extension (#9250)
+
+* Option to ignore "read" messages
+
+* Update CHANGELOG.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#565834f</div>
+                                        <div class="message">Update CODEOWNERs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6046b3</div>
+                                        <div class="message">feat(night-light): support custom path (#9421)
+
+* chore: update deps and config files
+
+* chore: not necessarily brew
+
+* feat: add pref for custom path
+
+use provided Preferences type
+switch to using `execSync`
+clean up toasts
+
+* chore: add changelog entry
+
+* chore: lint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae64f42</div>
+                                        <div class="message">Apple Reminders: Improve NLP (#9525)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#378f112</div>
+                                        <div class="message">OAuth: Add more error details when something goes wrong (#9524)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#06359e0</div>
+                                        <div class="message">[Notion] Open in notion alternate action (#9411)
+
+* feat: open in notion alternative action
+
+* docs: updated changelog
+
+* docs: typo in changelog
+
+* docs: typo in changelog
+
+* Update CHANGELOG.md
+
+* Update CHANGELOG.md
+
+* Update CHANGELOG.md
+
+* feat: used globe icon for browser open + tidy up
+
+* fix: handles cases when notion is not installed
+
+---------
+
+Co-authored-by: Thomas Lombart &lt;lombart.thomas@icloud.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#604b15f</div>
+                                        <div class="message">Update CODEOWNERs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e755564</div>
+                                        <div class="message">[Premier League] Fix extension issues (date time, player awards) (#9504)
+
+* Fix extension issues (date time, player awards)
+
+* fix: downgrade devtools</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d267956</div>
+                                        <div class="message">Update openai-gpt extension (#9479)
+
+* Update openai-gpt extension
+
+- add basepath support
+- Initial commit
+
+* Update README.md
+
+Add Preferences README
+
+* Update CHANGELOG.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d17c8c0</div>
+                                        <div class="message">Update bible versions (#9513)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -633,1938 +914,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">ext/exif</span>
-                                        in
-                                        <span class="repo">j3lte/raycast-extensions</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">j3lte/raycast-extensions</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4f9ccc3</div>
-                                        <div class="message">Update amazon-search extension (#9928)
-
-* Update amazon-search extension
-
-- Update CHANGELOG.md
-- Fix formatting
-- Add list section with suggestions count
-- Update metadata images
-- Merge branch \'raycast:main\' into main
-- Add sections to the \`Grid\` and \`List\` components
-- Update wordpress-plugins extension (#9845)
-- Update braid extension (#9905)
-- [Home Assistant] Add Companion App support (#9832)
-- Merge branch \'raycast:main\' into main
-- Update README.md
-- fix(dashlane-vault): add fallback for missing note title (#9870)
-- [Gmail] Fix possible crashes (#9889)
-- [Visual Studio Code] Fix crash when there is no metadata field in the extension manifest (#9888)
-- Extern/openvpn: fix osascript e (#9892)
-- Pins 1.6.0 (#9910)
-- Update find-address and find-cep components
-- Update README.md
-- Merge branch \'raycast:main\' into main
-- Add ViaCEP extension files
-- Linear: Add issue links (#9914)
-- Update browser-bookmarks extension (#9906)
-- fix: quicklink respect preference (#9857)
-- Update CODEOWNERs
-- Apple Reminders: Improve NLP for the end date of recurring reminders (#9605)
-- Add Mercado Libre extension files
-- Fixes a number of small problems reported by Raycast Issues (#9821)
-- Update CODEOWNERs
-- [Brave] Add Brave Beta and Nightly support  (#9604)
-- Update OOO messages (#9816)
-- Update CODEOWNERs
-- Add Do Not Disturb Extension (#9676)
-- Update CODEOWNERs
-- [Google chrome] fix window for history (#9793)
-- [Toolbox] Add Command to convert unix timestamp to date  (#9659)
-- Update CODEOWNERs
-- Apple Reminders: Add option to hide menu bar count when empty (#9790)
-- Update CODEOWNERs
-- Update jump extension (#9670)
-- Update raycast-ollama extension (#9794)
-- Fix Image Detail commant crashes in Docker extension (#9783)
-- Updated Splitwise extension (#9788)
-- Update CODEOWNERs
-- feat(gif-search): add infinite scroll (#9510)
-- Docs: update for the new API release
-- Update CODEOWNERs
-- GitHub: Add vercel preview url submenu to pull request (#9755)
-- feat(todoist): Add filter functionality for viewing filters and tasks (#9155)
-- [Laby.net] Fix loading bug (update to v3 api), upgrade dependencies (#9767)
-- fix(vault): copy token with oidc login (#9760)
-- Update mailsy extension (#9770)
-- Bug on timezone-converter when zonename might be undefined (#9772)
-- Apple Reminders: Create Reminder fixes (#9765)
-- Update file-manager extension (#9756)
-- Jira: Fix JQL reserved keyword bug (#9762)
-- Update CODEOWNERs
-- Browser Bookmarks: Add support for Sidekick browser (#9697)
-- Update CODEOWNERs
-- Add compressx extension (#9624)
-- Update mailsy extension (#9731)
-- Update waktu-solat extension (#9741)
-- Update dust-tt extension (#9749)
-- Update CODEOWNERs
-- Update package.json
-- CI: add changelog enforcer
-- CI: add changelog enforcer
-- Update ip-tools extension (#9709)
-- Update dust-tt extension (#9699)
-- Update CODEOWNERs
-- [bing-search] decode JSON as UTF-8 (#9660)
-- Improve Dub link list view (#9343)
-- Update CODEOWNERs
-- Add cloudflare-warp extension (#9371)
-- Update CODEOWNERs
-- Update work-time-countdown extension (#9457)
-- Docs: update for the new API release
-- [Arc] new tab enhancement and Release Notes / Boost Gallery Commands (#9580)
-- Update CODEOWNERs
-- Add openai-speak extension (#9638)
-- Update CODEOWNERs
-- [Mail] New mark all as read command  (#9639)
-- [Height] Open List/Task in Height App (#9681)
-- [DayOne] improve the cli detection logic (#9662)
-- Update CODEOWNERs
-- Add openvpn extension (#9640)
-- Resolves an issue where only read messages are shown when  option is disabled (#9685)
-- Docs: update for the new API release
-- Docs: update for the new API release
-- Docs: Fix changelog typo.
-- Docs: update for the new API release
-- Update dependencies and add ability to open cards in Trello desktop (#9658)
-- Refactor Buildkite extension to use GraphQL codegen (#9655)
-- Update CODEOWNERs
-- Add text-differ extension (#9669)
-- Update CODEOWNERs
-- Update anonaddy extension (#9621)
-- Update CODEOWNERs
-- Add jetpack-commands extension (#9569)
-- Update unicode-symbols extension (#9667)
-- Update copyq-clipboard-manager extension (#9642)
-- Update CODEOWNERs
-- Add tleo19 as a contributor to package.json (#9656)
-- Trello extension add closed board toggle (#9622)
-- Update CODEOWNERs
-- [URL shortener] - Fix for 1 char domains (#9654)
-- Update CODEOWNERs
-- Add Amazon Search extension (#9516)
-- [Browser Bookmarks] Add support for Brave nightly (#9634)
-- Update CODEOWNERs
-- [Visual Studio Code Recent Projects] New Command for creating a new Visual Studio Code window  (#9628)
-- Add single-focus extension (#9617)
-- Update search-shopify-liquid-documentation extension (#9646)
-- Update OK JSON extension (#9644)
-- zoom-meeting: Add toggle for mute and video (#9647)
-- Update CODEOWNERs
-- Update unicode-symbols extension (#9506)
-- Update bilibili extension (#9603)
-- Update CODEOWNERs
-- Add exif extension (#9598)
-- Update CODEOWNERs
-- Delete .github/workflows/changelog.yml
-- [Toolbox] Add more commands (#9553)
-- Update CODEOWNERs
-- Update library-genesis extension (#9549)
-- Update CODEOWNERs
-- feat(open-graph): add copy actions (#9635)
-- Create changelog.yml
-- Delete .github/workflows/changelog.yml
-- Update mute-microphone extension (#9620)
-- feat(visual-studio-code): add actions to remove entries (#9573)
-- Update CODEOWNERs
-- Update CODEOWNERs
-- [Spotify Player] Improve Spotify Player extension (#9511)
-- Update google-chrome extension\'s tab search (#9577)
-- Update changelog.yml
-- Update tesla extension (#9633)
-- Update dust-tt extension (#9625)
-- Update changelog.yml
-- Update mound-for-pile extension (#9588)
-- Update changelog.yml
-- Update changelog.yml
-- Update dust-tt extension (#9610)
-- Update changelog.yml
-- Update changelog.yml
-- Update CODEOWNERs
-- Update Move Down keyboard shortcut in Soundboard (#9595)
-- Update changelog.yml
-- Update changelog.yml
-- Update changelog.yml
-- Create changelog.yml
-- Delete .github/workflows/changelog.yml
-- Create changelog.yml
-- Update CODEOWNERs
-- Update git-repos extension (#9527)
-- Update dust-tt extension (#9596)
-- Update omnivore extension (#9589)
-- [Ollama] Fix description typo (#9586)
-- Update CODEOWNERs
-- Add omnivore extension (#9266)
-- Update CODEOWNERs
-- [Arc] Allow user to be redirected when opening a new Incognito Window  (#9554)
-- [Visual Studio Code] add \`closeOtherWindows\` control opens the remote project window. (#9499)
-- Update CODEOWNERs
-- Update open-with-app extension (#9519)
-- Improve Dub link shortening text and feedback (#9562)
-- Update CODEOWNERs
-- Add dust-tt extension (#9518)
-- Update shortcuts-search extension (#9560)
-- Update CODEOWNERs
-- Add url-unshortener extension (#9388)
-- Update CODEOWNERs
-- [1password] Add Copy one-time password action (#9500)
-- Update CODEOWNERs
-- Update tmdb extension (#9508)
-- Update CODEOWNERs
-- Add ghost-docs extension (#9490)
-- [inFakt] Add shortcut to send via mail (#9496)
-- Update cal-com-share-meeting-links extension (#9535)
-- Update CODEOWNERs
-- Update copyq-clipboard-manager extension (#9320)
-- Raycast Explorer: Fix importing prompts in Raycast
-- Update CODEOWNERs
-- Add leafcast extension (#9418)
-- Update CODEOWNERs
-- fix(dashlane-vault): prevent crash if List.Item has no title (#9536)
-- feat: notion tidyup (#9537)
-- Update CODEOWNERs
-- Update imessage-2fa extension (#9250)
-- Update CODEOWNERs
-- feat(night-light): support custom path (#9421)
-- Apple Reminders: Improve NLP (#9525)
-- OAuth: Add more error details when something goes wrong (#9524)
-- [Notion] Open in notion alternate action (#9411)
-- Update CODEOWNERs
-- [Premier League] Fix extension issues (date time, player awards) (#9504)
-- Update openai-gpt extension (#9479)
-- Update bible versions (#9513)
-- Ext/nba viewer - Add livescore to the Schedule view (#9472)
-- feat(empty-screenshots): add error handling for permissions (#9452)
-- [inFakt] Invoice Details View (#9489)
-- Update reclaim-ai extension with bug fixes (#9464)
-- Update file-manager extension (#9493)
-- Update CODEOWNERs
-- feat(karabiner-profile-switcher): add current profile command (#9291)
-- Apple Reminders: Fix display of list items
-- [Toothpick] Favorite device disconnect commands (#9478)
-- Update raycast-ollama extension (#9473)
-- Color Picker: Use Raycast Swift Macro (#9474)
-- Update tempmail extension (#9462)
-- Update CODEOWNERs
-- Update jwt-decoder extension (#9442)
-- Update CODEOWNERs
-- Open Camera from Menu Bar (#9460)
-- Update CODEOWNERs
-- [Ask Perplexity] Improve fallback behavior (#9461)
-- Add code-saver extension (#9340)
-- Update CODEOWNERs
-- Update 0x0 extension (#9466)
-- [Bitwarden] Improve error handling and try to fix not logged in errors (#9470)
-- Add changelog for 1.63.0
-- Docs: update for the new API release
-- Update CODEOWNERs
-- Add save-to-cubox extension (#9415)
-- Update CODEOWNERs
-- Update pipedrive extension (#9231)
-- Update CODEOWNERs
-- Add Adaptive to Noise Control and Conversation Awareness toggle. (#9436)
-- check for optional status if no user is involved (#9456)
-- fix(visual-studio-code): set terminal app preference required (#9448)
-- [pipe-commands]: add remove smart quotes (#9433)
-- Update CODEOWNERs
-- Add DirectAdmin Reseller extension (#9405)
-- Update CODEOWNERs
-- Add whoop extension (#9393)
-- Update rocket-chat extension (#9445)
-- Update Anybox extension (#9435)
-- Update feishu-document-creator extension (#9441)
-- Update CODEOWNERs
-- Update CODEOWNERs
-- feat(visual-studio-code): add open in terminal action (#9443)
-- Add Fast Chat Extension (#9205)
-- [FIXED] VPN not starting via scutil with too long a name. (#9440)
-- Update CODEOWNERs
-- Update vat-calculator extension (#9425)
-- Add mound-for-pile extension (#9351)
-- Update CODEOWNERs
-- Add rocket-chat extension (#9347)
-- Update CODEOWNERs
-- Updating RescueTime with more commands to extend functionality (#9423)
-- feat(change-case): manual refresh (#9432)
-- Docs: Update docs on AI models
-- Update CODEOWNERs
-- GCP search allows searching by project-id (#9372)
-- feat(apple-reminders): add list filtering to menu bar command (#9413)
-- fix(ticktick): lexical error on task item action (#9426)
-- Update CODEOWNERs
-- Browser Bookmarks: Add support for Firefox Developer Edition (#9385)
-- fix(coffee): status command flashing when re-caffeinating (#9419)
-- Update CODEOWNERs
-- Add play liked songs options (#8616)
-- Revert "CI: update the context for PRBot"
-- CI: update the context for PRBot
-- [search-npm] Add new item that links to search results page (#9341)
-- Update CODEOWNERs
-- Add raycast-nrm extension (#9311)
-- Bot: Check if there are no changed extensions
-- Bot: Add some logs
-- Update CODEOWNERs
-- Add feishu-document-creator extension (#9335)
-- Bot: remove logs
-- Bot: Fix typo
-- Bots: Add some logs
-- Bot: No need to checkout the repo in PR bot
-- Update CODEOWNERs
-- Update PIA controls (#9375)
-- Update vscode-project-manager extension : Add Cursor support (#9392)
-- Arxiv: Use deep import to reduce build size. (#9389)
-- Apple Reminders: Add support for drafts + bug fix (#9402)
-- Simple Reminder: Use deep import to reduce build size. (#9394)
-- Docs: update for the new API release
-- FIXED: the problem of long names (#9382)
-- Bots: Use export default
-- Reclaim.ai: Refactor Data Fetching with useFetch Hook for faster FCP (#9345)
-- fix(dashlane-vault): use adjustable cli path (#9377)
-- Update ip-geolocation extension (#9365)
-- Update CODEOWNERs
-- Add 0x0 extension (#8970)
-- Update CODEOWNERs
-- feat(deepcast): add missing features to the index command (#9083)
-- [ssh-manager] Support remote command in ssh config (#9074)
-- Update CODEOWNERs
-- Add rapidcap extension (#9133)
-- Update CODEOWNERs
-- Add sensible extension (#9252)
-- Update CODEOWNERs
-- Add search-shopify-liquid-documentation extension (#8873)
-- Updated Cider extension (#9363)
-- Update CODEOWNERs
-- Add zipper-run extension (#9125)
-- Update hetzner extension (#9358)
-- Update zotero extension (#9344)
-- Update CODEOWNERs
-- feat(todo list): unpin command shortcut inconsistence &amp; clear completed todos (#9215)
-- Reclaim-ai: Fix join-meeting url &amp; next event display in menubar (#9148)
-- [Lorem Ipsum] add a new command based on ai (#9177)
-- Update CODEOWNERs
-- Add private internet access extension (#9315)
-- Update CODEOWNERs
-- Add ipapi.is extension (#9308)
-- Update descriptions of the actions with WhiteBIT code (#9304)
-- Update CODEOWNERs
-- Update cypress-docs.tsx (#9299)
-- Add Dub.co link shortener (#9274)
-- Browser Bookmarks: Bug fixes (#9338)
-- Update CODEOWNERs
-- Update color-picker extension (#9280)
-- Update CODEOWNERs
-- create extension for dayone (#9265)
-- Update CODEOWNERs
-- Add Cider extension (#9259)
-- Update CODEOWNERs
-- Add shortcuts-search extension (#9235)
-- Updated README.md (#9336)
-- [Hue] Fix ERR_INVALID_IP_ADDRESS (#9337)
-- Update CODEOWNERs
-- Update reclaim-ai extension with support for new prioritization features, bug fixes, and authorship. (#9302)
-- Update CODEOWNERs
-- Update ip-geolocation extension (#9283)
-- [Confluence] Fix issue causing People tab to error on opening (#9331)
-- Update tesla extension (#9327)
-- Fix "Maximum call stack size exceeded" error in the Tower ext. (#9326)
-- Update cleanshotx extension (#9293)
-- [Obsidian] ignore empty cache (#9324)
-- Update CODEOWNERs
-- feat(spotify-player): add more commands (#8217)
-- [Jira] Optimize Issue Creation for Large Issue Creation Metadata (#9330)
-- Update CODEOWNERs
-- [Jira] Add watching functionality to issue actions (#9319)
-- Update CODEOWNERs
-- check if current song has already been liked (#8863)
-- Docs: update for the new API release
-- Update CODEOWNERs
-- TMDb: Add myself to the contributors
-- TMDB: Many improvements (#9289)
-- Update hetzner extension (#9257)
-- Update CODEOWNERs
-- Add Conference preferences (#9165)
-- Update CODEOWNERs
-- Add repology-search extension (#9230)
-- Update CODEOWNERs
-- Add copyq-clipboard-manager extension (#9224)
-- feat(days-until-christmas): add status and menubar commands (#9272)
-- chore(ruler): fix typos (#9288)
-- Update CODEOWNERs
-- Update spotify-player extension (#9200)
-- Update CODEOWNERs
-- Update ffmpeg extension (#8847)
-- Update odesli extension (#9279)
-- feat: amazon-aws - make vault optional (#9276)
-- Update cloudinary extension (#9249)
-- [Google Translate] Added Copy Pronunciation keyboard shortcut (#9262)
-- Change supported models (#9271)
-- Add alternates to various extensions (#9267)
-- Migrations: Add migration for 1.62.0
-- Docs: update for the new API release
-- Update README.md
-- Update CODEOWNERs
-- Update google-fonts extension (#9254)
-- Update CODEOWNERs
-- Add outline-page extension (#8925)
-- Update CODEOWNERs
-- Ext/material icons (#8793)
-- Update CODEOWNERs
-- Slack Status: Add OAuth + AI (#8389)
-- Update CODEOWNERs
-- Update list-keyboard-maestro-macros extension (#9013)
-- Update CODEOWNERs
-- feat(coffee): status command (#9210)
-- Update CODEOWNERs
-- Add hetzner extension (#9179)
-- chore(cratecast): add keywords (#9196)
-- Add \`Default Title\` preference (#9238)
-- chore(change-case): add keywords and update deps (#9232)
-- feat(tailscale): add status command (#9186)
-- Update CODEOWNERs
-- Add finderutils extension (#9163)
-- Update CODEOWNERs
-- Update github-gist extension (#9190)
-- fix(dashlane-vault): img src in README.md (#9228)
-- fix(tim): resolve issues with tasks lacking tags and openActiveRecord without active record (#9229)
-- Update CODEOWNERs
-- Add perplexity extension (#9106)
-- Update cratecast extension (#8871)
-- [Update][Easy New File] Optimize file operation (#9173)
-- Update Porkbun extension (#9207)
-- Update CODEOWNERs
-- Add Dashlane Vault extension (#9144)
-- Update CODEOWNERs
-- Add open-graph extension (#9128)
-- Update CODEOWNERs
-- Update easy-ocr extension: Add different languages support (#9156)
-- Reclaim.ai: bug: create task should use the default task visibility rather than specifying always private. (#9218)
-- fix(notion): error when opening page created from form (#9182)
-- Apple Reminders: Fix bugs (#9222)
-- Update CODEOWNERs
-- Update shadcn-ui extension (#9209)
-- Update hud.md (#9211)
-- Update CODEOWNERs
-- feat(kill-process): allow killing multiple processes (#9185)
-- CI: use v1.14.0
-- CI: checkout sparse for utils
-- Update teleport extension (#9130)
-- Single Disk Eject: Fixed a bug when attempting to eject a disk in use (#9189)
-- [Espanso]: Add ability to display match labels to Search Matches command (#9101)
-- Update spotify-player extension (#9175)
-- Tools: Revert tagging latest merged commit
-- Tools: Tag the latest merged commit
-- [Bugfix][Text Shortcuts] Fix tag color display issue (#9171)
-- [Update][Text Shortcuts] Sort by Frequency of Use (#9167)
-- Update CODEOWNERs
-- fix: log message field nullable (#9159)
-- Update package.json to remove Hugivar from contributors (#9164)
-- Docs: update for the new API release
-- Update tyme-3-time-tracker extension (#9138)
-- fix: incorrect \`.dismiss\` path leading to perpetually ringing timer (#9149)
-- Update CODEOWNERs
-- Update linkding extension (#9129)
-- Update raycast2github.json
-- Update reclaim-ai extension with support for new scheduling link share times feature. (#9095)
-- Update CODEOWNERs
-- Add dynamic-font-size extension (#9092)
-- Update reclaim-ai extension (#9052)
-- feat: fix dismiss cmd, add "Stop Running Timer" cmd, screenshot update (#9116)
-- Bug fixes (#9126)
-- Bot: Add some more logs
-- Battery Menu Bar: Fix crash due to stale cache data. (#9123)
-- GitHub: Search repositories improvements + Fixes (#9094)
-- Update CODEOWNERs
-- Cilium-docs: Add extension (#9091)
-- Update CODEOWNERs
-- Update append-clipboard extension (#9103)
-- Update CODEOWNERs
-- Add the-matrix-of-destiny extension (#8915)
-- Docs: Update the utils docs
-- Update CODEOWNERs
-- reclaim-ai: minor update to filters (#9071)
-- Update CODEOWNERs
-- [LastPass] Fir e.error.includes error from email sub (#9119)
-- Update github extension (#8967)
-- Fall back to empty string for bookmark title (#9096)
-- Update CODEOWNERs
-- Add time-logger extension (#9069)
-- [idonthavespotify] fix: typo Hardcoded API URL (#9120)
-- Fix read properties of undefined (#9117)
-- Update CODEOWNERs
-- Add HTTP.cat extension for visual HTTP status codes with fancy cats 🐈‍⬛🐈 (#9065)
-- [Obsidian] Add content template support (#9107)
-- Update raycast-ollama extension (#9108)
-- Update teleport extension (#9098)
-- Update CODEOWNERs
-- Add CyberPanel extension (#8996)
-- feat(vault): add oidc login method (#9090)
-- [Multilinks] Fix browser dropdown state issue (#9102)
-- Docs: update for the new API release
-- Update CODEOWNERs
-- Add sitespeakai extension (#9036)
-- Update CODEOWNERs
-- Add digitalocean extension (#8909)
-- Apple Reminders: Add support for today and scheduled views (#9087)
-- Update raycast2github.json
-- [Update] [Open Link in Specific Browser] New setting item: Hide all apps (#9078)
-- Apple Reminders: Remove Beta
-- Docs: update for the new API release
-- Update CODEOWNERs
-- Add odesli extension (#9033)
-- Update CODEOWNERs
-- Add vat-calculator extension (#9032)
-- Update CODEOWNERs
-- Add easy-ocr extension (#8903)
-- Update mynaui-icons extension (#9060)
-- [Installed Extension] Various enhancements (#9061)
-- Docs: Update the utils docs
-- Update CODEOWNERs
-- Add teleport extension (#8956)
-- Update bilibili extension (#9015)
-- Fix improvmx extension to use a CSPRNG for password generation (#9046)
-- Update CODEOWNERs
-- Update heroicons extension (#9048)
-- [LastPass] fix RegExp errors for special characters in password (#9045)
-- Update CODEOWNERs
-- Fix random-password-generator extension to use a CSPRNG for password generation (#9047)
-- fix typo in Tunnnelblick extension (#9049)
-- feat(installed-extensions): remove exec and clean up (#9053)
-- Pins 1.5.0 (#9055)
-- Docs: Remove abortable from useCachedPromise example
-- feat(toggle-desktop-visibility): support sonoma and add more commands (#8635)
-- Things: Minor improvements (#9042)
-- feat(todoist): Add command to open focused task directly (#8969)
-- Show crosshair cursor for better accuracy (#8713)
-- Update CODEOWNERs
-- Add twos extension (#9002)
-- Update CODEOWNERs
-- Add metaphor extension (#8960)
-- Update CODEOWNERs
-- Fix passphrase-generator extension to use a CSPRNG (#9031)
-- Fix password-generator extension to use CSPRNG. (#9029)
-- Add user-agent extension (#8978)
-- Update toggle-menu-bar extension (#9028)
-- Update tints-and-shades extension (#9027)
-- Update Anybox extension (#9041)
-- [Simple Reminder]: fix word eating (#9026)
-- feat(deepcast): support arguments (depends on #8807) (#9008)
-- Update reclaim-ai extension (#9037)
-- Apple Reminders: Fix Invalid Time Value error
-- feat(deepcast): add default target language and support fallback text (#8807)
-- Update CODEOWNERs
-- Apple Reminders: Rename reminders to apple-reminders (#9025)
-- Update form.ts (#8975)
-- Fix NBA viewer starting season date for Standings view (#8973)
-- Update git-commands extension (#8953)
-- Update CODEOWNERs
-- Update wifi-share extension (#8527)
-- Update cobalt extension (#9021)
-- Update CODEOWNERs
-- Add mailtrap-subject-copier extension (#8819)
-- Update CODEOWNERs
-- [word-search] Capitalize output when search text is capitalize (#8705)
-- Update CODEOWNERs
-- Update battery-menubar extension (#8621)
-- Update Purelymail extension (#8971)
-- Update brave-search extension (#8966)
-- [Xcode] Maintenance Update (#9000)
-- Update uptime-kuma extension (#9004)
-- Improve YT extension error handling (#9007)
-- [Multilinks] Update browser list and Fix dropdown state issue (#9014)
-- Update CODEOWNERs
-- Add uptime-kuma extension (#8787)
-- Remove jq (#8993)
-- Update ngrok extension (#8998)
-- Fixes and Enhancements - Updated convert number to IP address - Add a new prompt icon color to display according to different states (#8989)
-- Filter items where title is missing (#8936)
-- Bots: Remove extra }
-- Bots: Remove extra }
-- Reward: add some logs
-- Reminders: Fix overdue on completed tasks and due dates grouping
-- Bots: Consistent PR and Issue label
-- [Mozilla Firefox] Add nightly support as fallback (#8543)
-- Corrected typo (#8968)
-- Update CODEOWNERs
-- Transfer Whitebit to Organisation (#8962)
-- Update CODEOWNERs
-- WhiteBIT Exchange Extension (#8647)
-- Update CODEOWNERs
-- add NuGet release channel to NuGet Extension (#8791)
-- Update CODEOWNERs
-- Update search-astro-docs extension (#8881)
-- Update (#8954)
-- Fixed typo (#8952)
-- Browser Bookmarks: Add "Open Browser\'s Bookmark" preference (#8951)
-- Update CODEOWNERs
-- Add saved-items extension (#8774)
-- Update CODEOWNERs
-- Update soundboard extension (#8942)
-- feat: Adds multiple new commands (#8946)
-- Reminders: Overdue fix for full-day dates
-- Update CODEOWNERs
-- Update envato extension (#8770)
-- Update CODEOWNERs
-- Update reclaim-ai extension with support for new prioritization features, bug fixes, and authorship. (#8926)
-- Update CODEOWNERs
-- Update brave-search extension (#8911)
-- Apple Reminders: Recurring reminders and better group by due dates
-- 【KeePassXC】Fixed a logic bug (#8934)
-- fix: handle another pipe-command selection error (#8839)
-- build: update pipe-commands npm packages (#8840)
-- Update (#8929)
-- Update CODEOWNERs
-- [Flight Miles Calculator] feat: copy result to clipboard (#8931)
-- Updated DR news extension
-- Update package.json
-- Update CODEOWNERs
-- Add zoom-control extension to control zoom meetings (#8817)
-- Update CODEOWNERs
-- Add ip-tools extension (#8919)
-- Update CODEOWNERs
-- feat(scaleway): add block storage product entry (#8920)
-- Add dr extension (#8883)
-- feat(notion): fix various misc bugs (#8340)
-- update ScreenOCR (#8927)
-- Update CODEOWNERs
-- [GitHub] Various search usability improvements (#8786)
-- Bug fix, should resolve #8887 with fallback. (#8905)
-- feat(bookmarks): open the browser where the bookmark came from (#8798)
-- Update CODEOWNERs
-- GitHub: Add "Clone and Open" action
-- Update CODEOWNERs
-- Add anycoffee extension (#8890)
-- Update CODEOWNERs
-- Add simpletexocr extension (#8500)
-- Update CODEOWNERs
-- Update douban extension (#8590)
-- Todoist: Update quick add placeholder
-- Update CODEOWNERs
-- [GitLab] Fix possible crash on empty title in a todo (#8896)
-- [Val Town] Add val town (#8820)
-- Allow multiple, comma separated tabs to be opened in Arc (#8830)
-- Update raycast-ollama extension (#8892)
-- Update CODEOWNERs
-- [pipe-commands] fix: improve placeholder text UX (#8842)
-- Update CODEOWNERs
-- [Gmail] Fix OAuth refresh errors (#8902)
-- Deeplinks Support (#8907)
-- Update CODEOWNERs
-- Quicklinks and CUID support for Random Data Generator (#8898)
-- chore: add my missing contributions (#8913)
-- Update CODEOWNERs
-- [Quest] quest is now called checklist (#8486)
-- [KeepassXC] Optimize performance &amp; Add Open URL Action (#8891)
-- [idonthavespotify] feature: API schema updates (#8880)
-- Update CODEOWNERs
-- Update git-repos extension (#8874)
-- Update CODEOWNERs
-- Add Apple Reminders extension (#8878)
-- Update CODEOWNERs
-- Create UTM campaign builder extension (#8814)
-- feat(change-case): use ESM (#8867)
-- [LastPass] Fix misleading action message (#8868)
-- Update CODEOWNERs
-- Update whois extension (#8853)
-- Fix: Catch error thrown when dispatch is undefined (#8861)
-- Docs: update for the new API release
-- Update dependencies of templates
-- CI: Build extensions on macos
-- Update CODEOWNERs
-- Browser Bookmarks: Always sort the bookmarks by their frecency
-- Add installed-extensions extension (#8783)
-- Migration: Add migration for 1.60.0
-- Docs: update for the new API release
-- Update CODEOWNERs
-- Add search-astro-docs extension (#8708)
-- Update CODEOWNERs
-- Add Zipcodebase extension (#8726)
-- Update CODEOWNERs
-- Add fotmob extension (#8664)
-- Feature/hue add plug icon (#8851)
-- feat: year progress add copy to clipboard (#8849)
-- [Music]: Added macOS version checks (#8782)
-- [Git Repos] Bug fix, resolves #8829 (#8834)
-- [pipe-commands] feat: add tab to newline command (#8843)
-- Update CODEOWNERs
-- Initial Commit (#8765)
-- Update CODEOWNERs
-- feat(mute-microphone): toast implementation (#8697)
-- System Monitor: Improve performances
-- Update CODEOWNERs
-- [Flight Miles Calculator] new extension (#8739)
-- Update JustWatch API to use GraphQL instead of REST (#8825)
-- Update stablecog extension (#8828)
-- Update CODEOWNERs
-- Add tabnews extension (#8700)
-- Update CODEOWNERs
-- Update android extension (#8766)
-- Update CODEOWNERs
-- Update CODEOWNERs
-- Add stardew-valley-wiki extension (#8744)
-- Update material-icons extension (#8761)
-- Update CODEOWNERs
-- Add jalali-date-convertor extension (#8727)
-- [Wayback Machine] Add multi URL support (#8730)
-- Update CODEOWNERs
-- feat(change-case): support unicode stuff (#8668)
-- Update CODEOWNERs
-- Add prisma-cli-commands extension (#8564)
-- [Update] [World Clock] Add memo icon (#8587)
-- Add display-modes extension (#8553)
-- Update CODEOWNERs
-- Add commit-message-generator extension (#8555)
-- Update CODEOWNERs
-- Add tyme-3-time-tracker extension (#8499)
-- Update CODEOWNERs
-- feat(google-chrome-profiles): support quicklinks (#8508)
-- Add raycast-urbandictionary-word-of-the-day extension (#8410)
-- Update CODEOWNERs
-- feat: Mapped Galaxy Buds+ and some QoL changes (#8797)
-- Rename command (#8802)
-- Update conventional-commits extension (#8809)
-- Pocket extension improvements (#8811)
-- Update CODEOWNERs
-- Update tailwindcss extension (#8796)
-- [Weather] Fix area title when region is not present (#8808)
-- [Gitlab] Fix crashes (#8812)
-- Update CODEOWNERs
-- Add midjourney extension (#8719)
-- Update Anybox extension (#8725)
-- Update open-in-android-studio extension (#8785)
-- Update CODEOWNERs
-- Update http-status-codes extension (#8777)
-- Update reclaim-ai extension (#8714)
-- Update CODEOWNERs
-- [notion] Prefill \`Create Database Page\` with deeplinks (#8199)
-- Update CODEOWNERs
-- Add fluctuation extension (#8721)
-- Update CODEOWNERs
-- Add mynaui-icons extension (#8701)
-- Update CODEOWNERs
-- Update xcode extension (#8718)
-- Update CODEOWNERs
-- Update reclaim-ai extension (#8695)
-- Update CODEOWNERs
-- Update ligue-1 extension (#8653)
-- Update CODEOWNERs
-- Update waktu-solat extension (#8637)
-- Update CODEOWNERs
-- Update Apple Music extension for newly renamed "favorite" functionality (#8648)
-- search &amp; Filter improvements for Figma File search (#8644)
-- Fix useAuthorization (#8757)
-- Spotify Extension: support deeplink context (#8750)
-- Update CODEOWNERs
-- Update stablecog extension (#8749)
-- Update CODEOWNERs
-- Update Year In Progress extension (#8645)
-- Update CODEOWNERs
-- uuid-generator: support v7 uuids (#8643)
-- Update CODEOWNERs
-- Add network-menubar-monitor extension (#8623)
-- Update CODEOWNERs
-- Add china-ip-address extension (#8571)
-- Update CODEOWNERs
-- Temporary removed stablecog extension
-- Update CODEOWNERs
-- Add tabler extension (#8595)
-- Update CODEOWNERs
-- Add stablecog extension (#8565)
-- Update CODEOWNERs
-- Add search-joplin-notes extension (#8556)
-- [Update] [Copy Path] Copy the URL of  browser tab (#8737)
-- [Bugfix] [Network Speed] Fix no loading animation (#8589)
-- Update CODEOWNERs
-- feat(deepcast): more input and output options (#8683)
-- Update CODEOWNERs
-- Add papago-translate extension (#8435)
-- [Update] [Wi-Fi] Add new menubar command (#8593)
-- Update CODEOWNERs
-- Update warp extension (#8412)
-- Update CODEOWNERs
-- Update sips extension (#8549)
-- Update regex-repl extension (#8698)
-- Update fantastical extension (#8723)
-- fix(file-manager): tilde not at beginning of path (#8732)
-- [Obsidian] Sort search by last modified (#8735)
-- Jira: Improve Search Issues command (#8702)
-- Update CODEOWNERs
-- Jira: Add support for comments
-- Update CODEOWNERs
-- Add http-mime extension (#8537)
-- Toothpick: Mark  \`bluetoothBackend\` preference as optional. (#8688)
-- Update CODEOWNERs
-- Add phind-search extension (#8494)
-- Fix getFavicon docs typo (#8687)
-- [1Password] Use \`Clipboard.copy(..., {concealed: true})\` to copy a password (#8641)
-- Update CODEOWNERs
-- Add Thrasher Magazine extension (#8521)
-- Bible extension: Add options to disable references and copyright in the copied results (#8608)
-- [Update] [Social Network Trends] Minor Update (#8583)
-- [Xcode] Updated Swift Package types (#8663)
-- feat: match comments, generate seasons list dynamically (#8669)
-- Update CODEOWNERs
-- Add vmware-vcenter extension (#8477)
-- feat: (ohmyzsh git alias) imporve search #8478 &amp; upgrade api version (#8493)
-- feat(visual-studio-code-recent-projects): support cursor and vscodium properly (#8509)
-- Update commercequest extension (#8551)
-- Update CODEOWNERs
-- Update Tailscale extension (#8577)
-- Splitwise: Added new features (#8609)
-- [Home Assistant] New logo (#8626)
-- Update CODEOWNERs
-- Update ngrok extension (#8629)
-- Add braid extension (#8456)
-- Update hubspot extension (#8594)
-- [Toothpick] QoL &amp; Bose NCH 700 (#8612)
-- Update CODEOWNERs
-- Update spanish-tv-guide extension (#8654)
-- Update CODEOWNERs
-- Update owner
-- Update CODEOWNERs
-- Update keepassxc extension (#8373)
-- Update CODEOWNERs
-- Update CODEOWNERs
-- Add perchance-generator extension (#8206)
-- Update iterm extension (#8288)
-- Update mattermost extension (#8216)
-- Update spanish-tv-guide extension (#8650)
-- Update CODEOWNERs
-- Jira: Add a preference to order by favourite filters first
-- Add link to the GitHub token creation form (#8606)
-- fix menubar icons color (#8624)
-- GIF Search improvements (#8369)
-- Update CODEOWNERs
-- Add UniFi Extension (#7919)
-- Update CODEOWNERs
-- Update productlane extension (#8600)
-- [Update] [LookSee] Add support for fallback command (#8605)
-- Update CODEOWNERs
-- [gitignore] Fixes (#8625)
-- feat(Timers): stopwatch menu bar improvements, minor UX fixes (#8618)
-- GitHub: Fix menu bar commands icon colors
-- Update CODEOWNERs
-- Zoom: Update the icon
-- Update CODEOWNERs
-- feat(tailscale): add preferences for path and exec wrapper (#8287)
-- Update CODEOWNERs
-- Add looksee extension (#8463)
-- Obsidian: Filter out vault paths that don\'t actually exist. (#8524)
-- Update commercequest extension (#8535)
-- Update CODEOWNERs
-- Update CODEOWNERs
-- Update memos extension (#8518)
-- Update gitlab extension (#8487)
-- fix: railway search (#8484)
-- Update apple-devices extension (#8533)
-- Update imessage-2fa extension (#8542)
-- Bots: Use Bun for bots
-- Browser Bookmarks: Add support for Arc (#8497)
-- Update CODEOWNERs
-- Update notion extension (#8502)
-- Linear: Add team key as keyword in Create Issue
-- Update CODEOWNERs
-- Add groq-tools extension (#8448)
-- Update CODEOWNERs
-- Add commercequest extension (#8431)
-- Update CODEOWNERs
-- Update docsearch extension (#8427)
-- Update year-in-progress extension (#8430)
-- Update CODEOWNERs
-- Add WordPress Plugin Search extension (#8406)
-- Update CODEOWNERs
-- Update network-diagnostics extension (#8418)
-- Update CODEOWNERs
-- Add findnearby extension (#8385)
-- Update raycast2github.json
-- Update CODEOWNERs
-- Update windmill extension (#8364)
-- trimming the key and tokens to fix #8367 (#8368)
-- Update cidr extension (#8411)
-- Update open-in-android-studio extension (#8481)
-- Update CODEOWNERs
-- Create MBTA Tracker extension (#7820)
-- Update CODEOWNERs
-- Upgrade Tower extension by running migrations (#8402)
-- Update notion_researcher extension (#8490)
-- [cURL] Allow custom header keys (#7591)
-- Migrations: Add migration for 1.59
-- Add changelog for 1.49.0
-- Docs: update for the new API release
-- Browser Bookmarks: Update empty state light icon
-- Update CODEOWNERs
-- Update word-count extension (#8351)
-- feat(cleanshotx): fix race condition (#8488)
-- Update fip extension (#8476)
-- [Gmail] Menu optimize (#8432)
-- Update bilibili extension (#8428)
-- Update grammari-x extension (#8421)
-- Update CODEOWNERs
-- Update Quick Latex extension (#8433)
-- Issue bot: Fix when extension cannot be found
-- Notion: Rework quick capture prompt
-- Update CODEOWNERs
-- Add wise-quotes extension (#7914)
-- Add list-randomizer extension (#7989)
-- Update ssh-manager extension (#7614)
-- Update CODEOWNERs
-- Change case multi lines (#7752)
-- Update CODEOWNERs
-- Adding new extension - Twitter Video Downloader (#8252)
-- Update metronome extension (#8133)
-- Update CODEOWNERs
-- Update CODEOWNERs
-- feat: add extract url from text (#8278)
-- Add battery-menubar extension (#7842)
-- Update CODEOWNERs
-- Update ai-gen extension (#7835)
-- jenkins: Allow HTTP Instances (#7697)
-- Todoist: Add duration support (#8474)
-- Update CODEOWNERs
-- Update CODEOWNERs
-- Update visual-studio-code extension (#8415)
-- [Improvement and BugFix] - 2023-09-18 (#8441)
-- Add quicklinks action chrome (#8440)
-- Added iPhone 15 Lineup (#8409)
-- Update wordreference extension (#8457)
-- Browser Bookmarks: Nice empty state icon
-- Update CODEOWNERs
-- Add tynyfy extension (#8226)
-- Update CODEOWNERs
-- Browser Bookmarks: Update extension icon
-- Update CODEOWNERs
-- Fix Notifications Action title (#8392)
-- Update CODEOWNERs
-- Add screen-math extension (#7955)
-- Update CODEOWNERs
-- Bot: Fix matching extensions with the same name
-- Update CODEOWNERs
-- Update CODEOWNERs
-- Add vatlayer extension (#8332)
-- Update warp extension (#8246)
-- Color picker maintenance (#8370)
-- Update CODEOWNERs
-- Update monobank extension (#8380)
-- Update screenshot extension (#8303)
-- [OpenAI Translator] Toggle metadata visiability (#8388)
-- Update CODEOWNERs
-- Add ngrok extension (#8320)
-- Update CODEOWNERs
-- [New Extension] Quick Web (#8312)
-- Update CODEOWNERs
-- Add developer-excuses extension (#8301)
-- Docs: Update the utils docs
-- Update CODEOWNERs
-- Add ingredients-lister extension (#8245)
-- Update CODEOWNERs
-- Update bitwarden extension (#8276)
-- Update package.json (#8379)
-- Update toggle-menu-bar extension (#8376)
-- Docs: update for the new API release
-- GitHub: fix lint
-- Github: Update proxy URL
-- Asana: Update proxy URL
-- Jira: Update proxy URL
-- Update CODEOWNERs
-- Add open-in-android-studio extension (#8270)
-- Update tesla extension (#8305)
-- feat(change-case): support quicklinks (#8280)
-- Update CODEOWNERs
-- Update conventional-commits extension (#8313)
-- Update CODEOWNERs
-- Arc extension: update readme and icon (#8361)
-- Revert "[Bitwarden] Download own CLI binary instead of requiring local installation (#8315)" (#8362)
-- Update CODEOWNERs
-- Add xcodes extension (#8268)
-- Update jetbrains extension (#8045)
-- Update CODEOWNERs
-- feat(cleanshotx): add more commands and args (#8254)
-- Update CODEOWNERs
-- Update README.md (#8350)
-- Update arc extension (#8327)
-- Openverse: Add action to report an image (#8298)
-- Fix missing popToRootType parameter name (#8329)
-- datetime-format-converter: add more formats (#8221)
-- Update grammari-x extension (#8341)
-- feat(file-manager): better symlinks (#8344)
-- Filamentphp doc search (#8321)
-- feat(orion): add profile support (#8285)
-- Update ffmpeg extension (#8308)
-- [Bitwarden] Download own CLI binary instead of requiring local installation (#8315)
-- Update imessage-2fa extension (#8336)
-- Update CODEOWNERs
-- Add wordreference extension (#7906)
-- fix: datetime-format-converter - hours were wrong (#8220)
-- Update CODEOWNERs
-- Update cal-com-share-meeting-links extension (#8317)
-- Update manga-calendar extension (#8302)
-- Update package.json (#8300)
-- [Pins] Subgroups, Sorting, Settings, Bug Fixes, and More (#8248)
-- Update Anybox extension (#8318)
-- [1-Click-Confetti] Add confetti with sound command (#8192)
-- Transfer Notion (#8330)
-- Update CODEOWNERs
-- Jira: Add authenticated image rendering
-- [Home Assistant] Fix possible crashes (#8310)
-- Update pick-your-wallpaper extension (#8262)
-- Improve TickTick plugin (#8275)
-- fixing non existing folder bug (#8297)
-- Update git-commands extension (#8186)
-- [LastPass] Add guard for password\'s special characters (#8255)
-- Update pubme extension (#8292)
-- feat(file-manager): support quicklinks (#8284)
-- Update remember-the-date extension (#8289)
-- Update CODEOWNERs
-- Update transform extension - Add JSON to string / String to JSON (#8231)
-- feat(brew-services): add more icons and fix logic (#8279)
-- Update aimlab extension (#8227)
-- Update CODEOWNERs
-- updates to file select and ffmpeg install tips (#8286)
-- Raycast Explorer: Format prompts
-- Linear: Update proxy URL
-- Update CODEOWNERs
-- Notion: Update proxy URL
-- feat: raycast v1.57 (#8194)
-- Update devonthink extension (#8212)
-- Update CODEOWNERs
-- Add ffmpeg extension (#8210)
-- Miro: Update proxy URL
-- Zoom: Update proxy URL
-- Update CODEOWNERs
-- Update raycast2github.json
-- Update CODEOWNERs
-- Add mailboxlayer extension (#8058)
--  Update reclaim-ai extension (#8203)
-- Update CODEOWNERs
-- Ref #8164 - Make user option optional in ssh-manager extension (#8165)
-- feat(notion): fix status, respect database names, delete database, colors (#8218)
-- Update CODEOWNERs
-- Search by project title and key case-insensitive (#7968)
-- Update CODEOWNERs
-- Add masked-link-generator extension (#8170)
-- Update CODEOWNERs
-- Updating tailwind version (Tailwind CSS extension) (#8184)
-- Update CODEOWNERs
-- Change owner (#8274)
-- Migrations: Bump to 1.58.0
-- Docs: update for the new API release
-- Extension fixes (#8261)
-- Things: Add "Quick Add To-Do" command (#8249)
-- Update CODEOWNERs
-- Update conventional-commits extension (#8172)
-- Add grammari-x extension (#8049)
-- fix: Pick up text 2FA as code (#8177)
-- [Statamic] Update search index (#8175)
-- [Hue] Update and bugfixes (#8154)
-- Update CODEOWNERs
-- Confluence (#8107)
-- Add Menu Bar Command to Port Manager Extension (#8000)
-- Update obsidian-smart-capture extension (#8179)
-- Hypersonic: Fix menu bar command background run crash. (#8195)
-- Update CODEOWNERs
-- Update producthunt extension (#8202)
-- fix: change to use bundleid filter app (#8236)
-- Update doccheck extension (#8238)
-- Added support for starring files and other grid view improvements (#8173)
-- Update HideMail extension (#8188)
-- Update charged extension (#8230)
-- Update CODEOWNERs
-- Update raycast2github.json
-- Update mute-microphone extension (#8213)
-- Add a preference to display CSS spacing units in pixels (#8211)
-- Add info about {PR_MERGE_DATE} placeholder in changelogs (#8228)
-- Update CODEOWNERs
-- Add text-format-improver extension (#8142)
-- Add "Copy Zero Width Space" Command (#8229)
-- [Toothpick] Updated to latest changes (#8193)
-- Update CHANGELOG.md
-- Update toggle-scroll-bars-visibility extension (#8214)
-- Fix Flow extension broken commands (#8205)
-- Add search in browser shortcut to Wikipedia extension (#8204)
-- Add trimming to YouTube Downloader (#8209)
-- Update CODEOWNERs
-- Update spotify-player extension (#8096)
-- Update CODEOWNERs
-- Add new prompts (#8169)
-- [Google Translate] Add pronunciation  (#8174)
-- fix: chatgo extension - Worker terminated due to reaching memory limit: JS heap out of memory (#7461)
-- Update notion_researcher extension (#8128)
-- Update CODEOWNERs
-- Add conventional-commits extension (#8115)
-- Update CODEOWNERs
-- Quantumcast: Remove extension. (#8166)
-- Update CODEOWNERs
-- Add system-information extension (#8111)
-- Update CODEOWNERs
-- Add dot-underscore-files-cleaner extension (#8156)
-- Update CODEOWNERs
-- Add markdown-table-generator extension (#8161)
-- Update extension Anybox (#8158)
-- Updated name
-- [Music]: Fixed \`start-playlist\` potential error (#8167)
-- fix: upload file error (#8157)
-- [Speedtest] Optimize (#8155)
-- Asana: Add more info about refresh token errors
-- Update CODEOWNERs
-- Update ssh-manager extension (#8149)
-- Transfer PostHog (#8152)
-- Update scrcpy extension: select previous used device automatically. (#8069)
-- Added new logo
-- Update tableplus extension (#8130)
-- [PromptLab] New placeholders, support for more browsers, bug fixes (#7964)
-- [Bitwarden Vault] Fix: Logout command error (#8136)
-- [Bitwarden Vault] README improvements and updated screenshots (#8137)
-- Update CODEOWNERs
-- Add  Growthbook Extension (#8078)
-- Update CODEOWNERs
-- Update mute-microphone extension (#8126)
-- Update CODEOWNERs
-- Update CODEOWNERs
-- Add phone-call extension (#7935)
-- Sort network services based on availability in the connect-to-vpn extension (#7004)
-- Update CODEOWNERs
-- Add notion_researcher extension (#8070)
-- Update CODEOWNERs
-- [espanso] add Toggle Espanso and Add Match commands (#7560)
-- Update CODEOWNERs
-- Add numpad extension (#7981)
-- Update ping extension (#8094)
-- Changed PurpleAir to use the EPA corrected air quality calculation (#8120)
-- Update CODEOWNERs
-- [iTerm] Fix: keep the same desktop focused when creating a new window (#8117)
-- Update tableplus extension (#8090)
-- Update CODEOWNERs
-- Update CODEOWNERs
-- Update speedtest extension (#8098)
-- Add minisim extension (#7978)
-- Update CODEOWNERs
-- Update word-count extension (#8038)
-- Update tip-calculator extension (#8061)
-- Update cloudinary extension (#8072)
-- Update CODEOWNERs
-- [Search npm Packages] Add shortcut to "npm Package Page" open in browser action (#8010)
-- Update toggle-scroll-bars-visibility extension (#8042)
-- Update schoology extension (#8073)
-- Docs: Update the utils docs
-- [Weather] Upgrade (#8106)
-- Update CODEOWNERs
-- Adds support for Cursor as an option in the extension settings (#8086)
-- [TickTick] Support complete task (#8110)
-- Update CODEOWNERs
-- Add ping extension (#8046)
-- Update CODEOWNERs
-- Remove empty contributors array
-- Update raycast2github.json
-- Docs: update for the new API release
-- Update CODEOWNERs
-- Add schoology extension (#8014)
-- Update CODEOWNERs
-- fix(gitmoji): change raycast reserved modifier keys (#8011)
-- [Gmail] Add label filter actions and dropdown (#7904)
-- Update CODEOWNERs
-- Add tesla extension (#8012)
-- Update CODEOWNERs
-- Add counter extension (#8005)
-- Update CODEOWNERs
-- Add raycast-svg64 extension (#8006)
-- Color Picker: remove unecessary types
-- Fix reward script
-- Update imessage-2fa extension (#7997)
-- Color Picker: Use generated preference types (#8055)
-- Debug reward script
-- Update CODEOWNERs
-- Add obsidian-smart-capture extension (#7982)
-- Linear: Fix "Workflow state not in same team as issue" error (#7993)
-- Update CODEOWNERs
-- Update CODEOWNERs
-- Add tip-calculator extension (#8023)
-- Add monobank extension (#7966)
-- ChatGPT: Catch authentication errors when listing models. (#8044)
-- Fix posting comment in reward script
-- Google Workspace: Don\'t append authuser when opening a folder (#8039)
-- Update CODEOWNERs
-- Add toggle-scroll-bars-visibility extension (#8017)
-- Add sat-scorer extension (#7987)
-- Update CODEOWNERs
-- feat: Updated Gitpod Extension for Raycast Public Store (#7952)
-- Update CODEOWNERs
-- Update CODEOWNERs
-- Add metronome extension (#8021)
-- Update CODEOWNERs
-- Add storybook-launcher extension (#7934)
-- Add url-shortener extension (#7897)
-- Update spoiler-converter extension (#8002)
-- Update CODEOWNERs
-- Bugfix/sequel ace (#7998)
-- Update git-commands extension (#8031)
-- [toggl-track] Create functionality for project tasks (#8018)
-- fix: shortcut for close tab doesn\'t work (#8016)
-- Fix reward script
-- Update CODEOWNERs
-- [Update] Menubar Weather (#8001)
-- [Update] Set Raycast Wallpaper (#8007)
-- feat(shadcn-ui): update documentation and readme (#8013)
-- CI: update checkout to v3 to remove node12 deprecation warnings
-- CI: update get-changed-files to v2.2.0 to remove node12 deprecation warnings
-- Things: Make "Show Lists Shortcuts" enabled by default
-- Update CODEOWNERs
-- Things: Big update (#7905)
-- Update CODEOWNERs
-- Remove \`Spotify Beta\` (#7990)
-- Docs: Update the utils docs
-- Update CODEOWNERs
-- Adding Milestones capabilities to Linear extension (#7887)
-- Added README
-- Update README.md
-- Color Picker: Don\'t await launchCommand Fix #7901
-- Add reward script
-- Update CODEOWNERs
-- Add spoiler-converter extension (#7921)
-- Update CODEOWNERs
-- Add manga-calendar extension (#7702)
-- Update CODEOWNERs
-- Add gyazo-uploader extension (#7915)
-- Replace manual token with configstore authentication (#7963)
-- [Google Translate] Fix autodetect language (#7965)
-- Update CODEOWNERs
-- Add git-commands extension (#7910)
-- Notion: Update screenshots and fixes (#7961)
-- Update CODEOWNERs
-- Add larajobs-search extension (#7903)
-- Update CODEOWNERs
-- Add sanity extension (#7882)
-- [amazon-aws] Fix region in secrets manager link (#7936)
-- Update CODEOWNERs
-- Add raycast-link-lock extension (#7894)
-- Update raycast-arcade extension (#7954)
-- Update CODEOWNERs
-- Update bitwarden extension (#7937)
-- [heroicons] Add actions to copy/paste import declaration (#7873)
-- fix missing hacs entities (#7945)
-- Update CODEOWNERs
-- Add texts extension (#7816)
-- [Xcode] Keep section order in "Search Recent Projects" (#7944)
-- Update raycast-ollama extension (#7940)
-- Update CODEOWNERs
-- Add Unkey extension (#7865)
-- Update README.md with Community Guidelines
-- [Update] IP Geolocation (#7931)
-- Update raycast-ollama extension (#7917)
-- Update CODEOWNERs
-- Add cinemas-nos extension (#7845)
-- Zotero/add more icons (#7913)
-- [Obsidian] Fix cache fallback value bug (#7920)
-- [Notion] Update Troubleshooting in README.md (#7907)
-- Update CODEOWNERs
-- [todo-list] Implement sorting (#7636)
-- Docs: update for the new API release
-- Update CODEOWNERs
-- Update music extension (#7892)
-- Update CODEOWNERs
-- Add raycast-arcade extension (#7701)
-- Update CODEOWNERs
-- Update ossinsight extension (#7880)
-- [Radix] Update Radix Primitives and added Radix Colors and Themes (#7879)
-- [Goodreads] Enrich book details page with ratings distribution and user ratings (#7899)
-- [pipe-commands] feat: add comma-separated conversion utils (#7750)
-- Update CODEOWNERs
-- Update whois extension (#7889)
-- Update CODEOWNERs
-- [Visual Studio Code] - Added check for path exists (#7857)
-- Update imessage-2fa extension (#7833)
-- Update CODEOWNERs
-- Update reclaim-ai extension (#7890)
-- Update CODEOWNERs
-- Update arc extension (#7874)
-- Update CODEOWNERs
-- Update papermatch extension - allow .heic images (#7877)
-- Update CODEOWNERs
-- Add GMail extension (#7747)
-- Update gitlab-docs extension (#7881)
-- Google Workspace: Fix link opening in wrong Google account (#7884)
-- Update CODEOWNERs
-- Update CODEOWNERs
-- Add type-the-alphabet extension (#7804)
-- Update pick-your-wallpaper extension (#7871)
-- Update ossinsight extension (#7878)
-- Update CODEOWNERs
-- Add runcloud extension (#7771)
-- Add formula to Notion extension
-- Update CODEOWNERs
-- Notion: Quick Capture + many improvements (#7491)
-- Docs: Update images to dark theme
-- Update virtualbox-power-switch extension (#7863)
-- add safe method for getting language flag (#7864)
-- Update CODEOWNERs
-- Added lantin (#7861)
-- [Height] Fix problem with showing tasks (#7860)
-- Add migration for 1.57.0
-- Docs: update for the new API release
-- Update CODEOWNERs
-- Update splitwise extension (#7830)
-- Update CODEOWNERs
-- Update roam-research extension (#7762)
-- [GitHub For Enterprise] update graphql-request to v6 (#7586)
-- Update CODEOWNERs
-- VirtualBox: Fixed missing comma
-- Add virtualbox-power-switch extension (#7850)
-- Update neodb extension (#7826)
-- [System Monitor] Added possibility to select active tab (#7828)
-- Update CODEOWNERs
-- New Extension: create-remix (#7801)
-- Update CODEOWNERs
-- Add raycast-wca extension (#7789)
-- Update CODEOWNERs
-- [GitLab] Fix dynamic color for Menu Bar command icons (#7837)
-- GitHub: Support all pull request templates (#7843)
-- [LastPass] Add ability to mask text from error message (#7841)
-- Updated README and minor fix (#7832)
-- Fix Apple Maps Search fallback command (#7836)
-- Sanitize file name for YT downloader extension (#7839)
-- [GitHub] TypeError: Cannot read properties of null (reading \'name\') (#7824)
-- Update CODEOWNERs
-- Add input-source-switcher extension (#7738)
-- updated README (#7823)
-- [Goodreads] Fixed the open in browser link on search page (#7814)
-- Update CODEOWNERs
-- Add music-timer extension (#7766)
-- Update extension Anybox (#7825)
-- Daily log ai summary (#7748)
-- Update file-manager extension (#7815)
-- Update CODEOWNERs
-- [Reclaim.ai extension] New command + MenuBar filter (#7783)
-- Update jetbrains extension (#7799)
-- Updated StackExchange search extension (#7780)
-- Update youtube-downloader extension (#7666)
-- [Music] Removed SFSymbols (#7803)
-- Update CODEOWNERs
-- Add Evan Zhou as Raycast Explorer contributors
-- Update CODEOWNERs
-- Update Gitfox extension (#7782)
-- Update CODEOWNERs
-- Add cobalt extension (#7741)
-- [GitHub] Fix missing repo name for non numberTag cases (#7788)
-- [Home Assistant] Add HACS updates (#7791)
-- Docs: update for the new API release
-- Docs: Add example about getting an application by its bundle id
-- Update CODEOWNERs
-- Add tints-and-shades extension (#7733)
-- Docs: update for the new API release
-- Update raycast-explorer extension (#7755)
-- fix(7714): add null check for title (#7777)
-- Update CODEOWNERs
-- Add Goodreads extension (#7687)
-- Update nodejs documentation link (#7774)
-- fix: Updating the image preview in the readme (#7775)
-- Spotify Controls: Check if app is installed (#7768)
-- Browser Bookmarks: Add support for Vivaldi, Edge Dev, Edge Canary (#7716)
-- Add auto description for pinboard (#7708)
-- [Home Assistant] Add Menu Commands + Refactor (#7706)
-- Update CODEOWNERs
-- Add Search GitHub Users extension (#7651)
-- Update naver-search extension (#7489)
-- Misc: Improve stability of type guards (#7765)
-- Fix missing \`/src/\` (#7700)
-- Update CODEOWNERs
-- Add raycast-ollama extension (#7692)
-- Update dockerhub extension (#7698)
-- Update CODEOWNERs
-- Add uptime extension (#7705)
-- Update CODEOWNERs
-- Add raycast-google-palm extension (#7681)
-- [nixpkgs-search] Fix url to search index (#7694)
-- [Bitwarden] Fix details view visible line break (#7757)
-- Update CODEOWNERs
-- Add random-text-picker extension (#7616)
-- Update CODEOWNERs
-- Update myanimelist-search extension (#7621)
-- Update qrcode-generator extension (#7478)
-- Update memos extension (#7686)
-- Update CODEOWNERs
-- Add rusbase extension (#7566)
-- Update CODEOWNERs
-- Add explain-command extension (#7680)
-- Update CODEOWNERs
-- Add PostHog extension (#7503)
-- Update CODEOWNERs
-- Add curto-io-url-shortener extension (#7677)
-- Update CODEOWNERs
-- Add cc0-lib extension (#7675)
-- [Obsidian] Apply template to appendtask command file name (#7743)
-- Update CODEOWNERs
-- Add mattermost extension (#7652)
-- Open google meet on non default browser (#7737)
-- [Image Modification] Create Images, Operate on Clipboard Contents, and other improvements (#7418)
-- Fix missing Toast import to AI API reference (#7736)
-- Spotify Player: Hide Icon when idle (#7735)
-- Update CODEOWNERs
-- Add jellyfin extension (#7496)
-- Update CODEOWNERs
-- Update pixabay extension (#7470)
-- Update Inspire HEP Search (#7673)
-- Update CODEOWNERs
-- Add decentraland extension (#7611)
-- fix: Google Meet copy url on different browsers (#7715)
-- [Xcode] Added Xcode 15 Beta icon (#7695)
-- Fix crash on Crunchbase extension #7640 (#7707)
-- [Zotero] fixes for case where pdf is not available (#7693)
-- Update spanish-tv-guide extension (#7723)
-- Update README.md (#7718)
-- Update README.md (#7719)
-- Update README.md (#7720)
-- Update README.md (#7721)
-- Add .HEIC Support to Pick Your Wallpaper (#7725)
-- Remove useless Todoist code
-- Add raycast-explorer to public extensions
-- Docs: update for the new API release
-- Update CODEOWNERs
-- Add techcrunch extension (#7562)
-- add Product Hunt badge in README.md (#7678)
-- Update xcode extension (#7647)
-- Update CODEOWNERs
-- Fixed typo (#7672)
-- Add migration for 1.56.0
-- Docs: update for the new API release
-- Update package.json (#7655)
-- Update README.md (#7656)
-- Claris snippets (#7663)
-- Update CODEOWNERs
-- Add waktu-solat extension (#7575)
-- Removed package-lock.json
-- Update CODEOWNERs
-- Add vc-ru-news extension (#7547)
-- Update zotero extension (#7593)
-- [Teziovsky/infakt] Refactor create/update invoice (#7649)
-- Update CODEOWNERs
-- Update youtrack extension (#7609)
-- Add spryker-docs extension (#7594)
-- Update CODEOWNERs
-- Add espn extension (#7550)
-- Update CODEOWNERs
-- Add sort-mentions extension (#7564)
-- Update CODEOWNERs
-- [GitHub Gist] Updates raycast API and prettier (#7589)
-- Update (#7653)
-- Reflect: Use native OAuth PKCE API from Reflect (#7583)
-- Update colorify extension (#7646)
-- Update CODEOWNERs
-- Add Mailwip extension (#7351)
-- Update microsoft-edge extension (#7526)
-- Update CODEOWNERs
-- Update raycast2github.json
-- [Update] Reclaim.ai keywords, readme.md (#7554)
-- Update CODEOWNERs
-- Update markdown-image-to-html extension (#7548)
-- Update CODEOWNERs
-- Add LogSnag extension (#7546)
-- Update xcode extension (#7613)
-- [Home Assistant] Modernize (#7549)
-- [Bugfix] Menubar  Weather (#7633)
-- Update to add new shadcn UI installation section docs (#7634)
-- Update "Remove Paywall" with a new command (#7630)
-- [LastPass] add ability to \`hide password\` in details view, to increase security (#7573)
-- Harvest (#7389)
-- Update CODEOWNERs
-- Update raycast2github.json
-- Update CODEOWNERs
-- Tunnelblick: Update Extension (#7499)
-- [Obsidian] Fix error on yaml object parsing (#7521)
-- Update CODEOWNERs
-- Add list command to fastmail-masked-email (#7493)
-- Update CODEOWNERs
-- Add inspire-search extension (#7513)
-- Add harpoon extension (#7365)
-- Update mui-documentation extension  (#7587)
-- Aleph Extension • Made errors more explanatory. (#7592)
-- Update CODEOWNERs
-- [Jira] Create Issue shortcut at the lists of issues (#7567)
-- Lark: remove tenant domain logic (#7585)
-- Update CODEOWNERs
-- [GitHub] Updates raycast API and prettier (#7588)
-- Update Anybox extension (#7540)
-- Update README.md in habr-media extension (#7590)
-- [PromptLab] Bug fixes + Custom Action Keybindings (#7622)
-- Update doccheck extension (#7598)
-- Update pubme extension (#7599)
-- Add HEX value as \`Search Colors\` keyword (#7610)
-- Sort tasks by due date (#7595)
-- Docs: Fix typo
-- Update CODEOWNERs
-- Add convert-px-to-vw-vh extension (#6628)
-- [youtrack] Plugin update (#7527)
-- Update CODEOWNERs
-- Add habr-media extension (#7533)
-- Update CODEOWNERs
-- Update remove-paywall extension (#7532)
-- Add cache support for beeminder extension (#7524)
-- feat: ULID support (#7518)
-- [Github For Enterprise] Dependencies (#7519)
-- Update CODEOWNERs
-- Add ulid extension (#7490)
-- Update CODEOWNERs
-- Add alacritty extension (#7486)
-- [UUID Generator] Dependencies (#7517)
-- Add Jira in public raycast extensions file
-- Bard: Add AI Chat feature (#7285)
-- GIF Search: Upgrade \`@raycast/api\` to latest version. (#7570)
-- Update CODEOWNERs
-- Add the-noble-quran extension (#7515)
-- Browser Bookmarks: Improve fuzzy search and show domain (#7565)
-- Hide remote branches (#7495)
-- [Update] Append Clipoboard (#7488)
-- Docs: Update the utils docs
-- Add browser bookmarks in public raycast extensions file
-- Handle authorize rejections for Google workspace
-- Update CODEOWNERs
-- feat: add \n between memo and tags (#7269)
-- Changes progress indicator from circle to extension icon (#7457)
-- add repo name to notifications menu (#7545)
-- Docs: Update the utils docs
-- [Update Extension] System Monitor: Fix CPU usage (#7476)
-- Download YouTube audios in MP3 format (#7484)
-- Update CODEOWNERs
-- Update visual-studio-code extension (#7480)
-- Update CODEOWNERs
-- [Bitwarden] Mark item as favorite &amp; Reorderable favorite section (#7392)
-- Add colorify extension (#7451)
-- Update CODEOWNERs
-- Add real-debrid-manager extension (#7438)
-- Update CODEOWNERs
-- [Update] Reclaim.ai extension updates (#7535)
-- [PromptLab] Version 1.1.0 (#7315)
-- Update CODEOWNERs
-- [New Extension] Media Key Emulate (#7394)
-- Update image-wallet extension (#7468)
-- Update CODEOWNERs
-- [iTerm] Split commands improvement (#7067)
-- Update Todoist deps
-- Update CODEOWNERs
-- Add Reclaim.ai extension (#7409)
-- Update CODEOWNERs
-- Add markdown-image-to-html extension (#7469)
-- Update CODEOWNERs
-- Add color-shades extension (#7424)
-- Update CODEOWNERs
-- add Vivaldi browser (#7459)
-- GitHub: Add Issues and Pull Requests menu command (#7454)
-- Update bear extension (#7449)
-- Gitlab: Optimize Activities + Menu Commands (#7408)
-- [YouTube] Add missing prettier dependency (#7497)
-- [YouTube] Update Readme (#7487)
-- Update CODEOWNERs
-- Add GetSound.ai extension (#7477)
-- Docs: update for the new API release
-- CI: fix passing of allowed extensions
-- feat(Bilibili): support notifications (#7387)
-- Update CODEOWNERs
-- Reflect: add timestamp format preference (#7456)
-- Update CODEOWNERs
-- Browser Bookmarks: Add support for Brave Beta and Chrome Dev
-- GitHub: Change "Review Requested" to "Review Required"
-- Update CODEOWNERs
-- Added option to hide time on Menu bar (#7458)
-- [Obsidian] Add {week} template placeholder (#7435)
-- Update CODEOWNERs
-- [Notion Search] Fix breaking change in api payload structure (#7442)
-- Home Assistant: Use correct agent on mixed urls (#7436)
-- Jisho: Pass user agent to comply with API changes. (#7466)
-- Update CODEOWNERs
-- Update menubar-weather extension (#7398)
-- Add remove-paywall extension (#6925)
-- Update CODEOWNERs
-- fix: fallback to clipboard when text cannot be extracted from running application (#7413)
-- Update numi extension (#7412)
-- Run Prettier on Wikipedia extension
-- Update CODEOWNERs
-- Update wikipedia extension (#7359)
-- Support custom \`ffmpeg\` path for \`YouTube Downloader\` extension (#7350)
-- gerrit-code-review: Fix Credentials Check (#7314)
-- Update CODEOWNERs
-- Add time traveling world clock extension (#7357)
-- Updated screenshots for new icon (#7427)
-- Warp: update icon (#7426)
-- Docs: update for the new API release
-- Spotify Player: Optimise API calls (#7423)
-- Update authy extension (#7381)
-- Update CODEOWNERs
-- Add worktrees extension (#6867)
-- Docs: update for the new API release
-- Changelog and migration for 1.55.0
-- Fix date format in CHANGELOG.md
-- Update CODEOWNERs
-- Add nippon colors extension (#7264)
-- Update CODEOWNERs
-- [toggl-track] Hide archived projects (#7377)
-- [Jira] Implements the possibility to type before loading credentials (#7382)
-- Updates to screenshots and description (#7407)
-- Encoding URL when searching on Ecosia (#7391)
-- Update CODEOWNERs
-- Add aimlab extension (#7332)
-- Update CODEOWNERs
-- GitLab: Add template choice for merge request creation (#7366)
-- [Liba.ro - URL Shortener] Auto-close window (#7130)
-- Update CODEOWNERs
-- Cosmic Bookmarks: Update broken links in README.md
-- TickTick: Add \`Inbox\` command and improve \`Search Tasks\` command  (#7367)
-- Update CODEOWNERs
-- Add Setapp extension (#7306)
-- [Audio Device]: Quicklink / Deeplink support (#7374)
-- Update CODEOWNERs
-- Add cosmic-bookmarks extension (#6910)
-- Update mastodon extension (#7376)
-- Update CODEOWNERs
-- Update deepcast extension (#7371)
-- Update CODEOWNERs
-- Add convert-typescript-to-javascript extension (#7279)
-- Update CODEOWNERs
-- Searchcaster extension update: add items to action panel (#7341)
-- Menubar Weather: Add UVI (#7349)
-- Updated extension description (#7379)
-- Terminal Finder: Fix typo
-- feat: add "Copy FA Class" action (#7283)
-- Update CODEOWNERs
-- Jira: Persist Active Sprint Project value when closing command (#7307)
-- Update keyboard-shortcut-sequences extension (#7275)
-- Update one-time-secret extension (#7310)
-- [Todoist] View menubar task in raycast command (#7012)
-- Update CODEOWNERs
-- Update json-format extension (#7272)
-- [Xcode] Add dropdown filtering to simulators list (#7322)
-- Updated Warp icon (#7337)
-- Update CODEOWNERs
-- Transfer Warp (#7333)
-- Hue: Fix connectivity bug (#7334)
-- Update CODEOWNERs
-- Official Warp Extension (#7323)
-- [Hue] 2.1 Update (#6006)
-- Update CODEOWNERs
-- Add priviliges extension (#5906)
-- Pinboard: Add ability to include description when adding a bookmark (#4859)
-- Update CODEOWNERs
-- Expand Search Arc suggestions to available engines (#6531)
-- Update CODEOWNERs
-- Add remember-this extension (#7270)
-- Update CODEOWNERs
-- [Night Light] Add preference setting to close Raycast window (#6499)
-- Year In Progress: Allow configuring &lt;anthing&gt; in progress (#4872)
-- Update CODEOWNERs
-- Add ruler extension (#7255)
-- Update kagi-fastgpt extension (#7313)
-- Bard: Upgrade Bard version to address API BC breaks. (#7320)
-- Update CHANGELOG.md
-- Update CODEOWNERs
-- open current dir in vscode directly (#7263)
-- Update CODEOWNERs
-- Add brawlstars extension (#7277)
-- Update CODEOWNERs
-- Add foundry-cast-cli extension (#6516)
-- Update mastodon extension (#7303)
-- Update CODEOWNERs
-- Add let-me-google-that extension (#7299)
-- Update CODEOWNERs
-- Add Resend extension (#7242)
-- Update CODEOWNERs
-- Add gg-deals extension (#7241)
-- Update CODEOWNERs
-- Add mastodon extension (#6479)
-- Update one-time-secret extension (#7293)
-- Browser Bookmarks: Add fuzzy search (#7290)
-- Update CODEOWNERs
-- [Github] Support re-run failed jobs in workflow (#7235)
-- [Visual Studio Code] Fix incorrect shceme for opening remote projects in insiders version (#7288)
-- Update CODEOWNERs
-- Update Bluesky Extension (#6835)
-- use nearest resolve url on http requests (#7271)
-- Update gerrit-code-review extension (#7284)
-- fix: display multiple highlights correctly (#7282)
-- Add additional contributors (#7248)
-- Update to cal.com extension logo (#7280)
-- Update CODEOWNERs
-- Add one-time-secret extension (#7223)
-- Docs: update for the new API release
-- get persistent notification via ws (#7260)
-- Handle pipelines and workflows (#7262)
-- Update charged extension (#7256)
-- Fix README.md missing images (#7257)
-- Portuguese Primeira Liga: Fixed standings bug
-- Update CODEOWNERs
-- Add Tailwind Size Conversion extension (#6911)
-- Update CODEOWNERs
-- Update trello extension (#7132)
-- Update to new shadcn UI version (#7243)
-- Update CODEOWNERs
-- Add obs-clippings extension (#6998)
-- CSS.GG - Add 6k glyphs and grid view with filtering (#7245)
-- Update CODEOWNERs
-- Add seedsnote extension (#7206)
-- Renamed readme.md to README.md (#7237)
-- Docs: update for the new API release
-- Rename readme.md to README.md
-- Update CODEOWNERs
-- Add Aleph Tools extention (#7185)
-- Update CODEOWNERs
-- Add bintools extension (#7159)
-- Update CODEOWNERs
-- [kill-process] feat: sort by memory &amp; aggregate apps (#6799)
-- [Raycast inFakt]: default send copy and update types of bank account (#7229)
-- Update CODEOWNERs
-- [New Extension] PromptLab (#5463)
-- added room search (#7219)
-- [Xcode] Create Swift Playground Bug Fix (#7225)
-- Transfer Putio (#7217)
-- Downloads Manager: Check permission (#7215)
-- Change language names to the names on Google Translate - Supplementary change (#7213)
-- Update laravel-tips extension (#7199)
-- Add "New" category
-- Change language names to the names on Google Translate (#6604)
-- Update CODEOWNERs
-- Add french-verb-conjugation extension (#6254)
-- Update doccheck extension (#6926)
-- Update pubme extension (#7163)
-- Fixing fallback search and adding throttle to improve responsiveness (#7155)
-- Update vuejobs extension (#7201)
-- Asana: Safer access to errors
-- Update CODEOWNERs
-- Spotify Player v2 (#7184)
-- Update CODEOWNERs
-- Add putio extension (#6936)
-- [keepassxc] Fix BUG (#7124)
-- Update CODEOWNERs
-- Update youtube extension (#7144)
-- Update CODEOWNERs
-- Add laravel-tips extension (#7038)
-- Update tmux-sessioner extension (#7196)
-- [openai-translator] add model \`gpt-3.5-turbo-0613\` (#7174)
-- Update CODEOWNERs
-- Add vuejobs extension (#7101)
-- Update CODEOWNERs
-- Update mail extension (#7108)
-- Update mute-microphone extension (#7121)
-- Update date converter (#7127)
-- Update CODEOWNERs
-- Update avatar extension (#7143)
-- Fixed prettier (#7194)
-- Add new features to JustWatch search (#7150)
-- Update howlongtobeat extension (#7180)
-- Update CODEOWNERs
-- An extension to quickly create latex for your documents (#7084)
-- [UTM Virtual Machines] fix: properly parse VM names with spaces (#7189)
-- [Pins] Bug fixes (#7193)
-- Fork Repositories: Update \`@raycast/api\` to latest version.
-- Browser Bookmarks: Update \`@raycast/api\` to latest version.
-- Dash: Update \`@raycast/api\` to latest version.
-- Asana: Update \`@raycast/api\` to latest version.
-- Update CODEOWNERs
-- [GitHub] Show Issue/PR number in Notification (#7181)
-- Update CODEOWNERs
-- Add neodb e…</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#444d617</div>
-                                        <div class="message">Update wordpress-plugins extension (#9845)
-
-* Update wordpress-plugins extension
-
-- Merge branch \'contributions/merge-1703316769936217000\'
-- Pull contributions
-- Add new command for copying Composer package name
-
-* Update changlog
-
-* Update changlog to include improvements
-
-* Update CHANGELOG.md
-
-* Update CHANGELOG.md and optimise images
-
----------
-
-Co-authored-by: Per Nielsen Tikær &lt;per@raycast.com&gt;
-Co-authored-by: raycastbot &lt;bot@raycast.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8596561</div>
-                                        <div class="message">Update braid extension (#9905)
-
-* Add braid extension
-
-- Remove console logs
-- Format
-
-* Remove icons from git ignore
-
-Add icons to repo
-
-* Update CHANGELOG.md
-
-* Update CHANGELOG.md and optimise images
-
-* Improve icon shortcuts
-
-* Update icon
-
-* Update changelog
-
-* Update README
-
-* Update CHANGELOG.md and optimise images
-
----------
-
-Co-authored-by: Per Nielsen Tikær &lt;per@raycast.com&gt;
-Co-authored-by: raycastbot &lt;bot@raycast.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5587ee</div>
-                                        <div class="message">[Home Assistant] Add Companion App support (#9832)
-
-* add navigation url support for companion app
-
-* add open in action
-
-* add preferred app preference
-
-* update icons for menubaritem component
-
-* update readme
-
-* upgrade to 1.62</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6404ef</div>
-                                        <div class="message">fix(dashlane-vault): add fallback for missing note title (#9870)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#826bf60</div>
-                                        <div class="message">[Gmail] Fix possible crashes (#9889)
-
-* show toast message not in background mode
-
-* catch exceptions in webmail and open in browser commands
-
-* upgrade to 1.62
-
-* use error instead of log</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0f0c1c</div>
-                                        <div class="message">[Visual Studio Code] Fix crash when there is no metadata field in the extension manifest (#9888)
-
-* fix crash when there is no metadata field in the extension manifest
-
-* fix ts issue
-
-* fix possible undefine terminalApp
-
-* Update index.tsx
-
----------
-
-Co-authored-by: Per Nielsen Tikær &lt;per@raycast.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f51f0a</div>
-                                        <div class="message">Extern/openvpn: fix osascript e (#9892)
-
-* fix changelog
-
-* Adjust readme
-
-* Improve error handling
-
-* remove yarn lock
-
-* update package-lock.json
-
-* fix lint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1da4d32</div>
-                                        <div class="message">Pins 1.6.0 (#9910)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f358c9f</div>
-                                        <div class="message">Linear: Add issue links (#9914)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82c7998</div>
-                                        <div class="message">Update browser-bookmarks extension (#9906)
-
-* Update browser-bookmarks extension
-
-- Updated @raycast/api to latest version
-- Initial commit
-
-* Update CHANGELOG.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#acc869e</div>
-                                        <div class="message">fix: quicklink respect preference (#9857)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80c0c6f</div>
-                                        <div class="message">Update CODEOWNERs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbebf15</div>
-                                        <div class="message">Apple Reminders: Improve NLP for the end date of recurring reminders (#9605)
-
-* Apple Reminders: Improve NLP for the end date of recurring reminders
-
-* fix: type issues
-
-* refactor: quick add reminder prompt and add type
-
-* refactor: add Frequency type
-
-* feat: improve nlp
-
-* fix: merge conflicts
-
----------
-
-Co-authored-by: Per Nielsen Tikær &lt;per@raycast.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jan 2024, 00:23:46  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jan 2024, 00:23:37  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
