@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1615" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1770" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.category,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.category{align-items:center;flex:1 1 0}.post{align-items:flex-start}.post .infos{display:flex;margin-bottom:4px}.post .infos .left{flex-shrink:0;font-size:12px;color:#666;width:72px;padding-top:1px;text-align:center}.post .infos .right{width:376px;padding-left:4px}.post .infos .description,.post .infos .title{font-size:14px;white-space:normal;overflow:hidden;text-overflow:ellipsis;max-height:38px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.post .infos .description{margin-top:3px;font-size:12px;max-height:48px;color:#666;-webkit-line-clamp:3}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.constant,.token.symbol{color:#b44418}.token.number,.token.regex,.token.string{color:#2777aa}.token.property{color:#48428a}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.repository,footer{display:flex;flex-direction:column}.repository{width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1188 Commits
+                            1189 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            60 Pull requests opened
+                            62 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            133 issue comments
+                            136 issue comments
                         </div>
                     </section>
                     <section>
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 112 users
+                            Following 113 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    8.17 GB used
+                                    8.21 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    234 views in last two weeks
+                                    264 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -630,6 +630,7 @@
                                 <g transform="translate(255, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -677,10 +678,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    112 followed
+                    113 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABggDBAcF/8QAKhAAAQMCBgEEAQUAAAAAAAAAAQIDBAURAAYHEiExURMUFUEjCDNxkaL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AO8uw38v0KoV2coumFFcfS2OOEIJsB9dYxWBptmTUN5qt1Rwlqoj3KpJV56Fv4/oYaiXFSmlyWiwXmy0sFnj8gt1456wu0OGIhajoemx34xMcht50FshGwR0AFsqIHQPf7iylsDeArLouaNHc8RE0SQXG55DDV+W3ibCxHXBODLMOeNUqJNRGqEGmIdU2FgXQeLkefIOOxlmhQKnn2jFgurjQlLkek88p1BIaRtcF/slYNz2LEAbrINtQKWiRWmlqTc+gkf6VgK1Z1lyvl6kNfKSHZNW2oDsKK3dxKyi/JNkgcj7wv9X1PFYrVTqrwMEyVbBFca9w2WrAAX4PYupFwhVhcL6xnEyQ/MqTzkt9x95473HXFXUs3+ziZtIUnkYDU8t6zPZWnpVT43yzMi7k5Ur8anF8W2qtcW57BuVE98k3c/UFQKihp6VQ6m0/sAWhsoWkHvhW5N+/AwuqUgL684pu2CzYAYD/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFBAj/xAAsEAACAQMCBAQGAwAAAAAAAAABAgMEBREAIQYSMUEHE4GRIjJRYXGxcqHR/8QAFwEBAAMAAAAAAAAAAAAAAAAABAADBf/EACARAAIBBAIDAQAAAAAAAAAAAAECAAMEBUERMRIhIiP/2gAMAwEAAhEDEQA/ABmyKxJ+EZJ9NVnw84fttbZoKmeNZDIgY5OfiwD+9hqU07xedH5wJi5hzAHqM7/1qoWJLbSWWmlp3lkMTmOAiTlDgN1AJALYB++nZ92Cqo6iMQgJY7hXxIsNLYrnSTUTmKGdijxkluckHB/P3+nXoNGCN+2lPF8dFJbqGVQ/nCVncGQPyuFI+pAO+ffRUnSsG7Gh7PR3KsogWt87mbV3Clok5qmoSPPQMdz6dT7ae+HFxkrOEEuNrMVYglkiqKOVyhRg2VZW3weUjOxB67b683uzTGSSZmkk7sxyT66oPgpcamj4huFHBJimqKRnkjO4LKRg/nc++g5OubhfHQksPyqciJbrfJbteqxJ1ihNK3lpBE/OEX+XckgnoP8AeYsc9vfQvjmaW3cWVEtHK8bsWLEH5sHuOmtqz3Cart0M8oUO4yeXIH71qYtg1IIo44hrwk1CxM//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEWUlEQVR4nKVWS4gcVRSt6m9N13RVd093fV7V+/VKcCEuXIigy9GNoKjgTtwoJEExC3eCK1duouuEBDWIo3HEqBmiRg3GD/EX/GEmicExmJAYoxnjODJymnebN0V1JqMFzdS8eveed8879+M4Gz/VVqt1e7/ffzbLsqNKqd+01mta61Wl1MUsyz7t9/vPtFqtWex1/sdTC4JgixDix+FwuEY/xtgRKeV5vCulrjDGPqRv2BuG4VbHceqbQmo0Gjfkef6lcXLCBkzT9KAQ4rQBvBxF0W77+3A4XMvz/Cv4uCYw3/fvhiMyTpLkVQvsDUTEOf8O/2utV6Io2oVDaK3/MWt/Yx0+4GtDMBjYp7UBoyjaicizLPvMgKwNBoOdURTtITsp5c+MsU8454tYmwgKCnAqCKEAOC+EOCWlXIJjzvlxxtgHg8FglzkE1r4FeJ7nn0spz+CeGWMHifYyeut5nh8zDp5XSl2yATnnP2RZ9jFj7LAQ4kySJAtRFD1n7usLIcQSKE3TdEFr/ZeU8gIB0p2uE1IQBFsRPkDjON4bx/HLFuBrOKUllEtxHO8TQpykPdgPoDRND9jispkCBuFVyRkM4zh+CQ5JBGmavmUbYj2KohcKyn2nBPBtew9SZpSnU1NTs1jgnH8PgUgpz4E6KeVZA7BO8iSM4poBOQA2OOcncYjid2A5MzMzO0xCv5skyX4Dvkh3CkDcTbvdfrBer19XrVZ7tVpN+r5/l2GiCHgB0cEfRU/fgeWgNBnAw0SJUmo5TdNDSqlznufdskEq3am1XiZFKqV+NYCHzDXtJUBgOZQGWZZ9hNMopf7QWl8BvWEYbqnVaqrZbN7Y7/d3XAX0HnKqlPrdAL5nAF+0ArnokDhQwhhj70PiEFGlUglsp67rNq8WaRzHcxboZTBmUuJokiT7SHDOcDikkrSCKoII4ziedzb5NJvNmwrC+sVKm1fGgEQp5/wElIk6CcH8l1YjhPipTL2U1yNKSTRIfCHEoqkci0hcz/NuLtDa8DzvVvS/brf7RAmt82WASZLMjUVDaWHu8TgEA94tapZQmhC11vpPUzUedl3XKwL2er2nJ0Q4N04LSnwDeMquoyaPFgzlKNCreMd9lVEahuEjJUXifJIkr48T3y5t4BhRFkrZijE8S53e9/17ywB937+vhM79CGJc2vAEQbDNinJdhzegyM1VMGAofagM0PO821B5pJRj8aRp+maxeK9rT8UIzWUfMYPTKIXCMHy0DLDRaFyPfajLZIseaVRfL2vAy/Ydcs6/Nn+/kVKOG3On09leBlitVpnZPxpBqExOnG+KIwapFZFRdCbCx8rsXdf1DUs080weMWxQnIoitOmhH8bHCeYu7hotDj42BCuMiccmiajdbj9QtKlUKr1Op/M4AGF7zWOi9dTDMNxGKWP/er3eU61W647p6en7u93uk+gO6PjYC5tND8KFB6P+LNoTSpMZ9Ud3ivfNjvr/AhOddvXxxaCuAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
@@ -704,7 +706,6 @@
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFCAT/xAAuEAACAQMDAQYEBwAAAAAAAAABAwIEBREAEiEGExQxQVFhBxWBoSIjMlJxkbH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAEDBf/EABwRAAICAwEBAAAAAAAAAAAAAAECABEDBBIxIf/aAAwDAQACEQMRAD8AFWxQp7Kp1XHtmNewRYTgiMJ4yT6+4+ulHTgWhRcWlUzHYrw5wPD/AH76wau5rX07a2sp1BlV3nOIkiB38c69lktNM1JqasrqlsTBS1NiSFkAgkc8eXOksoIa2gphOV6l4+HV2XR29kUDte1ZmUZTAnCXp76e0Nx7ygMbTyVPODHdGWPqNc6dLPbbAugnvdBRkFMlk/l5M8ZPjgH7aptkuNvdRbm08ZsEiJTM5x3H1xs1Xj2CvwmC1oanOHStjddr93OrkyFOtAaYq5OJ88ZyATnx1Sq7pv5XQqNqjAqWcSDWEz88HI48cf3oV8KGSmayomTJvbJTk/sweNVGnqmPfcadhHZwhxgc/p1olUagR7CVip6ExWWakpLNT3A1gpqkRYxycbwCIZJB8hjyPvzpZ090lSVtpS3IeOYhgMDkA+u7QiskWuQufMGJZuHr+Eae9EW2kV07TRKIM4yCwZI4HH8aT3tEORwakgA+z//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwQFAQII/8QAKBAAAgEDAgQGAwAAAAAAAAAAAQIRAAMEITEFEhNRIjJBYZHBgdHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOluI8Qay7WMa293K5Q4VYMAmJ1I+Km8Pt8dVXW41tUJlWaNBJ+oq0g6Nu9ElucmTrM/0fimJPL5hPeKCVjZ+UmcuNnY4UXDCXE2OlWKTyEF/GVrhHhIeV0jv69pptQFACiAKAUKbrqQDs2vx9UDrrPMFctMTBidtqZe2tzzCCNiNCK16B5g3WuSPZf1QYu6WChJMwpJ9zFHoNtAzEtLFdp9KNQf/9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYIA//EAC8QAAEDAwMCBQALAAAAAAAAAAECAwQABREGEjEhUQcTIkGRFBUWJENxgbGywdH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AAXwiXs8TNOK7S0mtHa2iaRkWWVPutq+kXbzE7HQU8khI5IHB/vmsxaGmm16rttxMZ+SiI55ym2EbllI7f7SPYrrqFWrIf2ihvog3F1EhpCTv2pRnCUgnaASMHIBz15qg+1nZ3YFwLyYqmI72FITgdOnHTvU+Y7gCSWzhQyPyzS54pXBhy8OBCwSVekdsZHH6Uc3KJJVJ9CUpASOgHHz80CrHb0JaVhdz0Tq6AQPxSD/ACSDSbZ9Y2KdYHX7XCurbLMf7s5NU2QdowClAwVAY9iOMAg1FXvxGvtntRMNbXmLbBDiy4Snnj1Y9/fNEGrdV3a5z30yZB2Fwr2pyBk9Sf3+aCmuUzS0Vx6Uv6xuN1MkqSC4Cy2kE5HdRyR1wAQKnpN6huvKcVGcyo5xuHSppb68c1yLis80H//Z" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -725,18 +726,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#11999 GitHub: Add support for projects</span>
+                                        <span class="issue">#11961 Add copilot-workspace extension</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by j3lte in <span class="repo">raycast/extensions</span></div>
-                                    <div class="comment">
-                                        <i>https://github.com/raycast/extensions/blob/ade7adcdc698596e852c3b977740038596ead1a5/extensions/github/package.json#L350
-Also here.</i>
-                                        Thanks @LitoMore, I also updated
-                                        <code>package.json</code>
-                                        👍
-                                    </div>
+                                    <div>opened by colebemis in <span class="repo">raycast/extensions</span></div>
+                                    <div class="comment">@pernielsentikaer got another extension for you that wasn't published: https://www.raycast.com/cole/copilot-workspace returns a 404...</div>
                                 </div>
                             </section>
                         </div>
@@ -747,1616 +742,69 @@ Also here.</i>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">j3lte/raycast-extensions</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">ext/github</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8e34119</div>
-                                        <div class="message">Update description for personalAccessToken</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
+                                        Pushed 19 commits in
                                         <span class="repo">j3lte/raycast-extensions</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5245a6f</div>
+                                        <div class="sha">#e1f348c</div>
                                         <div class="message">Update CODEOWNERs</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7bc5bdb</div>
-                                        <div class="message">transfer to org (#12077)
+                                        <div class="sha">#640083f</div>
+                                        <div class="message">Update jira extension (#11965)
 
-* transfer to org
+* Update jira extension
 
-* Update CHANGELOG.md</div>
+- Include status transitioned to in Change Status submenu
+- Initial commit
+
+* Update CHANGELOG
+
+* Update CHANGELOG.md
+
+---------
+
+Co-authored-by: Thomas Lombart &lt;lombart.thomas@icloud.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e481af3</div>
-                                        <div class="message">Update copilot-workspace extension (#12074)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f733ba</div>
-                                        <div class="message">Apple Reminders: Improve regex</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ade7adc</div>
+                                        <div class="sha">#384ad19</div>
                                         <div class="message">Update CODEOWNERs</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#179d791</div>
-                                        <div class="message">Add copilot-workspace extension (#11961)
-
-* Add copilot-workspace extension
-
-- Update default repo
-- Add "Start Task" command to Raycase extension
-- Merge pull request #2135 from githubnext/terkelg/mobile-scroll-fix
-- refactor files
-- Merge branch \'main\' into terkelg/mobile-scroll-fix
-- File explorer shows always skipped files but as a proxy (#2134)
-- update baselines (#2138)
-- emit separate telemetry for each stitched model call (#2132)
-- remove redudant class
-- remove debug logic
-- fix linting
-- Merge branch \'main\' into terkelg/mobile-scroll-fix
-- Global counter of outstanding model calls (#2126)
-- increase min height
-- route to all deployments by setting \`openai-end-user\` header (#2131)
-- use custom overlay
-- certificate bindings for staging (#2129)
-- Revert "use file explorer as editor"
-- use file explorer as editor
-- add comment
-- fix file explorer bug on android
-- Accessibility: Announce implementation loading state to screen readers (#2031)
-- Merge pull request #2127 from githubnext/integrate/update-to-main
-- Merge remote-tracking branch \'origin/update\'
-- Merge pull request #2125 from githubnext/integrate/production-to-update
-- Make sure last update time always gets set for rates (#2123)
-- tweak styling
-- improve touch experience
-- Use right URL for staging branch and use the nicer name "staging" (#2121)
-- Logging to debug why rate computations aren\'t working on production (#2119)
-- Merge pull request #2114 from githubnext/integrate/update-to-production
-- Merge remote-tracking branch \'origin/update\' into production
-- Merge pull request #2116 from githubnext/integrate/main-to-update
-- Merge remote-tracking branch \'origin/main\' into update
-- Improve a11y of expand/collapse buttons (#1998)
-- Merge branch \'main\' into terkelg/mobile-scroll-fix
-- add extra margin to dismiss btn
-- Merge pull request #2115 from githubnext/dsyme/sz
-- remove copy from overlay
-- tighten spacing
-- extract mq to constant
-- bump sizes
-- bump sizes
-- Merge pull request #2103 from githubnext/integrate/main-to-update
-- Merge remote-tracking branch \'origin/main\' into update
-- Update Implement Button to Include Re-implement Option (#2088)
-- Show file-syncer warnings (#2112)
-- Automatically mark session as complete on exit (#2113)
-- Merge pull request #2107 from githubnext/ambiguity-tweaks
-- Fixing storybook components
-- Merge pull request #2109 from githubnext/terkelg/2082
-- add nowrap to filediff titles
-- fix filename rename
-- Re-ordering the experiments
-- Tweak the ambiguity detection
-- Merge pull request #2089 from githubnext/integrate/update-to-production
-- Update playbook.md
-- Merge pull request #1988 from githubnext/lostintangent/default-view-mode
-- Merge remote-tracking branch \'origin/update\' into production
-- Merge pull request #2100 from githubnext/integrate/main-to-update
-- Fix build error
-- Merge remote-tracking branch \'origin/main\' into update
-- Missing changes (#2101)
-- fix detection of ambiguous tasks (#2099)
-- Merge branch \'main\' into lostintangent/default-view-mode
-- save error state in session (#2098)
-- Merge pull request #2095 from githubnext/integrate/main-to-update
-- Merge pull request #2091 from githubnext/lostintangent/keyboard-shortcuts
-- Merge remote-tracking branch \'origin/main\' into update
-- Update playbook.md
-- Merge pull request #2094 from githubnext/dsyme-patch-2
-- Update playbook.md
-- Add keyboard shortcuts for save, undo, and redo
-- Merge pull request #2087 from githubnext/integrate/main-to-update
-- Merge remote-tracking branch \'origin/main\' into update
-- Update clarification message (#2063)
-- fix build
-- move debug settings to debug panel (#2086)
-- Update playbook.md
-- Update playbook.md
-- Update playbook.md
-- Merge pull request #2076 from githubnext/integrate/update-to-production
-- Merge remote-tracking branch \'origin/update\' into production
-- Merge pull request #2085 from githubnext/integrate/main-to-update
-- Merge remote-tracking branch \'origin/main\' into update
-- Add link to allow user to control/request their connection to the OAuth app (#2083)
-- Merge pull request #2081 from githubnext/integrate/main-to-update
-- Merge remote-tracking branch \'origin/main\' into update
-- Optimizes when auto-saving changes the updated timestamp (#2073)
-- fix for plan without any targets at all (#2075)
-- Record and show global and user token streaming rates (#2078)
-- Merge pull request #2077 from githubnext/integrate/main-to-update
-- Merge remote-tracking branch \'origin/main\' into update
-- Try make playwright tests more robust (#2074)
-- prompt fixes to reduce verbatim copying from \'before\' spec (#2072)
-- Merge pull request #2061 from githubnext/integrate/main-to-update
-- Merge remote-tracking branch \'origin/main\' into update
-- Update playbook.md (#2070)
-- Update playbook.md
-- Try to fix for perf problem on "main" mobile (#2068)
-- fix statuses for dismissed files (#2067)
-- remove false line numbers (#2064)
-- ClientConfig fixes and refactoring (#2066)
-- Start of playbook for devops (#2055)
-- Prompt against placeholders (#2044)
-- Merge pull request #2023 from githubnext/integrate/update-to-production
-- Merge pull request #2058 from githubnext/integrate/main-to-update
-- timestamp fix (#2057)
-- Merge pull request #2054 from githubnext/integrate/update-to-main
-- Merge pull request #2053 from githubnext/integrate/production-to-update
-- Merge pull request #2052 from githubnext/integrate/main-to-update
-- Merge remote-tracking branch \'origin/production\' into update
-- Add peduarte to allowed access list (#2050)
-- Merge remote-tracking branch \'origin/main\' into update
-- Allow temperature to be set in apiConfig even though it is not a public experiment (#2051)
-- Merge pull request #2041 from githubnext/integrate/main-to-update
-- Merge remote-tracking branch \'origin/main\' into update
-- Tweaks to the prompts for the proposed spec and plan (#2033)
-- Save traces in sessions for site devs (#2039)
-- Move raycast directory out of src (#2040)
-- Merge pull request #2024 from githubnext/integrate/main-to-update
-- Merge remote-tracking branch \'origin/main\' into update
-- Raycast extension (#2029)
-- Show exit paths on dashboard (#2032)
-- Merge pull request #2034 from githubnext/terkelg/mobile-scroll
-- Merge branch \'main\' into terkelg/mobile-scroll
-- Implement scroll on mobile
-- Fix word wrapping for markdown files (#2030)
-- Add overflow scroll to repo name (#2014)
-- Set defaults to prevent automatic code execution (#2008)
-- Merge pull request #2022 from githubnext/integrate/main-to-update
-- Merge remote-tracking branch \'origin/main\' into update
-- fix labels on PRs
-- fix direction of detection
-- Merge pull request #2021 from githubnext/main
-- update flow
-- fix scroll on mobile
-- Merge pull request #2020 from githubnext/integrate/update-to-main
-- remove forward flow, too noisy
-- Merge remote-tracking branch \'origin/update\'
-- Merge production into update (#2018)
-- Promote update to production (#2017)
-- allow workflow dispatch of PR creations
-- adjust reverse auto-merges
-- Merge branch \'update\' of https://github.com/githubnext/copilot-workspace
-- fix actions
-- Search large repositories with the github text search API (#2003)
-- Merge main into update (#2011)
-- use update instead of staging (#2010)
-- use update instead of staging
-- Merge branch \'main\' into lostintangent/default-view-mode
-- Merge production into main (#2005)
-- Add staging environment configuration (#1994)
-- main --&gt;production (#2004)
-- Possible private experiment: write topic and specs as sea shanties (#2000)
-- allow all hubbers to have access (#2002)
-- Possible experiment - include emoji in topic and specs (#1999)
-- Replace \'repo push\' icon with \'git commit\' icon (#1982)
-- Set maxTokens to 48k (#1949)
-- Add sr-only message and aria-hidden to auto save indicator (#1997)
-- Update the favicon to indicate loading state (#1996)
-- Trim back experiments we make public (#1995)
-- Show \'ignored\' label for files ignored by .gitignore (#1992)
-- Make ignored label responsive
-- Show error toast on codespace failure (#1921)
-- Accessibility: Announce plan loading state to screen readers (#1962)
-- support for sending SIGINT using UI (#1970)
-- Update PR description prompts (#1993)
-- Show \'ignored\' label for files ignored by .gitignore
-- Add new markdown reports on originalSpec etc. to make iterating on improvements possible  (#1991)
-- fix bug in saving shared sessions (#1989)
-- Further improvements to the topic question prompt (#1983)
-- Don\'t progress plan steps when file is unchanged (#1984)
-- Untitled pull request
-- Default to diff view for changed files in file explorer
-- Merge branch \'main\' into osortega/error-toast
-- Fix navigation for \'Current repository\' link (#1971)
-- Remove unused type
-- Fixing tests
-- Disable bookmark icon for new tasks and guest users (#1980)
-- Merge production into main (#1978)
-- Refactor URL construction to use current state
-- main to production  (#1977)
-- Fix navigation for \'Current repository\' link
-- add save button (#1968)
-- UI Tweaks (#1959)
-- Add xterm-link-provider package and implement link provider in useCodespaceConnect.ts (#1969)
-- Replace debug panel with experiments dialog (#1963)
-- Merge branch \'main\' into osortega/error-toast
-- Reset error status when clearing implementation (#1956)
-- Remove task suggestions from TaskPanel (#1965)
-- Merge branch \'main\' into osortega/error-toast
-- Adds guardrails in file-syncer (#1960)
-- Tweak the topic prompt to improve readability/clarity (#1957)
-- Separate out baseline logic updates from #1957 (#1964)
-- Show error toast only when user requests codespace
-- baseline updates for extract topic (#1961)
-- Accessibility: Announce specification loading state to screen readers (#1948)
-- Problem targets in the plan also respect .gitignore (#1935)
-- apply code review
-- problem targets in the plan also respect .gitignore #1900
-- Merge production into main (#1942)
-- Segment redis cache and do API checks (#1947)
-- telemetry: don\'t nest properties (#1951)
-- Set size prop for all icon buttons in FileDiff (#1950)
-- Redirect to the correct URL after signing in (#1934)
-- Fix 1944: Include unchanged files in sharing links (#1946)
-- Fix error tooltips (#1943)
-- Update e2e_benchmark.yml (#1945)
-- Add ability for codespace developers to create backing codespace in different target stamps (#1918)
-- main --&gt; production (#1940)
-- Disable unused code highlighting (#1933)
-- Fix default accept for PR iteration (#1937)
-- fix default accept
-- Fix formatting in describe.ts (#1936)
-- Disable unused code detection
-- telemetry tweaks: events per model-call, don\'t name by route (#1919)
-- Reset codespace info on shutdown (#1907)
-- Merge production into main (#1932)
-- Merge remote-tracking branch \'origin/production\'
-- main --&gt; production (#1925)
-- [Templates] Allow switching from template-&gt;task mode (#1927)
-- Upgrade monaco editor (#1929)
-- Use Next.js router for redirection in TemplatePanel
-- fixes closure binding in file-syncer (#1928)
-- Allow switching from template-&gt;task mode
-- Add waitlist check to auth (#1922)
-- Disable \'New session\' button for guests (#1924)
-- Merge production into main (#1923)
-- Untitled pull request
-- Remove comments
-- Disable \'New session\' button for guests
-- Merge remote-tracking branch \'origin/production\'
-- modifies the file-syncer configuration to explicitly specify the folder path when checking out the feature branch
-- Fix order in "implement" prompt (#1912)
-- modifies the file-syncer configuration to explicitly specify the folder path when checking out the feature branch
-- Show error toast on codespace failure
-- Install ctags in onCreateCommand (#1916)
-- Read-only UI (#1865)
-- call yarn build in right order to build/link file-syncer
-- Update SSH tunneling package (#1914)
-- install ctags in onCreateCommand
-- Update SSH tunneling package
-- Document how we evaluate CW (#1909)
-- When codespace does a sync, use plan to keep files unchanged/rename-paired (#1905)
-- Render \`(ADD)\` as tokens (#1904)
-- Generated PR descriptions (#1903)
-- Modifies the file-syncer to respect .gitignore files (#1832)
-- Add info on slur detection to README (#1908)
-- ctags options are dependent on the available version (#1901)
-- redirect  RMDIR and MKDIR targets to general notes (#1898)
-- fix tests
-- Merge production into main (#1896)
-- fix up test and code
-- skip RMDIR and MKDIR targets
-- [Feature flag] Add support for revising files by NL (#1890)
-- Merge remote-tracking branch \'origin/production\'
-- Update [...nextauth].ts (#1895)
-- Initial very rough cut of Ambiguity detection at the proposal level (#1805)
-- Add support for revising files by NL
-- Rename prod stopwords cosmosdb (#1887)
-- Merge production into main (#1886)
-- Merge main --&gt; production (#1885)
-- add test for large file read (#1877)
-- Fix implementation panel sorting (#1882)
-- Editing problems - Don\'t self-consume diffs  (#1884)
-- skip glb binary files (#1875)
-- Expand the current/proposed section on spec re-rolls (#1870)
-- Expand the current/proposed section on spec re-rolls
-- New session button (#1838)
-- Show queued entries for cancelled files (#1866)
-- [Feature flag] Allow revising the plan with NL (#1867)
-- Allow revising the plan
-- show queued entries for cancelled files
-- Deleting codespace on unload (#1860)
-- Fixing IconButton (#1864)
-- Fixing IconButton
-- Improve test coverage for statusMarkers.ts (#1857)
-- Suppress collection of model traces in production (#1849)
-- fix playwright tests
-- clean up
-- [Feature Flag] Add \'Revise specification\' button to SpecPanel (#1803)
-- Use onCreateCommand instead of postCreateCommand (#1861)
-- Use onCreateCommand instead of postCreateCommand
-- Merge branch \'main\' into lostintangent/revise-spec-button
-- Fix file selection bug (#1859)
-- Merge branch \'main\' into osortega/delete-on-unload
-- Deleting codespace on tab close
-- Add client-side config setting for revising spec with NL
-- Accessibility: Update heading levels (#1809)
-- Add client-side config setting for revising spec with NL
-- Merge production into main (#1854)
-- make subject optional
-- Run CW in codespaces (#1839)
-- refactor pr review
-- tweak header on mobile
-- Merge branch \'osortega/cw-in-codespace\' of https://github.com/githubnext/copilot-workspace into osortega/cw-in-codespace
-- Review comments
-- Merge branch \'main\' into osortega/cw-in-codespace
-- Missing file
-- Sort order for implementation files (#1855)
-- IsRunningInCodespace
-- Merge branch \'main\' into terkelg/new-session
-- auto content prompt tweaks - put issue earlier (#1844)
-- merge main --&gt; production (#1841)
-- Merge branch \'production\' into integrate/main-to-production
-- Update [...nextauth].ts (#1850) (#1851)
-- Update [...nextauth].ts (#1850)
-- Fixed more paths
-- Merge branch \'main\' into osortega/cw-in-codespace
-- Addressed Don\'s comments
-- hot fix for slur detection (#1846)
-- Merge branch \'main\' into osortega/cw-in-codespace
-- fix up direction of targetsSelection (#1831)
-- Slur detection (#1833)
-- Merge branch \'main\' into osortega/cw-in-codespace
-- Merge production into main (#1843)
-- typo
-- waitfor
-- add tests
-- Merge remote-tracking branch \'origin/production\'
-- Grant access to Insop Song (#1842)
-- Post create command update
-- Merge branch \'osortega/cw-in-codespace\' of https://github.com/githubnext/copilot-workspace into osortega/cw-in-codespace
-- Post create command
-- Merge branch \'dsyme/slur\' of https://github.com/githubnext/copilot-workspace into dsyme/slur
-- clear plan on redaction
-- Merge branch \'main\' into dsyme/slur
-- Use icon button on mobile
-- Merge branch \'main\' into terkelg/new-session
-- Sleep longer
-- update routes
-- Merge branch \'main\' of https://github.com/githubnext/copilot-workspace into osortega/cw-in-codespace
-- add new session button
-- Make as part of post attach
-- Change different sleep
-- Delay 2 seconds
-- Update
-- NPM token update
-- setLocal update
-- remove loggine
-- mango
-- Validate input in spec panel (#1830)
-- Merge branch \'main\' of https://github.com/githubnext/copilot-workspace into dsyme/slur
-- mock slurs
-- Fix dashboard client-side updates (#1834)
-- Collapse an existing file when it begins to be implemented (#1835)
-- slur word implementation
-- Adding  to the create codespace request (#1817)
-- Update web_app.tf
-- slur detection
-- remove import
-- Disable buttons if \`spec\` or \`originalSpec\` are empty
-- update state on blur
-- Terminal-related playwright tests (#1784)
-- fix bug when topic is empty
-- Add UI for exit paths (#1821)
-- Remove --font-mono from root selector (#1824)
-- Script update
-- Update routeUtils.ts
-- Merge branch \'main\' into terkelg/exit-paths
-- inform user about where the repo is created
-- Post start
-- create repo is the only option, remove split button
-- remove logs
-- Don\'t render markdown links with &lt;a&gt; by default (#1818)
-- update titles and make dialog position at bottom on narrow screens
-- disable button if invalid
-- add UI for exit paths
-- Remove settings option from mobile menu (#1819)
-- Add ctags options for a few languages (#1812)
-- Add repo policy for disallow CW-generated pull-requests and/or issue comments   (#1793)
-- Host public key validation (#1808)
-- Adding  to the create codespace request
-- Improve icon alignment (#1814)
-- Tweak alignment
-- Read-only link sharing (#1539)
-- Merge branch \'osortega/host-public-key-validation\' of https://github.com/githubnext/copilot-workspace into osortega/host-public-key-validation
-- Merge conflicts
-- Get PF url from dev tunnels (#1780)
-- Merge branch \'main\' into osortega/host-public-key-validation
-- improve alignment
-- Test instructions
-- delete unused files (#1782)
-- Merge branch \'main\' of https://github.com/githubnext/copilot-workspace into osortega/get-pf-url-client-side
-- removes pre-built inotify-tools binary and its usages #2
-- removes pre-built inotify-tools binary and its usages
-- Move sessions/... APIs to be V1 routes (except active-implementation) (#1787)
-- Show loading skeleton for topic (#1806)
-- Host public key validation
-- Increase temperature increment on first regen attempt (#1804)
-- Polish ambiguity UI (#1802)
-- Update src/client/IconButton.tsx
-- Removing wrapping tooltip
-- Merge remote-tracking branch \'origin/main\' into lostintangent/revise-spec-button
-- Disable tooltip
-- Move revision form from dialog to anchored overlay
-- Fix tooltip warnings and #1674 (#1791)
-- Merge branch \'main\' into terkelg/1792
-- misc
-- [Exploration] Add \'Revise specification\' button to SpecPanel
-- Merge branch \'main\' into terkelg/tooltips
-- Dismiss Sync Button [UI Only] (#1786)
-- add new warning state and use it for the ambiguity warning
-- Fix #1754 - share link in PR description doesn\'t include  (#1798)
-- Try to fix playwright tests (#1799)
-- Start to clean up logging (#1783)
-- Merge production into main (#1797)
-- main --&gt; production (#1796)
-- fix tooltips on mobile
-- clean up messages (#1789)
-- fix warnings
-- dismiss UI
-- access to autodev folks (#1785)
-- Remove leading slash from file paths (#1779)
-- Update share dialog (#1781)
-- Prevent tabbing into collapsed elements (#1773)
-- More harm prevention from RAI red teaming (#1740)
-- merge main
-- Report progress from initial content fetching, ranking etc. (#1733)
-- Host requirements
-- Remove devcontainer
-- Removed console.logs
-- Get PF url from dev tunnels
-- Hide disclaimer when timeline is minimized (#1771)
-- Merge production into main (#1746)
-- fix test
-- Merge branch \'main\' of https://github.com/githubnext/copilot-workspace into dsyme/harms2
-- Merge branch \'main\' into dsyme/prog
-- Prevent tabbing into collapsed elements
-- Hide disclaimer when timeline is minimized
-- Update RAI disclaimer (#1749)
-- prompting: treat vision model as a chat model (#1748)
-- Add RAI disclaimer to specification panel (#1743)
-- Merge branch \'main\' of https://github.com/githubnext/copilot-workspace into dsyme/harms2
-- update vision model to use model-9 (#1742)
-- main to production  (#1745)
-- Toggle split view button (#1741)
-- List Insert child + fixes (#1739)
-- hide button on mobile
-- add button to toggle small timeline
-- center align leading visual
-- more harm prevention
-- wip
-- fix type errors in stories
-- feat to add child node
-- fix tab outline
-- allow enter to insert mode, improve keyboard navigation and fix indention bug
-- fix outline cut off
-- adjust for code review
-- Merge production into main (#1737)
-- main --&gt; production (#1736)
-- fix tests
-- more cancellation, reporting, async
-- improve prompts for planning references (#1730)
-- more cancellation, reporting, async
-- fix tests
-- Remove split diff option on narrow screens (#1734)
-- report progress from repo cloning, content loading etc.
-- report progress from repo cloning, content loading etc.
-- report progress from repo cloning, content loading etc.
-- report progress from repo cloning, content loading etc.
-- report progress from repo cloning, content loading etc.
-- Allow editing in the file explorer (#1731)
-- Notify codespace of activity with the overall app (#1728)
-- improve prompts for planning references
-- Scaling work (#1717)
-- cleanup (#1723)
-- Notify codespace of activity with the overall app
-- fix target selection on plan change (#1722)
-- make countTokens failsafe (#1721)
-- Fix for reconnect terminal on error (#1716)
-- Abstract function
-- main --&gt; production (#1714) (#1715)
-- Fix for reconnect terminal on error
-- Handle long paths (#1708)
-- Add Caitiem20 to allowed GitHub users (#1712)
-- a little more cleanup (#1711)
-- Remove "ServerDirectory" content locators (#1709)
-- Activate harm prevention and filter more things from input markdown (#1690)
-- Fix overflow in QueuedFileDiff component
-- Merge branch \'main\' into terkelg/scroll-filenames
-- Keep files paired in UX if already paired (#1707)
-- make long filenames scrollable
-- Sanitize targets and unify plan/targets processing (#1699)
-- include error messages from server-side failures (#1706)
-- Misc Fixes (#1696)
-- include error messages from server-side failures
-- Merge production into main (#1704)
-- Update \'Done\' to \'Completed\' in UI (#1702)
-- use node count to get id
-- Merge branch \'main\' into terkelg/list-new-item
-- Publish main to production  (#1703)
-- Fix create repository when files are deleted, also show diagnostic on failure during "accept" (#1692)
-- keep on going with implement (#1697)
-- unify targets/plan parsing and sanitization
-- unify targets/plan parsing and sanitization
-- prevent root from being a parent node
-- fix #1693
-- fix trash on mobile
-- add missing dependency
-- Add \`@primer/primitives\` (#1680)
-- Refactor xterm theme color handling now that react returns css vars instead of colors (#1688)
-- Reduce normalize calls to improve perf (#1687)
-- Enable "inherit" in Monaco themes (#1681)
-- List + Misc ✨ (#1679)
-- fix saving indicator
-- remove settings
-- remove unused import
-- trim list editor value before parsing
-- Add expand/collapse functionality to SpecPanel
-- prevent clicking hidden buttons and don\'t hide before menu closes
-- update copy
-- use line number as id for steps
-- prevent flash/flicker on indent/dedent
-- Prevent key collisions on dedent.
-- trim local value
-- clean up
-- use ctrl on windows
-- Clean terminal control characters in checking for port-forward to avoid regex interference (#1673)
-- Add/edit plan targets (#1661)
-- fix build errors
-- show menu on touch, show skeleton ui
-- show menu on mobile
-- show all exit paths
-- Refactor button variants in ImplementButton and ImplementationPanel
-- Fix target selection logic in PlanPanel component
-- disable button when loading, remove spinner, scroll to implementation
-- remove fade
-- Merge branch \'main\' into terkelg/add-target
-- remove unused props
-- remove known files set
-- Misc polish (#1666)
-- Add open in file explorer option
-- Show on focus
-- Update copy
-- Use files from context
-- Make file list available on context
-- Remove comment
-- Fix focus ring cut off
-- Update already-in-targets error logic
-- Live preview from post attach (#1665)
-- Merge branch \'terkelg/add-target\' of github.com:githubnext/semantic-workspace into terkelg/add-target
-- Update playwright tests
-- update copy
-- disable trailing actions for now due to Primer tooltip error
-- Update tooltips in PlanTargetFile.tsx
-- Update change type label in PlanAddFileTarget component
-- Add validation for already existing file targets for renames
-- Update title of target file dialog
-- remove comment
-- Update delete target button label
-- fix bug when deleting
-- Add empty targets array to PlanAddFileTarget component
-- fix merge
-- Merge branch \'main\' into terkelg/add-target
-- validate that file is not already a target
-- fix storybook
-- improve validation
-- Update base theme in github-light.json (#1664)
-- Implement custom auth pages for NextAuth (#1650)
-- fix accessibility
-- Upgrade @primer/react (#1660)
-- improve styling for dialog version
-- Merge branch \'main\' into terkelg/add-target
-- add file targets
-- Fix for initial terminal render (#1649)
-- Misc. polish (#1659)
-- RAI: Stronger prompting and file selection to help ground "original-spec" response (#1622)
-- Fix #1651: Fix case of generated page title and pr title (#1652)
-- fix overflow for long filenames
-- Plan Panel + Lists (#1511)
-- file syncer goodies #1642
-- Fix for initial terminal render
-- Fix #1268: Show Empty Description Message in Issue Panel (#1647)
-- Create a PR dialog (#1639)
-- fix benchmark
-- fix file selection
-- fix benchmark
-- New attempt to update prompts for gpt4  (#1637)
-- Telemetry, stats for file name reference quality in original spec + some new baselines (#1636)
-- Grant access to Gagan Bansal (#1630)
-- Introduce Template panel to the timeline (#1623)
-- updates the file-syncer to only wait 10 ms after a batch of diffs is pushed #1512
-- Reduce size of "choose next target" prompt a little (#1592)
-- add setting to always use line numbers (#1624)
-- baseline updates on main (#1621)
-- baseline updates on main
-- 5 minute wait for cs to become available (#1617)
-- Adding support for activity notifications (#1620)
-- Adding support for activity notifications
-- Merge production into main (#1618)
-- main --&gt; production (#1616)
-- Fix start-codespace-on-implement (#1615)
-- File loading polish (#1608)
-- fix access to config value
-- Millisecond granularity timestamp for diffs (#1580)
-- RAI harm mitigation: strip hidden comments from GitHub markdown (#1606)
-- Fix for the transport to notify client of errors (#1611)
-- Merge branch \'main\' into file-polish
-- Fix #1525: Open file browser in diff mode by default (#1607)
-- Fix for the transport to notify client of errors
-- File handling polish
-- Dashboard clean up (#1605)
-- Compute "choose-first-target" speculatively in order to reduce wait time at end of plan and before "Implement" (#1598)
-- millisecond granularity timestamp attribute in CosmosDB #1512
-- fix build
-- merge main
-- Add skeleton route validation (#1587)
-- remove setting (#1594)
-- composite file watching for real #1440
-- Merge production into main (#1599)
-- merge main --&gt; production (#1601)
-- Add more codespace controls (#1600)
-- add more codespace controls
-- main --&gt; production (#1593)
-- speculation
-- speculation
-- add protection
-- speculation
-- Dashboard updates (part 2) (#1590)
-- Merge branch \'main\' of https://github.com/githubnext/copilot-workspace into dsyme/rm4
-- remove setting
-- connect to terminal as soon as codespace is available (#1589)
-- Various bugfixes for GPT-4 Turbo (#1563)
-- remove try/catch (#1586)
-- Merge branch \'main\' of https://github.com/githubnext/copilot-workspace into dsyme/vld
-- add skeleton route validation
-- add skeleton route validation
-- Change the dedent/indent keybinding in ListEditor (#1583)
-- Enable regexp ranking (#1422)
-- v2 --&gt; v1 routes (#1585)
-- Dashboard updates (part 1) (#1577)
-- eager compute config flag (#1581)
-- Second attempt to fix #1495 - make PR tasks be about the PR unless otherwise specified (#1576)
-- Start codespace eagerly (#1579)
-- fix pattern
-- remove code-retrieval
-- try to fix file benchmark
-- Merge branch \'main\' of https://github.com/githubnext/copilot-workspace
-- remove repo for file benchmark that blew up space on CI machine
-- Update e2e benchmark to model8 (#1570)
-- Label targets CW can\'t generate (#1574)
-- Fix grammatical errors in README (#1573)
-- add telemetry for whether we are on the default branch (#1571)
-- Streaming status and cleanup (#1572)
-- fix file benchmark
-- Some prompting for harm prevention + some config cleanup (#1565)
-- Fix #1547: Use a single static connection to the cosmosdb (#1549)
-- Add devcontainer.json file appropriate for this repo (#1176)
-- Fix #1216: Sort directories before files in file explorer (#1560)
-- Remove support for model7 (#1561)
-- Merge branch \'main\' of https://github.com/githubnext/copilot-workspace into owner-avatar
-- Actually set up model8 key in Terraform (#1556)
-- Merge branch \'main\' of https://github.com/githubnext/copilot-workspace into owner-avatar
-- Add support for new model8 (GPT-4 Turbo 0125) (#1554)
-- Use repo icon for task panel when using a template (#1532)
-- Fix terminal rendering on resize (#1553)
-- move to repoData, add archived, bookmarked
-- Fix terminal rendering on resize
-- move to repoData, add archived, bookmarked
-- Add avatarUrl, isOrg, and isPrivate to contentLocator schema
-- Stop creating a weekly dogfooding issue (#1545)
-- rename &amp; move support in the file-syncer #1293
-- Fix ctags/regexp symbol extraction and put under test (#1531)
-- Use repo icon for task panel when using a template
-- Fix #1527: Label the task panel as \'Create repository\' when creating a new repo from a template (#1529)
-- Fix 1495 (#1528)
-- trash icons for spec and plan (#1521)
-- Add support for OpenAI Chat API (#1502)
-- stop cancellation of current plan or implementation when doing somethign unrelated (#1522)
-- make package install token available to yarn run
-- make package install token available to yarn run
-- Add session data to sharing link (#1519)
-- hot fix to file locator removal (#1520)
-- Remove User-Agent warning and excessive logging (#1516)
-- Merge branch \'main\' into osortega/remove-user-agent-warnings-and-logs
-- Changed local storage key
-- clarify npm PAT SSO instructions (#1515)
-- Remove User-Agent warning and excessive logging
-- expand npm auth instructions (#1514)
-- Terminal polish  ✨ (#1450)
-- use standard V1 machinery for routes (#1510)
-- fix 1503 - multiple comment formats in one file (#1507)
-- handle space generation for located files (#1506)
-- don\'t start codespaces automatically on implement just yet (#1505)
-- try variation on docker fix
-- try variation on docker fix
-- try variation on docker fix
-- add env for docker and fix e2e
-- Show implementation errors (#1501)
-- Client side ssh connections over dev tunnels (#1448)
-- add test and complete fix for regexps (#1496)
-- Fix commentEnd markers in regexes (#1493)
-- Activate useLineNumbersIfNeeded (#1489)
-- Take into account clarifications to spec in "implement" prompt (#1488)
-- Display plan errors in plan panel (#1487)
-- Display spec errors in spec panel (#1484)
-- update baselines
-- Strip generated comments for adding, removing, changing code (#1476)
-- update baselines
-- Merge production into main (#1483)
-- Add MSR RiSE people to CW (#1481)
-- main --&gt; production (#1482)
-- tweak prompt
-- tweak prompt
-- Update [...nextauth].ts
-- fix tests, always filter JSON
-- listeditor - bug fixes (#1480)
-- add MSR-RiSE to CW
-- fix json
-- Fixes: The Variety Pack (#1462)
-- remove duplicate context line
-- fix build
-- filter generated plan comments
-- fix animation jump if no value is found in local storage
-- fix #1147
-- Merge branch \'main\' into terkelg/fixes
-- List editor updates (#1463)
-- listeditor - add explanation for targeting newlines
-- align token with font baseline
-- remove link on desktop
-- auto collapse on exit path action
-- only show the 3 latest exit paths
-- remove log
-- fix  #1472
-- Merge branch \'main\' into terkelg/fixes
-- Render QueuedFileDiff component (#1464)
-- remove dead code
-- remove unused import and rename var
-- Update src/client/ImplementationFiles.tsx
-- add isGitHubAssetUrl test I missed comitting (#1473)
-- render file links in PR and task markdown (#1471)
-- Update ExitPanel.tsx (#1470)
-- Merge branch \'main\' into dsyme/patch-1
-- render file links in PR and task markdown
-- Undo fixes (#1469)
-- Update ExitPanel.tsx
-- Update ExitPanel.tsx
-- remove old code
-- render ui component
-- listeditor - delete nested items when parent is deleted fixes #1270
-- update tailwind config
-- listeditor - remove animations, handle multiline items fixes #1364, fixes #1391
-- test solution for #1147
-- fix #1322
-- fix #1116
-- Fix exit path (#1460)
-- remove log
-- fix exit path
-- state based transition duration (#1459)
-- listeditor - trigger onblur event when hit escape fixes #1264
-- listeditor - ignore left/right arrow if shift key is down fixes #1269
-- listeditor - dedent nested items on delete fixes #1270
-- listeditor - make text wrap within words fixes #1381
-- support older style GH assets (#1447)
-- Consume diffs into CW, even if no implementation done + wait for codespace availability (#1452)
-- Update initial loading and error states (#1453)
-- Add a config setting for maxTokens (#1454)
-- Add a config setting for maxTokens
-- Exit Path UI (#1380)
-- Merge production into main (#1449)
-- Merge branch \'main\' into terkelg/exit-path
-- handle minimized timeline
-- main --&gt; production (#1445)
-- Add live preview link (#1446)
-- fix links in plan targets (#1444)
-- make view height dynamic
-- update actions (#1442)
-- add timestamp
-- Fix up general notes: #1382 (#1438)
-- Priority fix; use right status for different things (#1441)
-- use branchName component
-- Merge branch \'terkelg/exit-path\' of github.com:githubnext/copilot-workspace into terkelg/exit-path
-- Update src/client/ExitPanel.tsx
-- Update src/client/ExitPanel.tsx
-- Merge branch \'main\' into terkelg/exit-path
-- update copy
-- add timestamp to AcceptOperation (#1443)
-- add timestamp to AcceptOperation
-- adjust plan view of targets (#1439)
-- Merge branch \'main\' into terkelg/exit-path
-- fix two minor resize related bugs
-- add min width to site
-- fix #1425
-- Layout fixes and improvements (#1431)
-- Merge branch \'main\' into terkelg/exit-path
-- remove comment
-- use new data
-- Merge branch \'main\' into terkelg/exit-path
-- file-syncer fine tuning #3
-- trim repos/pulls that have problems in file selection benchmark (#1437)
-- remove unused package
-- Merge branch \'main\' into terkelg/layout-fixes
-- fix #1433
-- file-syncer fine tuning #2
-- Merge branch \'main\' of https://github.com/githubnext/copilot-workspace
-- fix e2e
-- file-syncer fine tuning #1
-- composite file-watcher: inotifywait + git (#1404)
-- Merge branch \'main\' into terkelg/layout-fixes
-- fix #1427 and simplify
-- remove diagnostic
-- fix reading keys that have = in them
-- fix reading keys that have = in them
-- log some of stdout/stderr in benchmarking
-- log some of stdout/stderr in benchmarking
-- log some of stdout/stderr in benchmarking
-- enable redis cache for CI benchmarking
-- fix safari rendering issue
-- improve reporting for progress of file benchmark
-- improve error surfacing for benchmarks, monitor disk usage
-- go to implementation button in panel #1426
-- disable local cache on file selection benchmark (#1430)
-- auto expand plan on dismiss #1429
-- update diagnostics about filtering
-- adjust defaults
-- cleanup old investigation (#1421)
-- investigate ctags version/install problem (#1424)
-- fix benchmark code and trim dependencies (#1402)
-- Layout improvements (#1410)
-- Resize terminal (#1411)
-- Line numbers, regexp (#1401)
-- Use proper parsers for sending images to vision model (#1409)
-- Update CW so that we can run baselines using GPT-4 Turbo (#1393)
-- fix stutter on manual task entry (#1406)
-- add more data to AcceptResult (#1407)
-- Merge branch \'main\' into terkelg/exit-path
-- updates inotifywait build to exclude .git folder from artifacts #2
-- updates inotifywait build to exclude .git folder from artifacts
-- Prevent zoom on input focus (#1397)
-- fix ol styling in markdown (#1395)
-- Rename task-topic.test.ts (#1390)
-- prevent inputs from triggering zoom
-- task view: render HTML and auto-proxy images using real parsers (#1388)
-- Docs + rename "plan splitting" to "choose next target" (#1385)
-- Docs + cleanup for telemetry and issue-workflow (#1378)
-- Share updates + CSS tweaks (#1375)
-- remove tap highlights on mobile
-- Improved click discoverability on TimelineItem icon
-- remove comments
-- Make the toolbar button perform the share action directly if only one action is available
-- debug
-- Merge branch \'main\' into terkelg/share
-- fix build
-- find correct data to use for component body
-- style panels
-- Merge branch \'main\' into terkelg/exit-path
-- add exit panel to timeline
-- Save UxState flags in database + allow plan steps to associate with multiple files (#1370)
-- Terminal Color Theme (#1371)
-- Fix #1372 - allow messy targets generation (#1373)
-- merge main
-- Queued file component (#1376)
-- update styles
-- add queued file diff component
-- fix storybook missing dependency
-- Merge branch \'main\' into terkelg/share
-- move publish actions to share
-- Update feedback buttons (#1374)
-- add feedback to header
-- remove feedback buttons from panels
-- allow messy targets generation
-- Panel improvements (#1365)
-- fix edge case for very small viewports
-- make toolbar more responsive
-- add feedback buttons to implementation
-- make last button full width
-- remove tooltip to avoid overflow issues
-- add feedback buttons
-- collapse spec on re-generate
-- Merge branch \'main\' into terkelg/panels
-- full size buttons on mobile
-- save exits in database (#1368)
-- Improve auto-expand #1347
-- Merge branch \'main\' into terkelg/panels
-- remove unused import
-- expand on refresh
-- Open spec panel when loading
-- modifies inotify-tools build workflow to include all files in the archive
-- remove dead code
-- File-syncer fixes (#1367)
-- remove download zip option
-- implement open in codespace. Refactor into context provider to make logic reusable
-- merge main
-- UX fixes and remove "pinned" (#1366)
-- fix playwright tests
-- save exits in database
-- save exits in database
-- disable PR button while loading
-- add clear implementation button
-- UX fixes
-- pluralize files
-- make title and icon clicable
-- Write plan notes at end of plan + fix task loading bug (#1359)
-- add more testing
-- write plan notes at end of plan
-- write plan notes at end of plan
-- write plan notes at end of plan
-- write plan notes at end of plan
-- write plan notes at end of plan
-- Group plan by target, make targets implicit from plan (#1292)
-- fix tests
-- fix progress markers
-- Merge production into main (#1354)
-- main--&gt; production (commits) (#1353)
-- Merge production into main (#1352)
-- Merge remote-tracking branch \'origin/production\'
-- main --&gt; production (#1351)
-- merge plan grouping
-- telemetry tweaks (#1348)
-- Server telemetry and per-user usage counts (#1331)
-- Fix #1344: Terraform: Migrate to Workspace-based Application Insights (#1345)
-- Fix #1344: Terraform: Migrate to Workspace-based Application Insights
-- Fix #1332: Add appinsights to terraform and web app (#1335)
-- Merge branch \'main\' into dsyme/add-appinsights
-- fix playwright tests (#1343)
-- bump timeout on test
-- bump timeout on test
-- bump timeout on test
-- bump timeout on test
-- fix playwright tests
-- Merge branch \'main\' into dsyme/add-appinsights
-- Update header (#1338)
-- Merge branch \'main\' into terkelg/header-updates
-- implement mobile menu
-- show less information on mobile
-- Fix #1339: Fix undo stack initialization logic (#1340)
-- remove space between toolbar items
-- Merge branch \'main\' into dsyme/add-appinsights
-- Fix #1339: Fix undo stack initialization logic
-- reduce opacity like on undo/redo
-- Remove unused import in Workspace.tsx
-- update header layout
-- add toast package
-- Implement timeline UX (#1330)
-- adds extra file-syncer-related checks (#1336)
-- Update src/client/PlanPanel.tsx
-- adjust partition keys (#1334)
-- Update README.md
-- Update README.md
-- Merge branch \'main\' into dsyme/gplan
-- use connection string
-- remove red channel for now
-- pick green
-- different for red and green
-- Fix #1332: Add appinsights to terraform and web app
-- adjust partition keys
-- Save codespace information in session, also reduce debounce for faster sync (#1325)
-- Merge production into main (#1329)
-- Update OAuth link in readme (#1327)
-- Move open-in-codespace to top bar, active when terminal connected (#1324)
-- Merge remote-tracking branch \'origin/production\'
-- Update [...nextauth].ts
-- fix tests
-- add instructions on how to obtain socket_secret
-- fix oauth link
-- CI updates #3
-- CI updates #2
-- CI updates #1
-- removes check from file-syncer build script regarding GH_TOKEN
-- modifies file-syncer build to use gh api instead of curl
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/gplan
-- modifies CI workflow to set GH_TOKEN
-- file-syncer with inotifywait binary (#1221)
-- merge main
-- merge main
-- split schema.ts --&gt; schema.ts/requests.ts (#1314)
-- use leading edge and maxWait
-- revert unneeded changes
-- save codespace information in session
-- faster sync client --&gt; workspace
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/gplan
-- plan size reductions
-- Add delete session button to dashboard page (#1321)
-- first cut at baselines
-- tweaks to prompts
-- fix tests
-- fix build
-- Merge production into main (#1320)
-- main --&gt; production (#1317)
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/gplan
-- Fix spinner on implementation file after cancellation (#1319)
-- hot fix
-- sanitize plan
-- Fix loading spinner (#1316)
-- Merge branch \'dsyme/cu21\' of https://github.com/githubnext/eea into dsyme/gplan
-- fix spinner
-- fix loading state
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/gplan
-- merge main
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/cu21
-- suppress visibility of sessions created from sharing links in dashboard (#1311)
-- Merge production into main (#1315)
-- more cleanup
-- correct plan
-- merge main
-- merge main
-- Merge main --&gt; production (#1302)
-- move FileSyncer to file-syncer
-- split schema.ts
-- merge main
-- rename investigation --&gt; session snapshot
-- Set URL routes correctly (#1304)
-- inotify-tools workflow does not zip on its own
-- adds new actions workflow to build the inotify-tools binary
-- implement message loop exits (#1303)
-- suppress visibility of sessions created from sharing links in dsahboard
-- suppress visibility of sessions created from sharing links in dsahboard
-- updated ssh connections to uses minimum ssh env variables (#1310)
-- Remove machine property in connectToCodespace function to default to Codespaces behavior (#1309)
-- fix for "codespaces no longer exists" error (#1308)
-- Terminal size fix  (#1305)
-- Fix storybook (#1306)
-- Cleanup: move status markers to implementation (#1300)
-- Deselect large targets and show warning (#1291)
-- Split planOrImplementOps --&gt; planOps, implementOps (#1299)
-- merge main
-- merge main
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/gplan
-- fix test
-- group plan by target, make targets implicit from plan
-- group plan by target, make targets implicit from plan
-- adds logging about inotifywait installation #1221
-- defers installation of inotify-tools to the file-syncer startup #1221
-- defers installation of inotify-tools to the file-syncer startup #1221
-- strips down the file-syncer to the minimum in terms of dependencies #1221
-- adds explicit npm install invocation to the file-syncer build script #1221
-- moves the installation of zip after apt-get update in the Dockerfile #1221
-- installs zip as part of the Dockerfile #1221
-- adds REST endpoint serving the file-syncer archive #1221
-- a collection of file-syncer goodies (#1210)
-- Implement client-side undo/redo (#1286)
-- Show implementation changes in file explorer (#1278)
-- Add Playwright test for share links (#1282)
-- File-level incremental iteration (#1225)
-- Correctly set codeOwner and codeRepo (#1281)
-- Add release issue template (#1279)
-- Pass owner/repo/shareId into Workspace component (#1277)
-- Dashboard MVP (#1251)
-- Added Retry logic (#1273)
-- Enable sticky sessions to fix the terminal (#1272)
-- Set correct \`metric_resource_id\` in autoscale resources (#1267)
-- Fix #1260: Add Terraform configuration for multi-instance scaling (#1262)
-- bump timeout (#1263)
-- tweak listEditor behavior (#1258)
-- Update web_app.tf (#1255)
-- Sessions table with topic/spec/plan information + useSessions + useSessionAutoSave (#1237)
-- add \`WEBSITES_PORT\` app setting to terraform (#1252)
-- add back probable 502 fix (#1253)
-- temporarily catch all exceptions in \`checkIfCodespaceExists\` (#1248)
-- make it so the api/v1/debug-throw-exception exception doesn\'t get caught (#1246)
-- Add structured list editor (#1207)
-- update Dockerfile to install netstat &amp; lsof (#1241)
-- Refactor Workspace.tsx to use a named export (#1240)
-- temporarily revert the 502 fix (#1239)
-- Reaname index.tsx to Workspace.tsx (#1238)
-- changes to help with 502 investigation (#1236)
-- Merge production into main (#1224)
-- Remove useless version check (#1235)
-- Factor out some fixes from #1225 (#1226)
-- Clarify topic/spec content - no repos, branches etc (#1230)
-- Push main --&gt; production (#1169)
-- Revert "revert potential 502 fix to try to repro 502s" (#1223)
-- 502 debugging: trigger instance reboot (#1222)
-- revert potential 502 fix to try to repro 502s (#1212)
-- Simplification prep for iteration (#1208)
-- rename
-- finish updating flag
-- Fix file-explorer overlay (#1201)
-- updates actions/setup-node usage in all workflow files
-- bumps aiohttp dependency in the benchmark
-- cleanup prep for iteration
-- 502s: async timeout on blocked model requests + logging (#1202)
-- Merge branch \'main\' into dsyme/555
-- Update web_app.tf
-- Merge branch \'main\' of https://github.com/githubnext/eea
-- heartbeat
-- Fix the fix to 502s (#1203)
-- bump machine
-- fix 502s
-- fix build
-- more logging and 502s work
-- more logging and 502s work
-- fix file overlay z-index issues by creating a new stacking context
-- change sku
-- async cancellation on blocked requests
-- Dynamic-ssh-keys (#1195)
-- Add required attribute to FormControl to fix warning
-- Loading state polish ⏳ (#1172)
-- Fix 502s - not running file-syncer in background (#1198)
-- Fix aria-label warnings in the console (#1197)
-- Update web UX instructions (#1196)
-- try fix 502s
-- fix aria-label warnings
-- update instructions in readme
-- clarify mock IDs
-- mock datastore when isAutoTest and other attempts to fix 502 (#1194)
-- mock datastore when isAutoTest and other attempts to fix 502
-- mock datastore when isAutoTest and other attempts to fix 502
-- mock datastore when isAutoTest and other attempts to fix 502
-- Fix to socket message processing, add logging options  (#1189)
-- fix terminal and add logging
-- fix terminal and add logging
-- Factor out socket, codespace connect and other logic from index.tsx (#1183)
-- rename
-- cleanup
-- cleanup
-- rename
-- rename
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/cu6
-- Factor codespaces/terminal code, and strongly type server --&gt; client socket messages (#1182)
-- factor out codespace connect and other logic from index.tsx
-- code review
-- code review
-- renaming
-- factor out
-- Update src/server/agent/codespaces-connect.ts
-- Update src/server/agent/codespaces-connect.ts
-- Update src/server/agent/types.ts
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/cu6
-- produce diffs on codespace connect
-- re-enable filesync (#1181)
-- cleanup
-- restore code
-- restore code
-- remove message
-- merge main
-- factor out codespaces code from socket code, strongly type server --&gt; client socket messages
-- re-enable filesync
-- enable production of diffs (#1175)
-- "Create repository" --&gt; power feature (#1173)
-- add protection and remove most hot debugging logging
-- Activate file-by-file implementation by default (#1168)
-- Imlpement reading file lists of massive repos (#1166)
-- disable file syncing
-- hot debugging
-- hot debugging
-- integrates the file-syncer with the web client - vol #2 #1109 (#1167)
-- Simplify task resolution and create session ID in resolve-subject (#1151)
-- Activate ctags by default (#1153)
-- Remove /gh prefix from CW URLs (#1162)
-- Mobile file explorer polish ✨ (#1159)
-- update baselines with new stats (#1156)
-- dependency cleanup (#1155)
-- removed @testing-library/react
-- added simple-git back
-- removed removed rehype-highlight, rehype-raw, simple-git, smee-client, ts-node, use-debounce, use-immer, use-local-storage-state, usehooks-ts
-- yarn remove react-syntax-highlighter, react-three-state-checkbox, react-use-websocket, react-virtualized-auto-sizer, react-window
-- remove radash
-- remove highlight.js, node-fetch
-- removed d3
-- removed crypto
-- removed chokidar
-- removed applicationinsights
-- removed @material-ui/core
-- removed octokit
-- Prepare to make file-by-file implementation the default (#1144)
-- allow api config settings to have default non-falsy values and other prep for file-by-file
-- allow api config settings to have default non-falsy values and other prep for file-by-file
-- cleaned up unused agent-processing (#1146)
-- File explorer polish (#1145)
-- cleaned up unused agent-processing
-- Codespaces Disconnect Logic (#1127)
-- Add open in github link
-- Make file explorer responsive
-- Handle loading and error states
-- Update copy button icon color
-- Update inline token styles
-- Resize terminal dynamically (#1118)
-- File by file rewriting, interleave split/implement (#1098)
-- more baseline updates
-- integrates the file-syncer with the web client - vol #1 #865
-- update baselines
-- tweaks based on speclang dogfooding
-- tweaks based on speclang dogfooding
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/fbf
-- various additional quality fixes
-- Add explanatory comment (#1112)
-- Run az swap command without action (#1111)
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/fbf
-- updated docker file to update gh cli version (#1105)
-- Remove service_plan_id from slots (#1107)
-- Turn off auto swap and swap to prod ourselves (#1104)
-- Merge branch \'dsyme/fbf\' of https://github.com/githubnext/eea into dsyme/fbf
-- integrate main
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/fbf
-- Complete renaming logic in UX by saving renamed in RewrittenFiles and SavedData (#1100)
-- Turn off auto swap and swap to prod ourselves
-- Merge branch \'main\' into dsyme/fbf
-- Merge branch \'main\' into dsyme/mv2
-- Fix #1091: Add slots and auto-swap to web apps (#1093)
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/fbf
-- Fix to stop reconnecting for every  generation of token on implementation (#1103)
-- clarify
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/fbf
-- code review
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/mv2
-- make sure cache key is serializable (#1090)
-- Added buttons to show hide terminal (#1102)
-- increase timeouts
-- Add user to whitelist (#1101)
-- fix typo
-- add \'end\' messages
-- Fix to stop reconnecting for every  generation of token on implementation
-- Added buttons to show hide terminal
-- simplify code
-- increase timeout for playwright tests
-- fix tests
-- make sure we can make PRs of renamed files
-- fix build
-- Add user to whitelist
-- complete renaming logic
-- file by file rewriting, interleave split/implement
-- Merge production into main (#1089)
-- finish fix
-- added a dialog to show live preview url (#1069)
-- make sure key is serializable
-- Merge remote-tracking branch \'origin/production\'
-- Integrate main --&gt; production (#1086)
-- Add caching for symbol ranking, enable TFIDF by default if ctags is enables (#1087)
-- Update file token styles (#1088)
-- add eval flags (#1085)
-- Fix 1070 - opening a merged PR fails if branch has been deleted (#1071)
-- no line numbers (#1083)
-- baseline updates (#1084)
-- Fix #1045: Add health check endpoint and settings (#1046)
-- Open file links with the file explorer (#1081)
-- Fix the confusing console log when codespace is not connected and socket disconnects (#1079)
-- Fix #1072: Add tooltip to file explorer button (#1075)
-- fix to copy files to codespaces logic (#1074)
-- automatic installation and configuration of the file-syncer upon creation of a codespace #972 #1023
-- File explorer (#1035)
-- display the config and make names uniform (#1043)
-- Merge branch \'main\' into dsyme/dc
-- cleanup client a bit (#1044)
-- make names uniform
-- rename
-- cleanup client a bit
-- display config
-- Fix #1039: Save and load debug panel options from local storage (#1040)
-- Fix #1039: Save and load debug panel options from local storage
-- Fix #1028: Add API key for model7 to Terraform (#1029)
-- initial support for renaming (#1027)
-- fixed message (#1032)
-- code clarification
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/mv
-- rename two more
-- fix error reporting in client
-- fix repo name
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/mv
-- fix tests
-- Differentiate spec and plan loading (#1025)
-- fix build
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/mv
-- fix tests
-- initial support for renaming
-- Update terminal button styles (#1026)
-- allow debug panel to override whether to use vision (#1024)
-- fixes codespace file syncing to correctly work in case of directories
-- Fix #1015: Check file name before replacing text via file locator (#1016)
-- Use same instructions for modified spec (#1012)
-- fix tests
-- fix up
-- Fix #1015: Check file name before replacing text via file locator
-- update baselines
-- increase timeout
-- use same instructions for modified spec
-- Pinning (#1005)
-- add docs
-- merge main
-- disable tests
-- Increase temperature on regen attempts (#996)
-- fix 685
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/pin
-- finish pinning and a few prompt clarifications
-- Introduce the notion of sessions #971
-- fix asset title in docs (#1007)
-- fix tests
-- add initial support for gpt-4v (#825)
-- fix meeeting-notes.doc format
-- Add RTGH meeting notes stub (#1006)
-- 982: strip links that aren\'t located files (#1003)
-- pinning
-- quick fix to unblock @szabta89 (#1004)
-- Merge production into main (#1002)
-- fixes .env.local file configuration in all actions workflows
-- Merge main --&gt; production (#999)
-- strip links that aren\'t located files
-- add api options and UX for them (#987)
-- fixes .env.local file contents in E2E
-- Add copy button to file diffs (#989)
--  Collapse the task panel after saving (#988)
-- Update z-index in global.css (#986)
-- Fix trailing connector line on task panel (#973)
-- update baselines (#980)
-- Add support for GPT-4 Turbo (#968)
-- updated logic so that the pty is tied to ssh and exists as soon as ssh terminates to avoid leaking container terminal access (#984)
-- remove directive that caused plans to enlarge (#979)
-- strong file resolution and UX links for existing files (#961)
-- integrates file-syncer with REST endpoints #866
-- Merge production into main (#969)
-- Increase maximum size of filtered file list to allow use with "size 4" repos (#937)
-- fixes GPT4 endpoint URL in the benchmark code
-- Merge remote-tracking branch \'origin/production\'
-- Merge to prod (#963)
-- sync to codespaces after first connection (#962)
-- Retry missed targets; improve plan splitting (#949)
-- Merge branch \'main\' into dsyme/size4
-- Merge branch \'main\' into dsyme/ps4
-- Add regenerate button to plan panel (#960)
-- fix recovery from failed ranking (#959)
-- Merge production into main (#957)
-- fix to correctly display live-preview link and open in new tab (#958)
-- fix recovery
-- Merge branch \'main\' into dsyme/size4
-- Merge branch \'main\' into dsyme/ps4
-- Merge remote-tracking branch \'origin/production\'
-- Merge main --&gt; production (#941)
-- Live-share link (#950)
-- add new stats (#953)
-- Fix #412: Split docs/routes.md into individual files for each route (#955)
-- Add regenerate button to spec panel (#944)
-- Update delete button styles (#956)
-- Add skeleton loader to spec and plan panels (#954)
-- Handle nested plan steps (#952)
-- Allow one-click deleting individual spec items (#951)
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/ps4
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/ps4
-- fix tests
-- improve plan splitting
-- Initial design and implementation of the diff-related REST endpoints (#934)
-- Delete .github/workflows/label_new_issues.yml
-- Update architecture.md
-- api --&gt; api/v1 (#938)
-- prompt updates for #876, #921, #931 (#940)
-- Fix monospace font rendering
-- scale file list to size 4 repos
-- scale file list to size 4 repos
-- Fix 554: Fill file list based on preference order, up to fixed proportion of remaining prompt space (#935)
-- Create codespace on demand when the terminal is request for the first time (#920)
-- Fix failing test (#923)
-- adds initial implementation of the file-differ (#902)
-- Add a test for fetch (#917)
-- Update original-spec.ts
-- fix build
-- Upgrade to Node 20 (#912)
-- removed unused Agent Logic (#910)
-- terminal UX cleanup (#899)
-- Switch from promptlib to js-tiktoken (#905)
-- Revert "Upgrade promptlib and Node versions (#900)" (#904)
-- Upgrade promptlib and Node versions (#900)
-- Add key prop to Home component (#875)
-- Only call setContentGestures for very first content selection (#877)
-- Allow issues to be separate from code (#886)
-- Merge branch \'main\' into dsyme/sep
-- Update test/server/logic/getContentLocator.test.ts
-- Update test/server/logic/getContentLocator.test.ts
-- Update test/server/logic/getContentLocator.test.ts
-- switch to new dv3-v2 deployment (#892)
-- update baselines
-- switch to new dv3-v2 deployment
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/sep
-- add testing
-- Make autoContentTrace and planSplittingTrace visible in client-side and in saved data (#878)
-- allow issues to be separate from code
-- allow issues to be separate from code
-- Merge production into main (#885)
-- Merge remote-tracking branch \'origin/production\'
-- Merge/main to prod (#884)
-- Update architecture.md
-- Update architecture.md
-- Socket cleanup (#883)
-- removed SubjectModel (#882)
-- Increase Playwright timeout to 180s (#881)
-- Terminal (#845)
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/otrace
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/otrace
-- test fixes
-- make autoContents and planSplitting traces visible in client-side and in saved data
-- make autoContents and planSplitting traces visible in client-side and in saved data
-- make autoContents and planSplitting traces visible in client-side and in saved data
-- try fix flaky test
-- Retry Playwright tests 3 times on CI (#873)
-- Create action to label new issues (#869)
-- Refactor-cleanup (#870)
-- Cleanup, rename, refactor (#859)
-- adds share link to the PR description when a PR is created from CW #852
-- Codespaces → Codespace
-- Fix typo
-- Capitalization changes
-- updates architecture docs
-- updates architecture docs
-- Implement plan splitting (#737)
-- code review feedback
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/plan-split
-- adds initial architecture document
-- Update src/server/eea/implement.ts
-- Update src/server/eea/autoContent.ts
-- fixes label name in dogfooding issue template
-- clean up content loading
-- Extends pull request #737: Add docs/plan.md based on src/server/eea/plan.ts
-- Extends pull request #737: Add docs/implement.md
-- update docs
-- cleanup code
-- add testing for plan splitting prompt
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/plan-split
-- remove tests NYI
-- put implement prompts under test
-- Add pull request panel (#844)
-- Update draft type
-- Display PR draft state
-- Update links
-- Create PullRequestPanel
-- Merge production into main (#841)
-- Fix #704: Improve contrast of selected text in CW text fields for light theme (#842)
-- Merge main --&gt; production (#831)
-- Update spec editing UX (#838)
-- Submit task form with command enter
-- Open issue link in a new tab (#834)
-- Open issue link in a new tab
-- tweaks to plan splitting
-- fix plan splitting
-- removes data set limit in command inference benchmark #728
-- modifies command inference benchmark to save individual experiment entries #728
-- adds the initial implementation of the build and test command discovery #728
-- update plan splitting
-- update plan splitting
-- Merge branch \'main\' of https://github.com/githubnext/semantic-workspace into dsyme/plan-split
-- Refactor task form (#829)
-- Merge branch \'main\' into task-edit
-- Refactor task form
-- Generate a page title for the workspace based on the change and plan intents (#827)
-- wip
-- Update markdown styles (#824)
-- Merge production into main (#820)
-- Add Sylvan Clebsch  (#821)
-- Update [...nextauth].ts
-- merge main --&gt; production (#819)
-- Update size-estimation.md
-- Create size-estimation.md
-- Update issue/task viewer UI (#818)
-- plan splitting implementation
-- Minor UI tweaks (#817)
-- Fix duplicate files in targets list (#814)
-- Update file_selection_benchmark.yml
-- Update file_selection_benchmark.yml
-- make targets unique by filepath
-- make targets unique by filepath
-- Merge production into main (#813)
-- merge main --&gt; production (#802)
-- Structural changes to support UX work on task-focused working and iteration (#798)
-- Fix #807: Add gustavoasoares as a guest user (#808)
-- Add issue link to dogfood comment template (#809)
-- Fix 219: add prompt to suppress unwanted plan steps (#803)
-- cleanup and factor out (#800)
-- Add prompt tests and "obvious" improvements to prompts (#787)
-- Merge branch \'main\' into dsyme/pc
-- Update issue-topic.test.ts
-- Update issue-topic.ts
-- Update settings.ts
-- Fix file_selection_benchmark.yml (#792)
-- Update file_selection_benchmark.yml
-- Update autoContent.ts
-- update baselines
-- clarify
-- no selectors for secondary edit
-- fix build
-- fix up ranking in presence of PR
-- Bump next-auth from 4.19.2 to 4.24.5 (#769)
-- list changed files in prompt text for file selection
-- add prompt tests and cleanup prompts
-- adds dummy AI agent benchmark workflow
-- start of prompt cleanup
-- Merge production into main (#780)
-- Merge remote-tracking branch \'origin/production\'
-- Remove logging line left over from earlier PR (#779)
-- Update fetchOrFail.ts
-- Stop model stopping of its own accord (#767)
-- Merge production into main (#778)
-- Merge remote-tracking branch \'origin/production\'
-- Update index.ts
-- Update index.ts (#777)
-- Update index.ts
-- Update index.ts
-- Merge production into main (#776)
-- Merge production to main (#775)
-- lift restrictions (#750)
-- Merge branch \'main\' into dsyme/continue
-- Tasks as query parameters (#695)
-- simplify build to debug app service startup failure
-- pipe server stdout
-- Merge branch \'main\' of https://github.com/githubnext/eea
-- reduce number of workers due to timeouts
-- Fix PRs from forks + clean-up all "fetch" requests and error responses   (#763)
-- use multiple workers for playwright tests
-- cache node_modules
-- cache node_modules
-- fix rebuild of next cache if it doesn\'t exist
-- Merge branch \'main\' of https://github.com/githubnext/eea
-- fix yarn cache!
-- Merge production into main (#770)
-- parallel playwright tests on CI
-- Merge branch \'main\' into dsyme/continue
-- fix ci
-- fix ci
-- cache yarn
-- fix ci
-- fix ci
-- fix ci
-- fix ci
-- fix ci
-- Add basic playwright tests for loading issues, PRs (#736)
-- share actions
-- share actions
-- share actions
-- Merge branch \'main\' of https://github.com/githubnext/eea into dsyme/add-smoke-test
-- Merge branch \'main\' into dsyme/continue
-- Merge main --&gt; production (#768)
-- Fix #760: Suppress bot comment for GH Next (#764)
-- improve model continuation
-- add to README
-- take screen shots
-- fix up CI
-- ignore playwright tests in jest
-- fix callback auth url for playwright
-- add playwright tests
-- add playwright tests
-…</div>
+                                        <div class="sha">#4c7ad3d</div>
+                                        <div class="message">Add capacities extension (#11935)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#388759d</div>
+                                        <div class="sha">#2c4423c</div>
+                                        <div class="message">Docs: Update the utils docs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11b8751</div>
                                         <div class="message">Update CODEOWNERs</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7dd6b00</div>
-                                        <div class="message">Update toothpick extension (#11939)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed6de55</div>
-                                        <div class="message">Update snap-jot extension (#12041)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3901d97</div>
-                                        <div class="message">Update hyrule-compendium-search extension (#12047)
+                                        <div class="sha">#1618a14</div>
+                                        <div class="message">Add nuget-package-explorer extension (#11993)
 
-* Update hyrule-compendium-search extension
+* Add nuget-package-explorer extension
 
-- Merge branch \'contributions/merge-1714246856798465000\'
-- Pull contributions
-- Removed leftover broadSearch command
-- New Features: - Added icons for \`category\` and all \`drops\` for entries that have them.
+- update readme
+- remove redundant code
+- fix the issue of some packages not being able to be opened with Finder.
+- use fast-xml-parser
+- get more possible icons.
+- sort by version
+- support search and add the "links" field.
+- create extension
+- Initial commit
 
-* Removed unused imports
+* Update nuget-package-explorer extension
+
+- 😂
+- add changelog
 
 * Update CHANGELOG.md and optimise images
 
@@ -2365,8 +813,108 @@ Also here.</i>
 Co-authored-by: raycastbot &lt;bot@raycast.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5f6b947</div>
-                                        <div class="message">CI: add batch processing of images due to ImageOptim CLI issue https://github.com/JamieMason/ImageOptim-CLI/issues/205</div>
+                                        <div class="sha">#840639d</div>
+                                        <div class="message">[Groq] minor fixes and updates (#11990)
+
+* Update currentDate format in utils.ts
+
+* improved userPrompt and added userPrompt to Response
+
+* fixed typo in title
+
+* updated prompt
+
+* added CHANGELOG
+
+* updated screenshots
+
+* Updated README
+
+* added screenshots to README
+
+* prettier
+
+* Fix formatting response
+
+* updated screenshots
+
+* Update CHANGELOG.md and optimise images
+
+---------
+
+Co-authored-by: raycastbot &lt;bot@raycast.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6adbeda</div>
+                                        <div class="message">Fix typo in README of jira-search-self-hosted (#12096)
+
+Co-authored-by: Per Nielsen Tikær &lt;per@raycast.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5852513</div>
+                                        <div class="message">Update outline-page extension (#11955)
+
+* Update outline-page extension
+
+- Add Error Message for Brave Browser
+- Pull contributions
+- Add Error Message for Brave Browser
+- Pull contributions
+- Add Error Message for Brave Browser
+- Update Images
+- Initial Commit ✨
+
+* Add Changelog
+
+* Fix eslint version</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c08071</div>
+                                        <div class="message">Removed the double style</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#144acc4</div>
+                                        <div class="message">Update CODEOWNERs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de4e965</div>
+                                        <div class="message">Update terraform-doc extension (#11947)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4903ac</div>
+                                        <div class="message">Update CODEOWNERs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef8b589</div>
+                                        <div class="message">Update json-format extension (#11938)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e73dd16</div>
+                                        <div class="message">Update contribute-to-an-extension.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bff9204</div>
+                                        <div class="message">Update CODEOWNERs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#577f8c8</div>
+                                        <div class="message">Update supernotes extension (#11598)
+
+* Update supernotes extension
+
+- Fix colors and update API definitions
+- Initial commit
+
+* Update supernotes extension
+
+- Fix colors and update API definitions
+- Fix colors and update API definitions
+
+* Update images to have consistent background</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#341c660</div>
+                                        <div class="message">Update power-management extension (#11917)</div>
                                     </div>
                                 </div>
                             </section>
@@ -2383,10 +931,30 @@ Co-authored-by: raycastbot &lt;bot@raycast.com&gt;</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">ext/wayback-machine</span></div>
+                                    <div>on branch <span class="code">ext/mac-app-store-search</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d44bb51</div>
-                                        <div class="message">Update dev tools &amp; fix linting errors</div>
+                                        <div class="sha">#f7a55de</div>
+                                        <div class="message">Update screenshot</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#12091 Update mac-app-store-search extension</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by j3lte in <span class="repo">raycast/extensions</span></div>
+                                    <div class="comment">
+                                        <i>@j3lte could we also update the metadata images to reflect the current state?</i>
+                                        @say4n will do
                                     </div>
                                 </div>
                             </section>
@@ -2399,12 +967,12 @@ Co-authored-by: raycastbot &lt;bot@raycast.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#12072 Update wayback-machine extension</span>
+                                        <span class="issue">#12091 Update mac-app-store-search extension</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">raycast/extensions</span></div>
-                                    <div>4 files changed <span class="code">++119 --56</span></div>
+                                    <div>3 files changed <span class="code">++27 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2413,7 +981,7 @@ Co-authored-by: raycastbot &lt;bot@raycast.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Apr 2024, 00:22:36  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 May 2024, 00:25:06  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
