@@ -26,7 +26,7 @@ Check out my [freelance website](https://caffcode.com) for more info.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeltelagendijk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://developer.mendixcloud.com/link/profile/overview/609393" target="_blank"><img src="https://raw.githubusercontent.com/j3lte/j3lte/main/mendix_profile-blue.svg" target="_blank"></a>
+  <a href="https://developerprofiles.mendix.com/link/profile/overview/609393" target="_blank"><img src="https://raw.githubusercontent.com/j3lte/j3lte/main/mendix_profile-blue.svg" target="_blank"></a>
   <a href="https://github.com/J3lte" target="_blank"><img src="https://img.shields.io/github/followers/J3lte?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </p>
 
