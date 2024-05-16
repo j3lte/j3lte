@@ -17,6 +17,7 @@ Check out my [freelance website](https://caffcode.com) for more info.
   <img align="center" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <a href="https://raycast.com/j3lte" target="_blank"><img align="center" alt="CSS3" src="https://img.shields.io/badge/raycast-%23000000.svg?style=for-the-badge&logo=raycast&logoColor=red"></a>
 </p>
 
 <br />
