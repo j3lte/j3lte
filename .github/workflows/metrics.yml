@@ -21,6 +21,3 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_repositories: yes
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
