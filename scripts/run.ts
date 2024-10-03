@@ -56,7 +56,7 @@ type DataObject = {
 };
 
 const dataPath = import.meta.resolve(
-  "../awesome-raycast/data/data.json",
+  "../repo/data/data.json",
 ).replace("file://", "");
 const readMePath = import.meta.resolve(
   "../README.md",

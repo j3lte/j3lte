@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "local_checkout": "git clone --depth=1 -b main clone git@github.com:j3lte/awesome-raycast.git",
+    "local_checkout": "git clone --depth=1 -b main git@github.com:j3lte/awesome-raycast.git ./repo",
     "run": "deno run -A scripts/run.ts"
   },
   "imports": {
