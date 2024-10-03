@@ -6,15 +6,15 @@ Have been doing mostly Front End development in the past, but made the transitio
 </div>
 
 <div align="center">
-  <img align="center" alt="profile-details" src="./profile-summary-card-output/nord_bright/0-profile-details.svg">
+  <img align="center" alt="profile-details" src="./profile-summary-card-output/github/0-profile-details.svg">
 </div>
 <div align="center">
-  <img align="center" alt="repos-per-language" src="./profile-summary-card-output/nord_bright/1-repos-per-language.svg">
-  <img align="center" alt="most-commit-language" src="./profile-summary-card-output/nord_bright/2-most-commit-language.svg">
+  <img align="center" alt="repos-per-language" src="./profile-summary-card-output/github/1-repos-per-language.svg">
+  <img align="center" alt="most-commit-language" src="./profile-summary-card-output/github/2-most-commit-language.svg">
 </div>
 <div align="center">
-  <img align="center" alt="stats" src="./profile-summary-card-output/nord_bright/3-stats.svg">
-  <img align="center" alt="productive-time" src="./profile-summary-card-output/nord_bright/4-productive-time.svg">
+  <img align="center" alt="stats" src="./profile-summary-card-output/github/3-stats.svg">
+  <img align="center" alt="productive-time" src="./profile-summary-card-output/github/4-productive-time.svg">
 </div>
 
 <br />
