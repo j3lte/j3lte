@@ -95,14 +95,14 @@ for (let i = 0; i < maxRow; i++) {
   const contributed = allContributedPackages[i];
 
   const authoredEntry = authored && authored.length === 2
-    ? `[${authored[1].title} \`${authored[1].api}\`](https://raycast/${
+    ? `[${authored[1].title} \`${authored[1].api}\`](https://raycast.com/${
       authored[1].author
     }/${authored[0]})`
     : " ";
   const contributedEntry = contributed && contributed.length === 2
-    ? `[${contributed[1].title} \`${contributed[1].api}\`](https://raycast/${
-      contributed[1].author
-    }/${contributed[0]})`
+    ? `[${contributed[1].title} \`${
+      contributed[1].api
+    }\`](https://raycast.com/${contributed[1].author}/${contributed[0]})`
     : " ";
 
   table += `\n| ${authoredEntry} | ${contributedEntry} |`;
