@@ -55,14 +55,12 @@ type DataObject = {
   swift?: boolean;
 };
 
-const dataPath = resolve(
-  import.meta.dirname || "",
+const dataPath = import.meta.resolve(
   "../awesome-raycast/data/data.json",
-);
-const readMePath = resolve(
-  import.meta.dirname || "",
+).replace("file://", "");
+const readMePath = import.meta.resolve(
   "../README.md",
-);
+).replace("file://", "");
 
 const dataFile = await exists(dataPath);
 const readMeFile = await exists(readMePath);
