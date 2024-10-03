@@ -6,15 +6,35 @@ Have been doing mostly Front End development in the past, but made the transitio
 </div>
 
 <div align="center">
-  <img align="center" alt="profile-details" src="./profile-summary-card-output/github/0-profile-details.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg">
+    <img align="center" alt="Profile details" src="./profile-summary-card-output/github/0-profile-details.svg">
+  </picture>
 </div>
 <div align="center">
-  <img align="center" alt="repos-per-language" src="./profile-summary-card-output/github/1-repos-per-language.svg">
-  <img align="center" alt="most-commit-language" src="./profile-summary-card-output/github/2-most-commit-language.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/1-repos-per-language.svg">
+    <img align="center" alt="Repos per language" src="./profile-summary-card-output/github/1-repos-per-language.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/2-most-commit-language.svg">
+    <img align="center" alt="Most commit language" src="./profile-summary-card-output/github/2-most-commit-language.svg">
+  </picture>
 </div>
 <div align="center">
-  <img align="center" alt="stats" src="./profile-summary-card-output/github/3-stats.svg">
-  <img align="center" alt="productive-time" src="./profile-summary-card-output/github/4-productive-time.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg">
+    <img align="center" alt="Stats" src="./profile-summary-card-output/github/3-stats.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/4-productive-time.svg">
+    <img align="center" alt="Productive time" src="./profile-summary-card-output/github/4-productive-time.svg">
+  </picture>
 </div>
 
 <br />
