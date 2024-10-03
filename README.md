@@ -12,6 +12,7 @@ Have been doing mostly Front End development in the past, but made the transitio
     <img align="center" alt="Profile details" src="./profile-summary-card-output/github/0-profile-details.svg">
   </picture>
 </div>
+<br />
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
@@ -24,6 +25,7 @@ Have been doing mostly Front End development in the past, but made the transitio
     <img align="center" alt="Most commit language" src="./profile-summary-card-output/github/2-most-commit-language.svg">
   </picture>
 </div>
+<br />
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
@@ -34,6 +36,14 @@ Have been doing mostly Front End development in the past, but made the transitio
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/4-productive-time.svg">
     <img align="center" alt="Productive time" src="./profile-summary-card-output/github/4-productive-time.svg">
+  </picture>
+</div>
+<br />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img align="center" alt="Profile details" src="./profile-3d-contrib/profile-green-animate.svg">
   </picture>
 </div>
 
