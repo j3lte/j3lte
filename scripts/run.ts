@@ -1,6 +1,49 @@
 import { exists } from "@std/fs";
 import { resolve } from "@std/path";
-import { updateText } from "./utils/index.ts";
+
+/**
+ * @param blockID {string} block to update (e.g. `<!-- START blockID -->`)
+ * @param text {string} text to update
+ * @param update {string} text to insert between blockID
+ * @returns
+ */
+const updateText = (
+  blockID: string,
+  text: string,
+  update: string,
+): {
+  updatedText: string;
+  hasChanges: boolean;
+} => {
+  const snippetIdentifier = `<!-- START ${blockID} -->`;
+  const startSnippetPos = text.indexOf(snippetIdentifier);
+  const endSnippetPos = text.indexOf(`<!-- END ${blockID} -->`);
+
+  const startSnippet = text.slice(
+    0,
+    startSnippetPos + snippetIdentifier.length,
+  );
+  const endSnippet = text.slice(endSnippetPos);
+
+  const currentText = text.slice(
+    startSnippetPos + snippetIdentifier.length,
+    endSnippetPos,
+  );
+  // console.log(currentText);
+  const updatedText = `${startSnippet}\n${update}\n${endSnippet}`;
+  const compared = currentText.trim().localeCompare(update.trim());
+
+  if (compared === 0) {
+    console.log(`No changes detected for ${blockID}`);
+  } else {
+    console.log(`Changes detected for ${blockID}`);
+  }
+
+  return {
+    updatedText,
+    hasChanges: compared !== 0,
+  };
+};
 
 type DataObject = {
   title: string;
@@ -59,7 +102,7 @@ for (let i = 0; i < maxRow; i++) {
   const contributedEntry = contributed && contributed.length === 2
     ? `[${contributed[1].title} \`${contributed[1].api}\`](https://raycast/${
       contributed[1].author
-    })/${contributed[0]})`
+    }/${contributed[0]})`
     : " ";
 
   table += `\n| ${authoredEntry} | ${contributedEntry} |`;
@@ -70,4 +113,4 @@ const README = await Deno.readTextFile(readMePath);
 
 const { updatedText } = updateText("RAYCAST", README, table);
 
-console.log(updatedText);
+await Deno.writeTextFile(readMePath, updatedText);
