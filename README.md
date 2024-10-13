@@ -99,7 +99,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [The Movie Database `^1.69.0`](https://raycast.com/Aayush9029/tmdb) |
 |   | [TinyPNG `^1.83.1`](https://raycast.com/kawamataryo/tinypng) |
 |   | [Transmission `^1.71.3`](https://raycast.com/FezVrasta/transmission) |
-|   | [Unicode Symbols Search `^1.83.1`](https://raycast.com/mmazzarolo/unicode-symbols) |
+|   | [Unicode Symbols Search `^1.84.2`](https://raycast.com/mmazzarolo/unicode-symbols) |
 |   | [Wayback Machine `^1.72.1`](https://raycast.com/pernielsentikaer/wayback-machine) |
 |   | [Whois `^1.79.1`](https://raycast.com/zavbala/whois) |
 |   | [Wikipedia `^1.71.1`](https://raycast.com/vimtor/wikipedia) |
