@@ -80,8 +80,8 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [HubSpot `^1.79.1`](https://raycast.com/harisvsulaiman/hubspot) |
 |   | [IconPark `^1.78.0`](https://raycast.com/koinzhang/iconpark) |
 |   | [Jump `^1.63.0`](https://raycast.com/HelloImSteven/jump) |
-|   | [JustWatch Search `^1.83.1`](https://raycast.com/rishabswift/search-justwatch) |
-|   | [Library Genesis `^1.67.1`](https://raycast.com/yz3440/library-genesis) |
+|   | [JustWatch Search `^1.84.2`](https://raycast.com/rishabswift/search-justwatch) |
+|   | [Library Genesis `^1.79.0`](https://raycast.com/yz3440/library-genesis) |
 |   | [Mac App Store Search `^1.69.0`](https://raycast.com/say4n/mac-app-store-search) |
 |   | [MyIP `^1.70.2`](https://raycast.com/Kang/myip) |
 |   | [NATO Phonetic Alphabet `^1.79.1`](https://raycast.com/jns/nato-phonetic-alphabet) |
