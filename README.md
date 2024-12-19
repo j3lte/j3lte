@@ -93,13 +93,13 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Raindrop.io `^1.79.1`](https://raycast.com/lardissone/raindrop-io) |
 |   | [Random Data Generator `^1.66.2`](https://raycast.com/loris/random) |
 |   | [Search MDN `^1.76.0`](https://raycast.com/krzysztofzuraw/search-mdn) |
-|   | [Search npm Packages `^1.83.2`](https://raycast.com/mrmartineau/search-npm) |
+|   | [Search npm Packages `^1.87.5`](https://raycast.com/mrmartineau/search-npm) |
 |   | [Sonarr `^1.72.1`](https://raycast.com/Aayush9029/sonarr) |
 |   | [Tailscale `^1.77.3`](https://raycast.com/samlinville/tailscale) |
 |   | [The Movie Database `^1.69.0`](https://raycast.com/Aayush9029/tmdb) |
 |   | [TinyPNG `^1.83.1`](https://raycast.com/kawamataryo/tinypng) |
 |   | [Transmission `^1.71.3`](https://raycast.com/FezVrasta/transmission) |
-|   | [Unicode Symbols Search `^1.84.2`](https://raycast.com/mmazzarolo/unicode-symbols) |
+|   | [Unicode Symbols Search `^1.88.3`](https://raycast.com/mmazzarolo/unicode-symbols) |
 |   | [Wayback Machine `^1.72.1`](https://raycast.com/pernielsentikaer/wayback-machine) |
 |   | [Whois `^1.79.1`](https://raycast.com/zavbala/whois) |
 |   | [Wikipedia `^1.71.1`](https://raycast.com/vimtor/wikipedia) |
