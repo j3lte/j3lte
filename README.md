@@ -65,7 +65,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 
 | Authored | Contributed |
 | --- | --- |
-| [Anna's Archive `^1.82.5`](https://raycast.com/j3lte/anna-s-archive) | [Brew `^1.78.1`](https://raycast.com/nhojb/brew) |
+| [Anna's Archive `^1.82.5`](https://raycast.com/j3lte/anna-s-archive) | [Brew `^1.88.4`](https://raycast.com/nhojb/brew) |
 | [Composerize `^1.72.1`](https://raycast.com/j3lte/composerize) | [Can I Use `^1.71.1`](https://raycast.com/thomaslombart/can-i-use) |
 | [CSS Tricks `^1.79.1`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `^1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Deno Deploy `^1.71.4`](https://raycast.com/j3lte/deno-deploy) | [Country Lookup `^1.76.1`](https://raycast.com/pernielsentikaer/country-lookup) |
@@ -102,7 +102,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Unicode Symbols Search `^1.88.3`](https://raycast.com/mmazzarolo/unicode-symbols) |
 |   | [Wayback Machine `^1.88.4`](https://raycast.com/pernielsentikaer/wayback-machine) |
 |   | [Whois `^1.79.1`](https://raycast.com/zavbala/whois) |
-|   | [Wikipedia `^1.71.1`](https://raycast.com/vimtor/wikipedia) |
+|   | [Wikipedia `^1.79.0`](https://raycast.com/vimtor/wikipedia) |
 |   | [Word Search `^1.84.3`](https://raycast.com/rishabswift/word-search) |
 
 <!-- END RAYCAST -->
