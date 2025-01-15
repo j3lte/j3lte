@@ -93,7 +93,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Raindrop.io `^1.79.1`](https://raycast.com/lardissone/raindrop-io) |
 |   | [Random Data Generator `^1.66.2`](https://raycast.com/loris/random) |
 |   | [Search MDN `^1.76.0`](https://raycast.com/krzysztofzuraw/search-mdn) |
-|   | [Search npm Packages `^1.87.5`](https://raycast.com/mrmartineau/search-npm) |
+|   | [Search npm Packages `^1.88.4`](https://raycast.com/mrmartineau/search-npm) |
 |   | [Sonarr `^1.72.1`](https://raycast.com/Aayush9029/sonarr) |
 |   | [Tailscale `^1.77.3`](https://raycast.com/samlinville/tailscale) |
 |   | [The Movie Database `^1.69.0`](https://raycast.com/Aayush9029/tmdb) |
