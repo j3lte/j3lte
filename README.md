@@ -74,7 +74,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Freesound `^1.76.0`](https://raycast.com/j3lte/freesound) | [Fotmob `^1.76.0`](https://raycast.com/iamlas/fotmob) |
 | [Govee `^1.79.1`](https://raycast.com/j3lte/govee) | [Get SSH Key `^1.76.0`](https://raycast.com/Theon/get-ssh-key) |
 | [JSR `^1.86.1`](https://raycast.com/j3lte/jsr) | [GIF Search `^1.72.1`](https://raycast.com/josephschmitt/gif-search) |
-| [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [GitHub `^1.76.1`](https://raycast.com/thomaslombart/github) |
+| [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) |
 | [Password Strength `^1.83.1`](https://raycast.com/j3lte/password-strength) | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/github-repository-search) |
 | [Substack `^1.71.4`](https://raycast.com/j3lte/substack) | [Heroicons `^1.70.3`](https://raycast.com/johndoe123789/heroicons) |
 |   | [HubSpot `^1.79.1`](https://raycast.com/harisvsulaiman/hubspot) |
