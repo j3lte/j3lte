@@ -68,7 +68,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Anna's Archive `^1.82.5`](https://raycast.com/j3lte/anna-s-archive) | [Brew `^1.88.4`](https://raycast.com/nhojb/brew) |
 | [Composerize `^1.72.1`](https://raycast.com/j3lte/composerize) | [Can I Use `^1.71.1`](https://raycast.com/thomaslombart/can-i-use) |
 | [CSS Tricks `^1.79.1`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `^1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
-| [Deno Deploy `^1.71.4`](https://raycast.com/j3lte/deno-deploy) | [Country Lookup `^1.76.1`](https://raycast.com/pernielsentikaer/country-lookup) |
+| [Deno Deploy `^1.93.2`](https://raycast.com/j3lte/deno-deploy) | [Country Lookup `^1.76.1`](https://raycast.com/pernielsentikaer/country-lookup) |
 | [Evil Insult `^1.76.1`](https://raycast.com/j3lte/evil-insult) | [DevDocs `^1.79.1`](https://raycast.com/djpowers/devdocs) |
 | [Exif Viewer `^1.72.1`](https://raycast.com/j3lte/exif) | [Dig - DNS Lookup `^1.69.3`](https://raycast.com/danielbahl/dig) |
 | [Freesound `^1.76.0`](https://raycast.com/j3lte/freesound) | [Fotmob `^1.76.0`](https://raycast.com/iamlas/fotmob) |
