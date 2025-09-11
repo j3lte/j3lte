@@ -91,7 +91,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Pixabay `^1.71.4`](https://raycast.com/tonka3000/pixabay) |
 |   | [Placeholder `^1.79.1`](https://raycast.com/koinzhang/placeholder) |
 |   | [Pomodoro `^1.86.1`](https://raycast.com/asubbotin/pomodoro) |
-|   | [Raindrop.io `^1.79.1`](https://raycast.com/lardissone/raindrop-io) |
+|   | [Raindrop.io `^1.102.6`](https://raycast.com/lardissone/raindrop-io) |
 |   | [Random Data Generator `^1.66.2`](https://raycast.com/loris/random) |
 |   | [Search MDN `^1.76.0`](https://raycast.com/krzysztofzuraw/search-mdn) |
 |   | [Search npm Packages `^1.88.4`](https://raycast.com/mrmartineau/search-npm) |
