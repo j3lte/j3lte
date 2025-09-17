@@ -84,7 +84,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [JustWatch Search `^1.84.2`](https://raycast.com/rishabswift/search-justwatch) |
 |   | [Library Genesis `^1.101.1`](https://raycast.com/yz3440/library-genesis) |
 |   | [Mac App Store Search `^1.69.0`](https://raycast.com/say4n/mac-app-store-search) |
-|   | [MyIP `^1.70.2`](https://raycast.com/Kang/myip) |
+|   | [MyIP `^1.102.7`](https://raycast.com/Kang/myip) |
 |   | [NATO Phonetic Alphabet `^1.79.1`](https://raycast.com/jns/nato-phonetic-alphabet) |
 |   | [OBS Control `^1.79.1`](https://raycast.com/Yukai/obs-control) |
 |   | [Open Graph `^1.72.1`](https://raycast.com/1weiho/open-graph) |
