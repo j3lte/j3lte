@@ -1,10 +1,12 @@
 {
   "tasks": {
     "local_checkout": "git clone --depth=1 -b main git@github.com:j3lte/awesome-raycast.git ./repo",
-    "run": "deno run -A scripts/run.ts"
+    "run": "deno run -A scripts/run.ts",
+    "run_local": "deno run --env-file -A scripts/run.ts"
   },
   "imports": {
-    "@std/fs": "jsr:@std/fs@^1.0.4",
-    "@std/path": "jsr:@std/path@^1.0.6"
+    "@std/fs": "jsr:@std/fs@^1.0.19",
+    "@std/path": "jsr:@std/path@^1.1.2",
+    "octokit": "npm:octokit@^5.0.3"
   }
 }

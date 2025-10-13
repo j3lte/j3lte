@@ -21,10 +21,9 @@ jobs:
           path: repo
           fetch-depth: 1
 
-      - name: Setup Deno
-        uses: denoland/setup-deno@v1
+      - uses: denoland/setup-deno@v2
         with:
-          deno-version: v1.46.x
+          deno-version: v2.5.4
 
       - name: Update Readme
         run: deno task run

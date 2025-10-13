@@ -1,5 +1,5 @@
 import { exists } from "@std/fs";
-import { resolve } from "@std/path";
+import { createOctoKit } from "./utils.ts";
 
 /**
  * @param blockID {string} block to update (e.g. `<!-- START blockID -->`)
@@ -81,10 +81,48 @@ const allContributedPackages = Object.entries(data).filter((p) =>
   p[1].contributors.includes("j3lte")
 ).sort((a, b) => a[1].title.localeCompare(b[1].title));
 
+console.log(allAuthoredPackages.length);
+
+const octokit = createOctoKit();
+
+const issues = await octokit.rest.issues.listForRepo({
+  owner: "raycast",
+  repo: "extensions",
+  state: "open",
+  mentioned: "j3lte",
+  per_page: 100, // Adjust as needed, max is 100 per page
+});
+
+const issueMapping = issues.data.filter((issue) =>
+  issue.url.includes("/issues/")
+)
+  .map((issue) =>
+    issue.labels.find((label) =>
+      typeof label === "string"
+        ? label.includes("extension:")
+        : label?.name?.includes("extension:") ?? null
+    )
+  ).map((label) => typeof label === "string" ? label : label?.name ?? null)
+  .filter((label) => label !== null)
+  .reduce((acc, label) => {
+    const name = label.split(":")[1].trim();
+    if (!name) {
+      return acc;
+    }
+    if (!acc.has(name)) {
+      acc.set(name, 1);
+    } else {
+      acc.set(name, acc.get(name)! + 1);
+    }
+    return acc;
+  }, new Map<string, number>());
+
 const maxRow = Math.max(
   allAuthoredPackages.length,
   allContributedPackages.length,
 );
+
+// https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20anna-s-archive%22%20state%3Aopen
 
 // Generate markdown table, with on the left the packages I authored, and on the right the packages I contributed to
 let table = "\n| Authored | Contributed |\n| --- | --- |";
@@ -95,12 +133,28 @@ for (let i = 0; i < maxRow; i++) {
   const authoredEntry = authored && authored.length === 2
     ? `[${authored[1].title} \`${authored[1].api}\`](https://raycast.com/${
       authored[1].author
-    }/${authored[0]})`
+    }/${authored[0]})${
+      issueMapping.get(authored[0])
+        ? ` [(⚠️${
+          issueMapping.get(authored[0])
+        })](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20${
+          authored[0]
+        }%22%20state%3Aopen)`
+        : ""
+    }`
     : " ";
   const contributedEntry = contributed && contributed.length === 2
     ? `[${contributed[1].title} \`${
       contributed[1].api
-    }\`](https://raycast.com/${contributed[1].author}/${contributed[0]})`
+    }\`](https://raycast.com/${contributed[1].author}/${contributed[0]})${
+      issueMapping.get(contributed[0])
+        ? ` [(⚠️${
+          issueMapping.get(contributed[0])
+        })](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20${
+          contributed[0]
+        }%22%20state%3Aopen)`
+        : ""
+    }`
     : " ";
 
   table += `\n| ${authoredEntry} | ${contributedEntry} |`;
