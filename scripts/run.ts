@@ -81,8 +81,6 @@ const allContributedPackages = Object.entries(data).filter((p) =>
   p[1].contributors.includes("j3lte")
 ).sort((a, b) => a[1].title.localeCompare(b[1].title));
 
-console.log(allAuthoredPackages.length);
-
 const octokit = createOctoKit();
 
 const issues = await octokit.rest.issues.listForRepo({
