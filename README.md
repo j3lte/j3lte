@@ -65,20 +65,20 @@ Have been doing mostly Front End development in the past, but made the transitio
 
 | Authored | Contributed |
 | --- | --- |
-| [Anna's Archive `^1.82.5`](https://raycast.com/j3lte/anna-s-archive) | [Brew `^1.88.4`](https://raycast.com/nhojb/brew) |
+| [Anna's Archive `^1.82.5`](https://raycast.com/j3lte/anna-s-archive) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20anna-s-archive%22%20state%3Aopen) | [Brew `^1.88.4`](https://raycast.com/nhojb/brew) |
 | [Composerize `^1.72.1`](https://raycast.com/j3lte/composerize) | [Can I Use `^1.71.1`](https://raycast.com/thomaslombart/can-i-use) |
-| [CSS Tricks `^1.79.1`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `^1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
+| [CSS Tricks `^1.79.1`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `^1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20capture-fullpage-of-website%22%20state%3Aopen) |
 | [Deno Deploy `^1.93.2`](https://raycast.com/j3lte/deno-deploy) | [Country Lookup `^1.99.4`](https://raycast.com/pernielsentikaer/country-lookup) |
 | [Evil Insult `^1.76.1`](https://raycast.com/j3lte/evil-insult) | [DevDocs `^1.79.1`](https://raycast.com/djpowers/devdocs) |
-| [Exif Viewer `^1.72.1`](https://raycast.com/j3lte/exif) | [Dig - DNS Lookup `^1.69.3`](https://raycast.com/danielbahl/dig) |
-| [Freesound `^1.76.0`](https://raycast.com/j3lte/freesound) | [Fotmob `^1.76.0`](https://raycast.com/iamlas/fotmob) |
+| [Exif Viewer `^1.72.1`](https://raycast.com/j3lte/exif) | [Dig - DNS Lookup `^1.69.3`](https://raycast.com/danielbahl/dig) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20dig%22%20state%3Aopen) |
+| [Freesound `^1.76.0`](https://raycast.com/j3lte/freesound) | [Fotmob `^1.76.0`](https://raycast.com/iamlas/fotmob) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20fotmob%22%20state%3Aopen) |
 | [Govee `^1.79.1`](https://raycast.com/j3lte/govee) | [Get SSH Key `^1.100.3`](https://raycast.com/Theon/get-ssh-key) |
 | [JSR `^1.86.1`](https://raycast.com/j3lte/jsr) | [GIF Search `^1.93.2`](https://raycast.com/josephschmitt/gif-search) |
-| [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) |
+| [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️16)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 | [Password Strength `^1.83.1`](https://raycast.com/j3lte/password-strength) | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/github-repository-search) |
-| [Substack `^1.71.4`](https://raycast.com/j3lte/substack) | [Google Calendar `^1.94.2`](https://raycast.com/thomas/google-calendar) |
+| [Substack `^1.71.4`](https://raycast.com/j3lte/substack) | [Google Calendar `^1.94.2`](https://raycast.com/thomas/google-calendar) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
 |   | [Heroicons `^1.70.3`](https://raycast.com/johndoe123789/heroicons) |
-|   | [HubSpot `^1.99.4`](https://raycast.com/harisvsulaiman/hubspot) |
+|   | [HubSpot `^1.99.4`](https://raycast.com/harisvsulaiman/hubspot) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20hubspot%22%20state%3Aopen) |
 |   | [IconPark `^1.78.0`](https://raycast.com/koinzhang/iconpark) |
 |   | [Jump `^1.63.0`](https://raycast.com/HelloImSteven/jump) |
 |   | [JustWatch Search `^1.84.2`](https://raycast.com/rishabswift/search-justwatch) |
@@ -90,11 +90,11 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Open Graph `^1.72.1`](https://raycast.com/1weiho/open-graph) |
 |   | [Pixabay `^1.71.4`](https://raycast.com/tonka3000/pixabay) |
 |   | [Placeholder `^1.79.1`](https://raycast.com/koinzhang/placeholder) |
-|   | [Pomodoro `^1.86.1`](https://raycast.com/asubbotin/pomodoro) |
-|   | [Raindrop.io `^1.102.6`](https://raycast.com/lardissone/raindrop-io) |
-|   | [Random Data Generator `^1.66.2`](https://raycast.com/loris/random) |
+|   | [Pomodoro `^1.86.1`](https://raycast.com/asubbotin/pomodoro) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20pomodoro%22%20state%3Aopen) |
+|   | [Raindrop.io `^1.102.6`](https://raycast.com/lardissone/raindrop-io) [(⚠️5)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20raindrop-io%22%20state%3Aopen) |
+|   | [Random Data Generator `^1.66.2`](https://raycast.com/loris/random) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20random%22%20state%3Aopen) |
 |   | [Search MDN `^1.76.0`](https://raycast.com/krzysztofzuraw/search-mdn) |
-|   | [Search npm Packages `^1.88.4`](https://raycast.com/mrmartineau/search-npm) |
+|   | [Search npm Packages `^1.88.4`](https://raycast.com/mrmartineau/search-npm) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20search-npm%22%20state%3Aopen) |
 |   | [Sonarr `^1.72.1`](https://raycast.com/Aayush9029/sonarr) |
 |   | [Tailscale `^1.77.3`](https://raycast.com/samlinville/tailscale) |
 |   | [The Movie Database `^1.69.0`](https://raycast.com/Aayush9029/tmdb) |
@@ -103,8 +103,8 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Unicode Symbols Search `^1.103.3`](https://raycast.com/mmazzarolo/unicode-symbols) |
 |   | [Wayback Machine `^1.88.4`](https://raycast.com/pernielsentikaer/wayback-machine) |
 |   | [Whois `^1.102.3`](https://raycast.com/zavbala/whois) |
-|   | [Wikipedia `^1.79.0`](https://raycast.com/vimtor/wikipedia) |
-|   | [Word Search `^1.84.3`](https://raycast.com/rishabswift/word-search) |
+|   | [Wikipedia `^1.79.0`](https://raycast.com/vimtor/wikipedia) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20wikipedia%22%20state%3Aopen) |
+|   | [Word Search `^1.84.3`](https://raycast.com/rishabswift/word-search) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20word-search%22%20state%3Aopen) |
 
 <!-- END RAYCAST -->
 
