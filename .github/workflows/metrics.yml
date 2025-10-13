@@ -27,6 +27,8 @@ jobs:
 
       - name: Update Readme
         run: deno task run
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
