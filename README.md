@@ -78,7 +78,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Password Strength `^1.83.1`](https://raycast.com/j3lte/password-strength) | [GIF Search `^1.93.2`](https://raycast.com/josephschmitt/gif-search) |
 | [Substack `^1.71.4`](https://raycast.com/j3lte/substack) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️16)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 |   | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/github-repository-search) |
-|   | [Google Calendar `^1.94.2`](https://raycast.com/thomas/google-calendar) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
+|   | [Google Calendar `^1.94.2`](https://raycast.com/thomas/google-calendar) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
 |   | [Google Chrome `^1.103.3`](https://raycast.com/Codely/google-chrome) |
 |   | [Heroicons `^1.70.3`](https://raycast.com/johndoe123789/heroicons) |
 |   | [HubSpot `^1.99.4`](https://raycast.com/harisvsulaiman/hubspot) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20hubspot%22%20state%3Aopen) |
