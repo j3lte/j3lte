@@ -71,7 +71,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Deno Deploy `^1.93.2`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `^1.102.5`](https://raycast.com/xmok/changedetection-io) |
 | [Evil Insult `^1.76.1`](https://raycast.com/j3lte/evil-insult) | [Country Lookup `^1.99.4`](https://raycast.com/pernielsentikaer/country-lookup) |
 | [Exif Viewer `^1.72.1`](https://raycast.com/j3lte/exif) | [DevDocs `^1.79.1`](https://raycast.com/djpowers/devdocs) |
-| [Freesound `^1.76.0`](https://raycast.com/j3lte/freesound) | [Dig - DNS Lookup `^1.69.3`](https://raycast.com/danielbahl/dig) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20dig%22%20state%3Aopen) |
+| [Freesound `^1.76.0`](https://raycast.com/j3lte/freesound) | [Dig - DNS Lookup `^1.69.3`](https://raycast.com/danielbahl/dig) |
 | [Govee `^1.79.1`](https://raycast.com/j3lte/govee) | [Font Awesome `^1.103.3`](https://raycast.com/dutzi/font-awesome) |
 | [JSR `^1.86.1`](https://raycast.com/j3lte/jsr) | [Fotmob `^1.76.0`](https://raycast.com/iamlas/fotmob) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20fotmob%22%20state%3Aopen) |
 | [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [Get SSH Key `^1.100.3`](https://raycast.com/Theon/get-ssh-key) |
@@ -79,7 +79,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Substack `^1.71.4`](https://raycast.com/j3lte/substack) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️16)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 |   | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/github-repository-search) |
 |   | [Google Calendar `^1.94.2`](https://raycast.com/thomas/google-calendar) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
-|   | [Google Chrome `^1.103.3`](https://raycast.com/Codely/google-chrome) |
+|   | [Google Chrome `^1.103.3`](https://raycast.com/Codely/google-chrome) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
 |   | [Heroicons `^1.70.3`](https://raycast.com/johndoe123789/heroicons) |
 |   | [HubSpot `^1.99.4`](https://raycast.com/harisvsulaiman/hubspot) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20hubspot%22%20state%3Aopen) |
 |   | [IconPark `^1.78.0`](https://raycast.com/koinzhang/iconpark) |
