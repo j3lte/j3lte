@@ -65,9 +65,9 @@ Have been doing mostly Front End development in the past, but made the transitio
 
 | Authored | Contributed |
 | --- | --- |
-| [Anna's Archive `^1.102.5`](https://raycast.com/j3lte/anna-s-archive) | [Brew `^1.88.4`](https://raycast.com/nhojb/brew) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
+| [Anna's Archive `^1.102.5`](https://raycast.com/j3lte/anna-s-archive) | [Brew `^1.88.4`](https://raycast.com/nhojb/brew) |
 | [Composerize `^1.72.1`](https://raycast.com/j3lte/composerize) | [Can I Use `^1.71.1`](https://raycast.com/thomaslombart/can-i-use) |
-| [CSS Tricks `^1.79.1`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `^1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20capture-fullpage-of-website%22%20state%3Aopen) |
+| [CSS Tricks `^1.79.1`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `^1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20capture-fullpage-of-website%22%20state%3Aopen) |
 | [Deno Deploy `^1.93.2`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `^1.102.5`](https://raycast.com/xmok/changedetection-io) |
 | [Evil Insult `^1.76.1`](https://raycast.com/j3lte/evil-insult) | [Country Lookup `^1.99.4`](https://raycast.com/pernielsentikaer/country-lookup) |
 | [Exif Viewer `^1.72.1`](https://raycast.com/j3lte/exif) | [DevDocs `^1.79.1`](https://raycast.com/djpowers/devdocs) |
