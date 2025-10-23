@@ -76,9 +76,9 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [HTTP Observatory `^1.103.3`](https://raycast.com/j3lte/http-observatory) | [Fotmob `^1.76.0`](https://raycast.com/iamlas/fotmob) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20fotmob%22%20state%3Aopen) |
 | [JSR `^1.86.1`](https://raycast.com/j3lte/jsr) | [Get SSH Key `^1.100.3`](https://raycast.com/Theon/get-ssh-key) |
 | [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [GIF Search `^1.93.2`](https://raycast.com/josephschmitt/gif-search) |
-| [Password Strength `^1.83.1`](https://raycast.com/j3lte/password-strength) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️16)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
+| [Password Strength `^1.83.1`](https://raycast.com/j3lte/password-strength) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️15)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 | [Substack `^1.71.4`](https://raycast.com/j3lte/substack) | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/github-repository-search) |
-|   | [Google Calendar `^1.94.2`](https://raycast.com/thomas/google-calendar) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
+|   | [Google Calendar `^1.94.2`](https://raycast.com/thomas/google-calendar) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
 |   | [Google Chrome `^1.103.3`](https://raycast.com/Codely/google-chrome) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
 |   | [Heroicons `^1.70.3`](https://raycast.com/johndoe123789/heroicons) |
 |   | [HubSpot `^1.99.4`](https://raycast.com/harisvsulaiman/hubspot) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20hubspot%22%20state%3Aopen) |
@@ -98,7 +98,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Random Data Generator `^1.66.2`](https://raycast.com/loris/random) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20random%22%20state%3Aopen) |
 |   | [Search MDN `^1.76.0`](https://raycast.com/krzysztofzuraw/search-mdn) |
 |   | [Search npm Packages `^1.103.3`](https://raycast.com/mrmartineau/search-npm) |
-|   | [Sonarr `^1.72.1`](https://raycast.com/Aayush9029/sonarr) |
+|   | [Sonarr `^1.72.1`](https://raycast.com/Aayush9029/sonarr) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20sonarr%22%20state%3Aopen) |
 |   | [Tailscale `^1.77.3`](https://raycast.com/samlinville/tailscale) |
 |   | [The Movie Database `^1.69.0`](https://raycast.com/Aayush9029/tmdb) |
 |   | [TinyPNG `^1.83.1`](https://raycast.com/kawamataryo/tinypng) |
