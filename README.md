@@ -65,7 +65,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 
 | Authored | Contributed |
 | --- | --- |
-| [Anna's Archive `^1.102.5`](https://raycast.com/j3lte/anna-s-archive) | [Brew `^1.88.4`](https://raycast.com/nhojb/brew) |
+| [Anna's Archive `^1.102.5`](https://raycast.com/j3lte/anna-s-archive) | [Brew `^1.88.4`](https://raycast.com/nhojb/brew) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
 | [Composerize `^1.72.1`](https://raycast.com/j3lte/composerize) | [Can I Use `^1.71.1`](https://raycast.com/thomaslombart/can-i-use) |
 | [CSS Tricks `^1.79.1`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `^1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Deno Deploy `^1.93.2`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `^1.102.5`](https://raycast.com/xmok/changedetection-io) |
@@ -76,10 +76,10 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [HTTP Observatory `^1.103.3`](https://raycast.com/j3lte/http-observatory) | [Fotmob `^1.76.0`](https://raycast.com/iamlas/fotmob) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20fotmob%22%20state%3Aopen) |
 | [JSR `^1.86.1`](https://raycast.com/j3lte/jsr) | [Get SSH Key `^1.100.3`](https://raycast.com/Theon/get-ssh-key) |
 | [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [GIF Search `^1.93.2`](https://raycast.com/josephschmitt/gif-search) |
-| [Password Strength `^1.83.1`](https://raycast.com/j3lte/password-strength) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️17)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
+| [Password Strength `^1.83.1`](https://raycast.com/j3lte/password-strength) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️18)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 | [Substack `^1.71.4`](https://raycast.com/j3lte/substack) | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/github-repository-search) |
 |   | [Google Calendar `^1.94.2`](https://raycast.com/thomas/google-calendar) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
-|   | [Google Chrome `^1.103.3`](https://raycast.com/Codely/google-chrome) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
+|   | [Google Chrome `^1.103.3`](https://raycast.com/Codely/google-chrome) [(⚠️4)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
 |   | [Heroicons `^1.70.3`](https://raycast.com/johndoe123789/heroicons) |
 |   | [HubSpot `^1.99.4`](https://raycast.com/harisvsulaiman/hubspot) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20hubspot%22%20state%3Aopen) |
 |   | [IconPark `^1.78.0`](https://raycast.com/koinzhang/iconpark) |
@@ -103,7 +103,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [The Movie Database `^1.69.0`](https://raycast.com/Aayush9029/tmdb) |
 |   | [TinyPNG `^1.83.1`](https://raycast.com/kawamataryo/tinypng) |
 |   | [Transmission `^1.94.0`](https://raycast.com/FezVrasta/transmission) |
-|   | [Unicode Symbols Search `^1.103.3`](https://raycast.com/mmazzarolo/unicode-symbols) |
+|   | [Unicode Symbols Search `^1.103.3`](https://raycast.com/mmazzarolo/unicode-symbols) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20unicode-symbols%22%20state%3Aopen) |
 |   | [Wayback Machine `^1.88.4`](https://raycast.com/pernielsentikaer/wayback-machine) |
 |   | [Whois `^1.102.3`](https://raycast.com/zavbala/whois) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20whois%22%20state%3Aopen) |
 |   | [Wikipedia `^1.79.0`](https://raycast.com/vimtor/wikipedia) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20wikipedia%22%20state%3Aopen) |
