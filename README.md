@@ -70,7 +70,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [CSS Tricks `^1.79.1`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `^1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Deno Deploy `^1.93.2`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `^1.102.5`](https://raycast.com/xmok/changedetection-io) |
 | [Evil Insult `^1.76.1`](https://raycast.com/j3lte/evil-insult) | [Country Lookup `^1.99.4`](https://raycast.com/pernielsentikaer/country-lookup) |
-| [Exif Viewer `^1.72.1`](https://raycast.com/j3lte/exif) | [DevDocs `^1.79.1`](https://raycast.com/djpowers/devdocs) |
+| [Exif Viewer `^1.72.1`](https://raycast.com/j3lte/exif) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20exif%22%20state%3Aopen) | [DevDocs `^1.79.1`](https://raycast.com/djpowers/devdocs) |
 | [Freesound `^1.76.0`](https://raycast.com/j3lte/freesound) | [Dig - DNS Lookup `^1.103.3`](https://raycast.com/danielbahl/dig) |
 | [Govee `^1.79.1`](https://raycast.com/j3lte/govee) | [Font Awesome `^1.103.3`](https://raycast.com/dutzi/font-awesome) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20font-awesome%22%20state%3Aopen) |
 | [HTTP Observatory `^1.103.3`](https://raycast.com/j3lte/http-observatory) | [Fotmob `^1.76.0`](https://raycast.com/iamlas/fotmob) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20fotmob%22%20state%3Aopen) |
@@ -94,11 +94,11 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Pixabay `^1.71.4`](https://raycast.com/tonka3000/pixabay) |
 |   | [Placeholder `^1.79.1`](https://raycast.com/koinzhang/placeholder) |
 |   | [Pomodoro `^1.86.1`](https://raycast.com/asubbotin/pomodoro) |
-|   | [Raindrop.io `^1.102.6`](https://raycast.com/lardissone/raindrop-io) [(⚠️6)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20raindrop-io%22%20state%3Aopen) |
+|   | [Raindrop.io `^1.102.6`](https://raycast.com/lardissone/raindrop-io) [(⚠️7)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20raindrop-io%22%20state%3Aopen) |
 |   | [Random Data Generator `^1.103.4`](https://raycast.com/loris/random) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20random%22%20state%3Aopen) |
 |   | [Search MDN `^1.76.0`](https://raycast.com/krzysztofzuraw/search-mdn) |
 |   | [Search npm Packages `^1.103.3`](https://raycast.com/mrmartineau/search-npm) |
-|   | [Sonarr `^1.72.1`](https://raycast.com/Aayush9029/sonarr) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20sonarr%22%20state%3Aopen) |
+|   | [Sonarr `^1.72.1`](https://raycast.com/Aayush9029/sonarr) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20sonarr%22%20state%3Aopen) |
 |   | [Tailscale `^1.77.3`](https://raycast.com/samlinville/tailscale) |
 |   | [The Movie Database `^1.69.0`](https://raycast.com/Aayush9029/tmdb) |
 |   | [TinyPNG `^1.83.1`](https://raycast.com/kawamataryo/tinypng) |
