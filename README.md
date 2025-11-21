@@ -81,7 +81,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Google Calendar `^1.103.0`](https://raycast.com/thomas/google-calendar) [(⚠️5)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
 |   | [Google Chrome `^1.103.6`](https://raycast.com/Codely/google-chrome) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
 |   | [Heroicons `^1.70.3`](https://raycast.com/johndoe123789/heroicons) |
-|   | [HubSpot `^1.99.4`](https://raycast.com/harisvsulaiman/hubspot) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20hubspot%22%20state%3Aopen) |
+|   | [HubSpot `^1.99.4`](https://raycast.com/harisvsulaiman/hubspot) |
 |   | [IconPark `^1.78.0`](https://raycast.com/koinzhang/iconpark) |
 |   | [Jump `^1.63.0`](https://raycast.com/HelloImSteven/jump) |
 |   | [JustWatch Search `^1.84.2`](https://raycast.com/rishabswift/search-justwatch) |
