@@ -73,12 +73,12 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Exif Viewer `^1.103.3`](https://raycast.com/j3lte/exif) | [DevDocs `^1.79.1`](https://raycast.com/djpowers/devdocs) |
 | [Freesound `^1.76.0`](https://raycast.com/j3lte/freesound) | [Dig - DNS Lookup `^1.103.3`](https://raycast.com/danielbahl/dig) |
 | [Govee `^1.79.1`](https://raycast.com/j3lte/govee) | [Font Awesome `^1.103.3`](https://raycast.com/dutzi/font-awesome) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20font-awesome%22%20state%3Aopen) |
-| [HTTP Observatory `^1.103.3`](https://raycast.com/j3lte/http-observatory) | [Fotmob `^1.76.0`](https://raycast.com/iamlas/fotmob) |
+| [HTTP Observatory `^1.103.3`](https://raycast.com/j3lte/http-observatory) | [Fotmob `^1.103.0`](https://raycast.com/iamlas/fotmob) |
 | [JSR `^1.103.5`](https://raycast.com/j3lte/jsr) | [Get SSH Key `^1.100.3`](https://raycast.com/Theon/get-ssh-key) |
 | [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [GIF Search `^1.93.2`](https://raycast.com/josephschmitt/gif-search) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gif-search%22%20state%3Aopen) |
-| [Password Strength `^1.83.1`](https://raycast.com/j3lte/password-strength) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️14)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
+| [Password Strength `^1.83.1`](https://raycast.com/j3lte/password-strength) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️13)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 | [Substack `^1.71.4`](https://raycast.com/j3lte/substack) | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/github-repository-search) |
-|   | [Google Calendar `^1.103.0`](https://raycast.com/thomas/google-calendar) [(⚠️6)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
+|   | [Google Calendar `^1.103.0`](https://raycast.com/thomas/google-calendar) [(⚠️5)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
 |   | [Google Chrome `^1.103.6`](https://raycast.com/Codely/google-chrome) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
 |   | [Heroicons `^1.70.3`](https://raycast.com/johndoe123789/heroicons) |
 |   | [HubSpot `^1.99.4`](https://raycast.com/harisvsulaiman/hubspot) |
