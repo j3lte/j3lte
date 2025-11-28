@@ -98,7 +98,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Random Data Generator `^1.103.4`](https://raycast.com/loris/random) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20random%22%20state%3Aopen) |
 |   | [Search MDN `^1.76.0`](https://raycast.com/krzysztofzuraw/search-mdn) |
 |   | [Search npm Packages `^1.103.6`](https://raycast.com/mrmartineau/search-npm) |
-|   | [Sonarr `^1.72.1`](https://raycast.com/Aayush9029/sonarr) |
+|   | [Sonarr `^1.103.5`](https://raycast.com/Aayush9029/sonarr) |
 |   | [Tailscale `^1.77.3`](https://raycast.com/samlinville/tailscale) |
 |   | [The Movie Database `^1.69.0`](https://raycast.com/Aayush9029/tmdb) |
 |   | [TinyPNG `^1.83.1`](https://raycast.com/kawamataryo/tinypng) |
