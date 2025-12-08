@@ -76,7 +76,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [HTTP Observatory `^1.103.3`](https://raycast.com/j3lte/http-observatory) | [Fotmob `^1.103.0`](https://raycast.com/iamlas/fotmob) |
 | [JSR `^1.103.5`](https://raycast.com/j3lte/jsr) | [Get SSH Key `^1.100.3`](https://raycast.com/Theon/get-ssh-key) |
 | [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [GIF Search `^1.93.2`](https://raycast.com/josephschmitt/gif-search) |
-| [Password Strength `^1.83.1`](https://raycast.com/j3lte/password-strength) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️13)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
+| [Password Strength `^1.83.1`](https://raycast.com/j3lte/password-strength) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️11)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 | [Substack `^1.71.4`](https://raycast.com/j3lte/substack) | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/github-repository-search) |
 |   | [Google Calendar `^1.103.0`](https://raycast.com/thomas/google-calendar) [(⚠️6)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
 |   | [Google Chrome `^1.103.6`](https://raycast.com/Codely/google-chrome) [(⚠️4)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
