@@ -68,16 +68,17 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Anna's Archive `^1.103.6`](https://raycast.com/j3lte/anna-s-archive) | [Brew `^1.103.6`](https://raycast.com/nhojb/brew) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
 | [Composerize `^1.72.1`](https://raycast.com/j3lte/composerize) | [Can I Use `^1.71.1`](https://raycast.com/thomaslombart/can-i-use) |
 | [CSS Tricks `^1.79.1`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `^1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
-| [Deno Deploy `^1.93.2`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `^1.102.5`](https://raycast.com/xmok/changedetection-io) |
+| [Deno Deploy `^1.93.2`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `^1.103.10`](https://raycast.com/xmok/changedetection-io) |
 | [Evil Insult `^1.76.1`](https://raycast.com/j3lte/evil-insult) | [Country Lookup `^1.99.4`](https://raycast.com/pernielsentikaer/country-lookup) |
 | [Exif Viewer `^1.103.3`](https://raycast.com/j3lte/exif) | [DevDocs `^1.103.10`](https://raycast.com/djpowers/devdocs) |
 | [Freesound `^1.76.0`](https://raycast.com/j3lte/freesound) | [Dig - DNS Lookup `^1.103.3`](https://raycast.com/danielbahl/dig) |
-| [Govee `^1.79.1`](https://raycast.com/j3lte/govee) | [Font Awesome `^1.103.3`](https://raycast.com/dutzi/font-awesome) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20font-awesome%22%20state%3Aopen) |
-| [HTTP Observatory `^1.103.3`](https://raycast.com/j3lte/http-observatory) | [Fotmob `^1.103.0`](https://raycast.com/iamlas/fotmob) |
-| [JSR `^1.103.5`](https://raycast.com/j3lte/jsr) | [Get SSH Key `^1.100.3`](https://raycast.com/Theon/get-ssh-key) |
-| [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [GIF Search `^1.93.2`](https://raycast.com/josephschmitt/gif-search) |
-| [Password Strength `^1.83.1`](https://raycast.com/j3lte/password-strength) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️11)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
-| [Substack `^1.71.4`](https://raycast.com/j3lte/substack) | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/github-repository-search) |
+| [Govee `^1.79.1`](https://raycast.com/j3lte/govee) | [FFmpeg - View, Analyze and Manipulate `^1.103.10`](https://raycast.com/RenderCoder/ffmpeg) |
+| [HTTP Observatory `^1.103.3`](https://raycast.com/j3lte/http-observatory) | [Font Awesome `^1.103.3`](https://raycast.com/dutzi/font-awesome) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20font-awesome%22%20state%3Aopen) |
+| [JSR `^1.103.5`](https://raycast.com/j3lte/jsr) | [Fotmob `^1.103.0`](https://raycast.com/iamlas/fotmob) |
+| [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [Get SSH Key `^1.100.3`](https://raycast.com/Theon/get-ssh-key) |
+| [Password Strength `^1.83.1`](https://raycast.com/j3lte/password-strength) | [GIF Search `^1.93.2`](https://raycast.com/josephschmitt/gif-search) |
+| [Substack `^1.71.4`](https://raycast.com/j3lte/substack) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️10)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
+|   | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/github-repository-search) |
 |   | [Google Calendar `^1.103.0`](https://raycast.com/thomas/google-calendar) [(⚠️6)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
 |   | [Google Chrome `^1.103.6`](https://raycast.com/Codely/google-chrome) [(⚠️4)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
 |   | [Heroicons `^1.70.3`](https://raycast.com/johndoe123789/heroicons) |
