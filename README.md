@@ -91,7 +91,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [MyIP `^1.102.7`](https://raycast.com/Kang/myip) |
 |   | [NATO Phonetic Alphabet `^1.79.1`](https://raycast.com/jns/nato-phonetic-alphabet) |
 |   | [OBS Control `^1.79.1`](https://raycast.com/Yukai/obs-control) |
-|   | [Open Graph `^1.72.1`](https://raycast.com/1weiho/open-graph) |
+|   | [Open Graph `^1.72.1`](https://raycast.com/1weiho/open-graph) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20open-graph%22%20state%3Aopen) |
 |   | [Pixabay `^1.71.4`](https://raycast.com/tonka3000/pixabay) |
 |   | [Placeholder `^1.79.1`](https://raycast.com/koinzhang/placeholder) |
 |   | [Pomodoro `^1.86.1`](https://raycast.com/asubbotin/pomodoro) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20pomodoro%22%20state%3Aopen) |
@@ -104,7 +104,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [The Movie Database `^1.69.0`](https://raycast.com/Aayush9029/tmdb) |
 |   | [TinyPNG `^1.83.1`](https://raycast.com/kawamataryo/tinypng) |
 |   | [Transmission `^1.94.0`](https://raycast.com/FezVrasta/transmission) |
-|   | [Unicode Symbols Search `^1.103.3`](https://raycast.com/mmazzarolo/unicode-symbols) |
+|   | [Unicode Symbols Search `^1.103.3`](https://raycast.com/mmazzarolo/unicode-symbols) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20unicode-symbols%22%20state%3Aopen) |
 |   | [Wayback Machine `^1.88.4`](https://raycast.com/pernielsentikaer/wayback-machine) |
 |   | [Whois `^1.102.3`](https://raycast.com/zavbala/whois) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20whois%22%20state%3Aopen) |
 |   | [Wikipedia `^1.79.0`](https://raycast.com/vimtor/wikipedia) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20wikipedia%22%20state%3Aopen) |
