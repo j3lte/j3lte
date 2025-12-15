@@ -77,7 +77,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [JSR `^1.103.5`](https://raycast.com/j3lte/jsr) | [Fotmob `^1.103.0`](https://raycast.com/iamlas/fotmob) |
 | [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [Get SSH Key `^1.100.3`](https://raycast.com/Theon/get-ssh-key) |
 | [Password Strength `^1.103.10`](https://raycast.com/j3lte/password-strength) | [GIF Search `^1.93.2`](https://raycast.com/josephschmitt/gif-search) |
-| [Substack `^1.103.10`](https://raycast.com/j3lte/substack) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️10)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
+| [Substack `^1.103.10`](https://raycast.com/j3lte/substack) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️11)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 |   | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/github-repository-search) |
 |   | [Google Calendar `^1.103.0`](https://raycast.com/thomas/google-calendar) [(⚠️6)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
 |   | [Google Chrome `^1.103.6`](https://raycast.com/Codely/google-chrome) [(⚠️4)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
@@ -91,7 +91,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [MyIP `^1.102.7`](https://raycast.com/Kang/myip) |
 |   | [NATO Phonetic Alphabet `^1.79.1`](https://raycast.com/jns/nato-phonetic-alphabet) |
 |   | [OBS Control `^1.79.1`](https://raycast.com/Yukai/obs-control) |
-|   | [Open Graph `^1.72.1`](https://raycast.com/1weiho/open-graph) |
+|   | [Open Graph `^1.103.10`](https://raycast.com/1weiho/open-graph) |
 |   | [Pixabay `^1.71.4`](https://raycast.com/tonka3000/pixabay) |
 |   | [Placeholder `^1.79.1`](https://raycast.com/koinzhang/placeholder) |
 |   | [Pomodoro `^1.86.1`](https://raycast.com/asubbotin/pomodoro) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20pomodoro%22%20state%3Aopen) |
