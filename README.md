@@ -65,51 +65,51 @@ Have been doing mostly Front End development in the past, but made the transitio
 
 | Authored | Contributed |
 | --- | --- |
-| [Anna's Archive `^1.103.6`](https://raycast.com/j3lte/anna-s-archive) | [Brew `^1.103.6`](https://raycast.com/nhojb/brew) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
-| [Composerize `^1.103.10`](https://raycast.com/j3lte/composerize) | [Can I Use `^1.71.1`](https://raycast.com/thomaslombart/can-i-use) |
-| [CSS Tricks `^1.103.10`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `^1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
-| [Deno Deploy `^1.93.2`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `^1.103.10`](https://raycast.com/xmok/changedetection-io) |
-| [Evil Insult `^1.76.1`](https://raycast.com/j3lte/evil-insult) | [Country Lookup `^1.99.4`](https://raycast.com/pernielsentikaer/country-lookup) |
-| [Exif Viewer `^1.103.3`](https://raycast.com/j3lte/exif) | [DevDocs `^1.103.10`](https://raycast.com/djpowers/devdocs) |
-| [Freesound `^1.76.0`](https://raycast.com/j3lte/freesound) | [Dig - DNS Lookup `^1.103.3`](https://raycast.com/danielbahl/dig) |
-| [Govee `^1.79.1`](https://raycast.com/j3lte/govee) | [FFmpeg - View, Analyze and Manipulate `^1.103.10`](https://raycast.com/RenderCoder/ffmpeg) |
-| [HTTP Observatory `^1.103.3`](https://raycast.com/j3lte/http-observatory) | [Font Awesome `^1.103.3`](https://raycast.com/dutzi/font-awesome) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20font-awesome%22%20state%3Aopen) |
-| [JSR `^1.103.5`](https://raycast.com/j3lte/jsr) | [Fotmob `^1.103.0`](https://raycast.com/iamlas/fotmob) |
-| [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [Get SSH Key `^1.100.3`](https://raycast.com/Theon/get-ssh-key) |
-| [Password Strength `^1.103.10`](https://raycast.com/j3lte/password-strength) | [GIF Search `^1.93.2`](https://raycast.com/josephschmitt/gif-search) |
-| [Substack `^1.103.10`](https://raycast.com/j3lte/substack) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/github) [(⚠️11)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
-|   | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/github-repository-search) |
-|   | [Google Calendar `^1.103.0`](https://raycast.com/thomas/google-calendar) [(⚠️6)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
-|   | [Google Chrome `^1.103.6`](https://raycast.com/Codely/google-chrome) [(⚠️4)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
-|   | [Heroicons `^1.70.3`](https://raycast.com/johndoe123789/heroicons) |
-|   | [HubSpot `^1.99.4`](https://raycast.com/harisvsulaiman/hubspot) |
-|   | [IconPark `^1.78.0`](https://raycast.com/koinzhang/iconpark) |
-|   | [Jump `^1.63.0`](https://raycast.com/HelloImSteven/jump) |
-|   | [JustWatch Search `^1.84.2`](https://raycast.com/rishabswift/search-justwatch) |
-|   | [Library Genesis `^1.101.1`](https://raycast.com/yz3440/library-genesis) |
-|   | [Mac App Store Search `^1.69.0`](https://raycast.com/say4n/mac-app-store-search) |
-|   | [MyIP `^1.102.7`](https://raycast.com/Kang/myip) |
-|   | [NATO Phonetic Alphabet `^1.79.1`](https://raycast.com/jns/nato-phonetic-alphabet) |
-|   | [OBS Control `^1.79.1`](https://raycast.com/Yukai/obs-control) |
-|   | [Open Graph `^1.103.10`](https://raycast.com/1weiho/open-graph) |
-|   | [Pixabay `^1.71.4`](https://raycast.com/tonka3000/pixabay) |
-|   | [Placeholder `^1.79.1`](https://raycast.com/koinzhang/placeholder) |
-|   | [Pomodoro `^1.86.1`](https://raycast.com/asubbotin/pomodoro) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20pomodoro%22%20state%3Aopen) |
-|   | [Proxmox `^1.103.9`](https://raycast.com/CzBiX/proxmox) |
-|   | [Raindrop.io `^1.102.6`](https://raycast.com/lardissone/raindrop-io) [(⚠️7)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20raindrop-io%22%20state%3Aopen) |
-|   | [Random Data Generator `^1.103.4`](https://raycast.com/loris/random) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20random%22%20state%3Aopen) |
-|   | [Search MDN `^1.76.0`](https://raycast.com/krzysztofzuraw/search-mdn) |
-|   | [Search npm Packages `^1.103.6`](https://raycast.com/mrmartineau/search-npm) |
-|   | [Sonarr `^1.103.5`](https://raycast.com/Aayush9029/sonarr) |
-|   | [Tailscale `^1.77.3`](https://raycast.com/samlinville/tailscale) |
-|   | [The Movie Database `^1.69.0`](https://raycast.com/Aayush9029/tmdb) |
-|   | [TinyPNG `^1.83.1`](https://raycast.com/kawamataryo/tinypng) |
-|   | [Transmission `^1.94.0`](https://raycast.com/FezVrasta/transmission) |
-|   | [Unicode Symbols Search `^1.103.3`](https://raycast.com/mmazzarolo/unicode-symbols) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20unicode-symbols%22%20state%3Aopen) |
-|   | [Wayback Machine `^1.88.4`](https://raycast.com/pernielsentikaer/wayback-machine) |
-|   | [Whois `^1.102.3`](https://raycast.com/zavbala/whois) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20whois%22%20state%3Aopen) |
-|   | [Wikipedia `^1.79.0`](https://raycast.com/vimtor/wikipedia) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20wikipedia%22%20state%3Aopen) |
-|   | [Word Search `^1.84.3`](https://raycast.com/rishabswift/word-search) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20word-search%22%20state%3Aopen) |
+| [Anna's Archive `^1.103.6`](https://raycast.com/j3lte/65) | [Brew `^1.103.6`](https://raycast.com/nhojb/204) |
+| [Composerize `^1.103.10`](https://raycast.com/j3lte/360) | [Can I Use `^1.71.1`](https://raycast.com/thomaslombart/228) |
+| [CSS Tricks `^1.103.10`](https://raycast.com/j3lte/417) | [Capture Fullpage of Website `^1.76.0`](https://raycast.com/Coun1er/234) |
+| [Deno Deploy `^1.93.2`](https://raycast.com/j3lte/471) | [ChangeDetection.io `^1.103.10`](https://raycast.com/xmok/252) |
+| [Evil Insult `^1.76.1`](https://raycast.com/j3lte/614) | [Country Lookup `^1.99.4`](https://raycast.com/pernielsentikaer/391) |
+| [Exif Viewer `^1.103.3`](https://raycast.com/j3lte/619) | [DevDocs `^1.103.10`](https://raycast.com/djpowers/479) |
+| [Freesound `^1.76.0`](https://raycast.com/j3lte/710) | [Dig - DNS Lookup `^1.103.3`](https://raycast.com/danielbahl/495) |
+| [Govee `^1.79.1`](https://raycast.com/j3lte/809) | [FFmpeg - View, Analyze and Manipulate `^1.103.10`](https://raycast.com/RenderCoder/646) |
+| [HTTP Observatory `^1.103.3`](https://raycast.com/j3lte/891) | [Font Awesome `^1.103.3`](https://raycast.com/dutzi/693) |
+| [JSR `^1.103.5`](https://raycast.com/j3lte/997) | [Fotmob `^1.103.0`](https://raycast.com/iamlas/703) |
+| [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/1367) | [Get SSH Key `^1.100.3`](https://raycast.com/Theon/734) |
+| [Password Strength `^1.103.10`](https://raycast.com/j3lte/1497) | [GIF Search `^1.93.2`](https://raycast.com/josephschmitt/741) |
+| [Substack `^1.103.10`](https://raycast.com/j3lte/2061) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/755) |
+|   | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/763) |
+|   | [Google Calendar `^1.103.0`](https://raycast.com/thomas/791) |
+|   | [Google Chrome `^1.103.6`](https://raycast.com/Codely/793) |
+|   | [Heroicons `^1.70.3`](https://raycast.com/johndoe123789/859) |
+|   | [HubSpot `^1.99.4`](https://raycast.com/harisvsulaiman/894) |
+|   | [IconPark `^1.78.0`](https://raycast.com/koinzhang/909) |
+|   | [Jump `^1.63.0`](https://raycast.com/HelloImSteven/1000) |
+|   | [JustWatch Search `^1.84.2`](https://raycast.com/rishabswift/1874) |
+|   | [Library Genesis `^1.101.1`](https://raycast.com/yz3440/1091) |
+|   | [Mac App Store Search `^1.69.0`](https://raycast.com/say4n/1145) |
+|   | [MyIP `^1.102.7`](https://raycast.com/Kang/1297) |
+|   | [NATO Phonetic Alphabet `^1.79.1`](https://raycast.com/jns/1309) |
+|   | [OBS Control `^1.79.1`](https://raycast.com/Yukai/1380) |
+|   | [Open Graph `^1.103.10`](https://raycast.com/1weiho/1420) |
+|   | [Pixabay `^1.71.4`](https://raycast.com/tonka3000/1550) |
+|   | [Placeholder `^1.79.1`](https://raycast.com/koinzhang/1552) |
+|   | [Pomodoro `^1.86.1`](https://raycast.com/asubbotin/1577) |
+|   | [Proxmox `^1.103.9`](https://raycast.com/CzBiX/1618) |
+|   | [Raindrop.io `^1.102.6`](https://raycast.com/lardissone/1676) |
+|   | [Random Data Generator `^1.103.4`](https://raycast.com/loris/1678) |
+|   | [Search MDN `^1.76.0`](https://raycast.com/krzysztofzuraw/1875) |
+|   | [Search npm Packages `^1.103.6`](https://raycast.com/mrmartineau/1877) |
+|   | [Sonarr `^1.103.5`](https://raycast.com/Aayush9029/1995) |
+|   | [Tailscale `^1.77.3`](https://raycast.com/samlinville/2101) |
+|   | [The Movie Database `^1.69.0`](https://raycast.com/Aayush9029/2178) |
+|   | [TinyPNG `^1.83.1`](https://raycast.com/kawamataryo/2173) |
+|   | [Transmission `^1.94.0`](https://raycast.com/FezVrasta/2208) |
+|   | [Unicode Symbols Search `^1.103.3`](https://raycast.com/mmazzarolo/2253) |
+|   | [Wayback Machine `^1.88.4`](https://raycast.com/pernielsentikaer/2345) |
+|   | [Whois `^1.102.3`](https://raycast.com/zavbala/2374) |
+|   | [Wikipedia `^1.79.0`](https://raycast.com/vimtor/2381) |
+|   | [Word Search `^1.84.3`](https://raycast.com/rishabswift/2398) |
 
 <!-- END RAYCAST -->
 
