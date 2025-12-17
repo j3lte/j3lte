@@ -74,7 +74,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Freesound `^1.76.0`](https://raycast.com/j3lte/710) | [Dig - DNS Lookup `^1.103.3`](https://raycast.com/danielbahl/495) |
 | [Govee `^1.79.1`](https://raycast.com/j3lte/809) | [FFmpeg - View, Analyze and Manipulate `^1.103.10`](https://raycast.com/RenderCoder/646) |
 | [HTTP Observatory `^1.103.3`](https://raycast.com/j3lte/891) | [Font Awesome `^1.103.3`](https://raycast.com/dutzi/693) |
-| [JSR `^1.103.5`](https://raycast.com/j3lte/997) | [Fotmob `^1.103.0`](https://raycast.com/iamlas/703) |
+| [JSR `^1.103.5`](https://raycast.com/j3lte/997) | [Fotmob `^1.103.10`](https://raycast.com/iamlas/703) |
 | [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/1367) | [Get SSH Key `^1.100.3`](https://raycast.com/Theon/734) |
 | [Password Strength `^1.103.10`](https://raycast.com/j3lte/1497) | [GIF Search `^1.93.2`](https://raycast.com/josephschmitt/741) |
 | [Substack `^1.103.10`](https://raycast.com/j3lte/2061) | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/755) |
