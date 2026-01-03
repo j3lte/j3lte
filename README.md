@@ -117,7 +117,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [TinyPNG `^1.83.1`](https://raycast.com/kawamataryo/2184) |
 |   | [Transmission `^1.94.0`](https://raycast.com/FezVrasta/2219) |
 |   | [Unicode Symbols Search `^1.103.10`](https://raycast.com/mmazzarolo/2265) |
-|   | [Wayback Machine `^1.88.4`](https://raycast.com/pernielsentikaer/2357) |
+|   | [Wayback Machine `^1.104.1`](https://raycast.com/pernielsentikaer/2357) |
 |   | [Whois `^1.104.1`](https://raycast.com/zavbala/2386) |
 |   | [Wikipedia `^1.79.0`](https://raycast.com/vimtor/2393) |
 |   | [Word Search `^1.84.3`](https://raycast.com/rishabswift/2411) |
