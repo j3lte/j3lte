@@ -83,7 +83,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [GitHub `^1.87.0`](https://raycast.com/thomaslombart/761) |
 |   | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/769) |
 |   | [Google Calendar `^1.103.0`](https://raycast.com/thomas/797) |
-|   | [Google Chrome `^1.103.6`](https://raycast.com/Codely/799) |
+|   | [Google Chrome `^1.104.1`](https://raycast.com/Codely/799) |
 |   | [Heroicons `^1.70.3`](https://raycast.com/johndoe123789/865) |
 |   | [HubSpot `^1.99.4`](https://raycast.com/harisvsulaiman/900) |
 |   | [Iconify — Search Icons `^1.103.10`](https://raycast.com/destiner/914) |
