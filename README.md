@@ -113,14 +113,14 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Search npm Packages `^1.103.6`](https://raycast.com/mrmartineau/1990) |
 |   | [Sonarr `^1.103.5`](https://raycast.com/Aayush9029/2113) |
 |   | [Tailscale `^1.77.3`](https://raycast.com/samlinville/2227) |
-|   | [The Movie Database `^1.69.0`](https://raycast.com/Aayush9029/2307) |
-|   | [TinyPNG `^1.83.1`](https://raycast.com/kawamataryo/2302) |
-|   | [Transmission `^1.94.0`](https://raycast.com/FezVrasta/2338) |
-|   | [Unicode Symbols Search `^1.103.10`](https://raycast.com/mmazzarolo/2388) |
-|   | [Wayback Machine `^1.104.1`](https://raycast.com/pernielsentikaer/2482) |
-|   | [Whois `^1.104.1`](https://raycast.com/zavbala/2511) |
-|   | [Wikipedia `^1.79.0`](https://raycast.com/vimtor/2518) |
-|   | [Word Search `^1.84.3`](https://raycast.com/rishabswift/2542) |
+|   | [The Movie Database `^1.69.0`](https://raycast.com/Aayush9029/2308) |
+|   | [TinyPNG `^1.83.1`](https://raycast.com/kawamataryo/2303) |
+|   | [Transmission `^1.94.0`](https://raycast.com/FezVrasta/2339) |
+|   | [Unicode Symbols Search `^1.103.10`](https://raycast.com/mmazzarolo/2389) |
+|   | [Wayback Machine `^1.104.1`](https://raycast.com/pernielsentikaer/2484) |
+|   | [Whois `^1.104.1`](https://raycast.com/zavbala/2513) |
+|   | [Wikipedia `^1.79.0`](https://raycast.com/vimtor/2520) |
+|   | [Word Search `^1.84.3`](https://raycast.com/rishabswift/2544) |
 
 <!-- END RAYCAST -->
 
