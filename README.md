@@ -112,7 +112,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Say - Text to Speech `^1.104.4`](https://raycast.com/litomore/1988) |
 |   | [Search MDN `^1.76.0`](https://raycast.com/krzysztofzuraw/2023) |
 |   | [Search npm Packages `^1.103.6`](https://raycast.com/mrmartineau/2025) |
-|   | [Sonarr `^1.103.5`](https://raycast.com/Aayush9029/2151) |
+|   | [Sonarr `^1.85.2`](https://raycast.com/Aayush9029/2151) |
 |   | [Tailscale `^1.104.5`](https://raycast.com/samlinville/2268) |
 |   | [The Movie Database `^1.69.0`](https://raycast.com/Aayush9029/2351) |
 |   | [TinyPNG `^1.83.1`](https://raycast.com/kawamataryo/2346) |
