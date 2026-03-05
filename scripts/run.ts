@@ -46,6 +46,7 @@ const updateText = (
 };
 
 type DataObject = {
+  name: string;
   title: string;
   description: string;
   author: string;
@@ -53,6 +54,16 @@ type DataObject = {
   api: string | null;
   utils: string | null;
   swift?: boolean;
+  hasAI: boolean;
+  hasTools: boolean;
+  deps: Record<string, string>;
+  devDeps: Record<string, string>;
+  latestUpdate: {
+    value: string;
+    timestamp: number;
+  };
+  win: boolean;
+  mac: boolean;
 };
 
 const dataPath = import.meta.resolve(
@@ -71,15 +82,16 @@ if (!dataFile || !readMeFile) {
 }
 
 const dataString = await Deno.readTextFile(dataPath);
-const data = JSON.parse(dataString) as Record<string, DataObject>;
+const data = JSON.parse(dataString) as DataObject[];
 
-const allAuthoredPackages = Object.entries(data).filter((p) =>
-  p[1].author === "j3lte"
-).sort((a, b) => a[1].title.localeCompare(b[1].title));
+const allAuthoredPackages = data.filter((p) => p.author === "j3lte").sort((
+  a,
+  b,
+) => a.title.localeCompare(b.title));
 
-const allContributedPackages = Object.entries(data).filter((p) =>
-  p[1].contributors.includes("j3lte")
-).sort((a, b) => a[1].title.localeCompare(b[1].title));
+const allContributedPackages = data.filter((p) =>
+  p.contributors.includes("j3lte")
+).sort((a, b) => a.title.localeCompare(b.title));
 
 const octokit = createOctoKit();
 
@@ -128,29 +140,21 @@ for (let i = 0; i < maxRow; i++) {
   const authored = allAuthoredPackages[i];
   const contributed = allContributedPackages[i];
 
-  const authoredEntry = authored && authored.length === 2
-    ? `[${authored[1].title} \`${authored[1].api}\`](https://raycast.com/${
-      authored[1].author
-    }/${authored[0]})${
-      issueMapping.get(authored[0])
+  const authoredEntry = authored
+    ? `[${authored.title} \`${authored.api}\`](https://raycast.com/${authored.author}/${authored.name})${
+      issueMapping.get(authored.name)
         ? ` [(⚠️${
-          issueMapping.get(authored[0])
-        })](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20${
-          authored[0]
-        }%22%20state%3Aopen)`
+          issueMapping.get(authored.name)
+        })](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20${authored.name}%22%20state%3Aopen)`
         : ""
     }`
     : " ";
-  const contributedEntry = contributed && contributed.length === 2
-    ? `[${contributed[1].title} \`${
-      contributed[1].api
-    }\`](https://raycast.com/${contributed[1].author}/${contributed[0]})${
-      issueMapping.get(contributed[0])
+  const contributedEntry = contributed
+    ? `[${contributed.title} \`${contributed.api}\`](https://raycast.com/${contributed.author}/${contributed.name})${
+      issueMapping.get(contributed.name)
         ? ` [(⚠️${
-          issueMapping.get(contributed[0])
-        })](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20${
-          contributed[0]
-        }%22%20state%3Aopen)`
+          issueMapping.get(contributed.name)
+        })](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20${contributed.name}%22%20state%3Aopen)`
         : ""
     }`
     : " ";
