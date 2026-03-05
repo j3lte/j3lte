@@ -50,6 +50,7 @@ type DataObject = {
   title: string;
   description: string;
   author: string;
+  owner?: string;
   contributors: string[];
   api: string | null;
   utils: string | null;
@@ -141,7 +142,9 @@ for (let i = 0; i < maxRow; i++) {
   const contributed = allContributedPackages[i];
 
   const authoredEntry = authored
-    ? `[${authored.title} \`${authored.api}\`](https://raycast.com/${authored.author}/${authored.name})${
+    ? `[${authored.title} \`${authored.api}\`](https://raycast.com/${
+      authored.owner ?? authored.author
+    }/${authored.name})${
       issueMapping.get(authored.name)
         ? ` [(⚠️${
           issueMapping.get(authored.name)
@@ -150,7 +153,9 @@ for (let i = 0; i < maxRow; i++) {
     }`
     : " ";
   const contributedEntry = contributed
-    ? `[${contributed.title} \`${contributed.api}\`](https://raycast.com/${contributed.author}/${contributed.name})${
+    ? `[${contributed.title} \`${contributed.api}\`](https://raycast.com/${
+      contributed.owner ?? contributed.author
+    }/${contributed.name})${
       issueMapping.get(contributed.name)
         ? ` [(⚠️${
           issueMapping.get(contributed.name)
