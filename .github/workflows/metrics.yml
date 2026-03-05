@@ -14,21 +14,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Checkout Awesome Raycast
-        uses: actions/checkout@v4
-        with:
-          repository: j3lte/awesome-raycast
-          path: repo
-          fetch-depth: 1
-
       - uses: denoland/setup-deno@v2
         with:
           deno-version: v2.7.4
 
       - name: Update Readme
         run: deno task run
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:

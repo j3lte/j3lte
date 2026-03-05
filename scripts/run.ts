@@ -1,5 +1,4 @@
 import { exists } from "@std/fs";
-import { createOctoKit } from "./utils.ts";
 
 /**
  * @param blockID {string} block to update (e.g. `<!-- START blockID -->`)
@@ -46,44 +45,63 @@ const updateText = (
 };
 
 type DataObject = {
+  /** Name of the extension, corresponds with the path `extensions/<name>/package.json` */
   name: string;
+  /** Title of the extension */
   title: string;
+  /** Description of the extension */
   description: string;
+  /** Author of the extension */
   author: string;
+  /** Owner of the extension */
   owner?: string;
+  /** Contributors of the extension */
   contributors: string[];
+  /** API version of the extension */
   api: string | null;
+  /** Utils version of the extension */
   utils: string | null;
+  /** Whether the extension uses Swift (Mac) */
   swift?: boolean;
-  hasAI: boolean;
+  /** Whether the extension has AI features */
+  hasAi: boolean;
+  /** Whether the extension has AI tools */
   hasTools: boolean;
+  /** Whether the extension has Windows support */
+  win?: boolean;
+  /** Whether the extension has macOS support */
+  mac?: boolean;
+  /** Dependencies of the extension. This excludes `@raycast/api` and `@raycast/utils`, as they are tracked in `api` and `utils` respectively. */
   deps: Record<string, string>;
-  devDeps: Record<string, string>;
+  /** Development dependencies of the extension */
+  dev_deps: Record<string, string>;
+  /** Latest update date from CHANGELOG.md */
   latestUpdate: {
+    /** Date string in yyyy-mm-dd format */
     value: string;
+    /** Unix timestamp of the date */
     timestamp: number;
-  };
-  win: boolean;
-  mac: boolean;
+  } | null;
+  /** Number of issues for the extension */
+  issues?: number;
 };
 
-const dataPath = import.meta.resolve(
-  "../repo/data/data.json",
-).replace("file://", "");
-const readMePath = import.meta.resolve(
-  "../README.md",
-).replace("file://", "");
+const DATA_URL = "https://j3lte.github.io/awesome-raycast/data/data.json";
+const readMePath = import.meta.resolve("../README.md").replace("file://", "");
 
-const dataFile = await exists(dataPath);
 const readMeFile = await exists(readMePath);
 
-if (!dataFile || !readMeFile) {
-  console.error("Data file or README file not found");
+if (!readMeFile) {
+  console.error("README file not found");
   Deno.exit(1);
 }
 
-const dataString = await Deno.readTextFile(dataPath);
-const data = JSON.parse(dataString) as DataObject[];
+const response = await fetch(DATA_URL);
+if (!response.ok) {
+  console.error(`Failed to fetch data: ${response.statusText}`);
+  Deno.exit(1);
+}
+const data = await response.json() as DataObject[];
 
 const allAuthoredPackages = data.filter((p) => p.author === "j3lte").sort((
   a,
@@ -93,40 +111,6 @@ const allAuthoredPackages = data.filter((p) => p.author === "j3lte").sort((
 const allContributedPackages = data.filter((p) =>
   p.contributors.includes("j3lte")
 ).sort((a, b) => a.title.localeCompare(b.title));
-
-const octokit = createOctoKit();
-
-const issues = await octokit.rest.issues.listForRepo({
-  owner: "raycast",
-  repo: "extensions",
-  state: "open",
-  mentioned: "j3lte",
-  per_page: 100, // Adjust as needed, max is 100 per page
-});
-
-const issueMapping = issues.data.filter((issue) =>
-  issue.url.includes("/issues/")
-)
-  .map((issue) =>
-    issue.labels.find((label) =>
-      typeof label === "string"
-        ? label.includes("extension:")
-        : label?.name?.includes("extension:") ?? null
-    )
-  ).map((label) => typeof label === "string" ? label : label?.name ?? null)
-  .filter((label) => label !== null)
-  .reduce((acc, label) => {
-    const name = label.split(":")[1].trim();
-    if (!name) {
-      return acc;
-    }
-    if (!acc.has(name)) {
-      acc.set(name, 1);
-    } else {
-      acc.set(name, acc.get(name)! + 1);
-    }
-    return acc;
-  }, new Map<string, number>());
 
 const maxRow = Math.max(
   allAuthoredPackages.length,
@@ -145,9 +129,9 @@ for (let i = 0; i < maxRow; i++) {
     ? `[${authored.title} \`${authored.api}\`](https://raycast.com/${
       authored.owner ?? authored.author
     }/${authored.name})${
-      issueMapping.get(authored.name)
+      authored.issues
         ? ` [(⚠️${
-          issueMapping.get(authored.name)
+          authored.issues
         })](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20${authored.name}%22%20state%3Aopen)`
         : ""
     }`
@@ -156,9 +140,9 @@ for (let i = 0; i < maxRow; i++) {
     ? `[${contributed.title} \`${contributed.api}\`](https://raycast.com/${
       contributed.owner ?? contributed.author
     }/${contributed.name})${
-      issueMapping.get(contributed.name)
+      contributed.issues
         ? ` [(⚠️${
-          issueMapping.get(contributed.name)
+          contributed.issues
         })](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20${contributed.name}%22%20state%3Aopen)`
         : ""
     }`
