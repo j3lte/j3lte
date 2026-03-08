@@ -75,7 +75,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Govee `^1.79.1`](https://raycast.com/j3lte/govee) | [Dig - DNS Lookup `^1.103.3`](https://raycast.com/danielbahl/dig) |
 | [HTTP Observatory `^1.103.3`](https://raycast.com/j3lte/http-observatory) | [Dutch License Plate Search `^1.103.10`](https://raycast.com/jeffreyvanhees/rdw-kentekencheck) |
 | [JSR `^1.103.5`](https://raycast.com/j3lte/jsr) | [FFmpeg - View, Analyze and Manipulate `^1.103.10`](https://raycast.com/RenderCoder/ffmpeg) |
-| [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [Font Awesome `^1.103.3`](https://raycast.com/dutzi/font-awesome) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20font-awesome%22%20state%3Aopen) |
+| [NU Nieuws `^1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [Font Awesome `^1.103.3`](https://raycast.com/dutzi/font-awesome) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20font-awesome%22%20state%3Aopen) |
 | [Password Strength `^1.103.10`](https://raycast.com/j3lte/password-strength) | [Forked Extensions `^1.104.6`](https://raycast.com/litomore/forked-extensions) |
 | [Substack `^1.103.10`](https://raycast.com/j3lte/substack) | [Fotmob `^1.103.10`](https://raycast.com/iamlas/fotmob) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20fotmob%22%20state%3Aopen) |
 |   | [Get SSH Key `^1.100.3`](https://raycast.com/Theon/get-ssh-key) |
@@ -106,7 +106,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Open Graph `^1.103.10`](https://raycast.com/1weiho/open-graph) |
 |   | [Pixabay `^1.71.4`](https://raycast.com/tonka3000/pixabay) |
 |   | [Placeholder `^1.104.6`](https://raycast.com/koinzhang/placeholder) |
-|   | [Pomodoro `^1.86.1`](https://raycast.com/asubbotin/pomodoro) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20pomodoro%22%20state%3Aopen) |
+|   | [Pomodoro `^1.86.1`](https://raycast.com/asubbotin/pomodoro) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20pomodoro%22%20state%3Aopen) |
 |   | [Proxmox `^1.103.9`](https://raycast.com/CzBiX/proxmox) |
 |   | [Raindrop.io `^1.102.6`](https://raycast.com/lardissone/raindrop-io) [(⚠️4)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20raindrop-io%22%20state%3Aopen) |
 |   | [Random Data Generator `^1.104.1`](https://raycast.com/loris/random) |
