@@ -94,7 +94,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Jump `^1.63.0`](https://raycast.com/HelloImSteven/jump) |
 |   | [JustWatch Search `^1.84.2`](https://raycast.com/rishabswift/search-justwatch) |
 |   | [Library Genesis `^1.101.1`](https://raycast.com/yz3440/library-genesis) |
-|   | [Lorem Ipsum `^1.103.10`](https://raycast.com/AntonNiklasson/lorem-ipsum) |
+|   | [Lorem Ipsum `^1.103.10`](https://raycast.com/AntonNiklasson/lorem-ipsum) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20lorem-ipsum%22%20state%3Aopen) |
 |   | [Lorem Picsum `^1.103.10`](https://raycast.com/michaelfarquhar/lorem-picsum) |
 |   | [Lucide Icons Search `^1.103.10`](https://raycast.com/Sn0wye/lucide-icons) |
 |   | [Mac App Store Search `^1.69.0`](https://raycast.com/say4n/mac-app-store-search) |
