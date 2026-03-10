@@ -106,7 +106,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Open Graph `^1.103.10`](https://raycast.com/1weiho/open-graph) |
 |   | [Pixabay `^1.71.4`](https://raycast.com/tonka3000/pixabay) |
 |   | [Placeholder `^1.104.6`](https://raycast.com/koinzhang/placeholder) |
-|   | [Pomodoro `^1.86.1`](https://raycast.com/asubbotin/pomodoro) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20pomodoro%22%20state%3Aopen) |
+|   | [Pomodoro `^1.86.1`](https://raycast.com/asubbotin/pomodoro) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20pomodoro%22%20state%3Aopen) |
 |   | [Proxmox `^1.103.9`](https://raycast.com/CzBiX/proxmox) |
 |   | [Raindrop.io `^1.102.6`](https://raycast.com/lardissone/raindrop-io) [(⚠️4)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20raindrop-io%22%20state%3Aopen) |
 |   | [Random Data Generator `^1.104.1`](https://raycast.com/loris/random) |
