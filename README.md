@@ -65,7 +65,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 
 | Authored | Contributed |
 | --- | --- |
-| [Anna's Archive `^1.104.1`](https://raycast.com/j3lte/anna-s-archive) | [Brew `^1.104.6`](https://raycast.com/nhojb/brew) [(⚠️5)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
+| [Anna's Archive `^1.104.1`](https://raycast.com/j3lte/anna-s-archive) | [Brew `^1.104.6`](https://raycast.com/nhojb/brew) [(⚠️4)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
 | [Composerize `^1.103.10`](https://raycast.com/j3lte/composerize) | [Can I Use `^1.104.1`](https://raycast.com/thomaslombart/can-i-use) |
 | [CSS Tricks `^1.103.10`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `^1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Deno Deploy `^1.93.2`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `^1.103.10`](https://raycast.com/xmok/changedetection-io) |
