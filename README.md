@@ -112,7 +112,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Random Data Generator `^1.104.1`](https://raycast.com/loris/random) |
 |   | [Say - Text to Speech `^1.104.4`](https://raycast.com/litomore/say) |
 |   | [Search MDN `^1.76.0`](https://raycast.com/krzysztofzuraw/search-mdn) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20search-mdn%22%20state%3Aopen) |
-|   | [Search npm Packages `^1.103.6`](https://raycast.com/mrmartineau/search-npm) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20search-npm%22%20state%3Aopen) |
+|   | [Search npm Packages `^1.104.11`](https://raycast.com/mrmartineau/search-npm) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20search-npm%22%20state%3Aopen) |
 |   | [Sonarr `^1.85.2`](https://raycast.com/Aayush9029/sonarr) |
 |   | [Tailscale `^1.104.5`](https://raycast.com/tailscale/tailscale) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tailscale%22%20state%3Aopen) |
 |   | [The Movie Database `^1.69.0`](https://raycast.com/Aayush9029/tmdb) |
