@@ -81,7 +81,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Get SSH Key `^1.100.3`](https://raycast.com/Theon/get-ssh-key) |
 |   | [GIF Search `^1.103.0`](https://raycast.com/josephschmitt/gif-search) [(⚠️5)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gif-search%22%20state%3Aopen) |
 |   | [GitHub `^1.87.0`](https://raycast.com/raycast/github) [(⚠️12)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
-|   | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/github-repository-search) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github-repository-search%22%20state%3Aopen) |
+|   | [GitHub Repository Search `^1.79.1`](https://raycast.com/thomas/github-repository-search) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github-repository-search%22%20state%3Aopen) |
 |   | [GitHub Status `^1.104.8`](https://raycast.com/FezVrasta/github-status) |
 |   | [GitLab `^1.101.0`](https://raycast.com/tonka3000/gitlab) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gitlab%22%20state%3Aopen) |
 |   | [Google Calendar `^1.103.0`](https://raycast.com/thomas/google-calendar) [(⚠️8)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
