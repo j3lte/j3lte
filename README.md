@@ -65,7 +65,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 
 | Authored | Contributed |
 | --- | --- |
-| [Anna's Archive `1.104.1`](https://raycast.com/j3lte/anna-s-archive) | [Brew `1.104.6`](https://raycast.com/nhojb/brew) [(⚠️4)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
+| [Anna's Archive `1.104.1`](https://raycast.com/j3lte/anna-s-archive) | [Brew `1.104.6`](https://raycast.com/nhojb/brew) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
 | [Composerize `1.103.10`](https://raycast.com/j3lte/composerize) | [Can I Use `1.104.1`](https://raycast.com/thomaslombart/can-i-use) |
 | [CSS Tricks `1.103.10`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Deno Deploy `1.95.0`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `1.103.10`](https://raycast.com/xmok/changedetection-io) |
@@ -80,7 +80,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Substack `1.103.10`](https://raycast.com/j3lte/substack) | [Fotmob `1.104.10`](https://raycast.com/iamlas/fotmob) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20fotmob%22%20state%3Aopen) |
 |   | [Get SSH Key `1.104.11`](https://raycast.com/Theon/get-ssh-key) |
 |   | [GIF Search `1.104.0`](https://raycast.com/josephschmitt/gif-search) [(⚠️5)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gif-search%22%20state%3Aopen) |
-|   | [GitHub `1.93.2`](https://raycast.com/raycast/github) [(⚠️15)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
+|   | [GitHub `1.93.2`](https://raycast.com/raycast/github) [(⚠️14)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 |   | [GitHub Repository Search `1.79.1`](https://raycast.com/thomas/github-repository-search) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github-repository-search%22%20state%3Aopen) |
 |   | [GitHub Status `1.104.8`](https://raycast.com/FezVrasta/github-status) |
 |   | [GitLab `1.102.3`](https://raycast.com/tonka3000/gitlab) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gitlab%22%20state%3Aopen) |
