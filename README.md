@@ -107,8 +107,8 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Pixabay `1.71.4`](https://raycast.com/tonka3000/pixabay) |
 |   | [Placeholder `1.104.6`](https://raycast.com/koinzhang/placeholder) |
 |   | [Pomodoro `1.93.2`](https://raycast.com/asubbotin/pomodoro) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20pomodoro%22%20state%3Aopen) |
-|   | [Proxmox `1.103.9`](https://raycast.com/CzBiX/proxmox) |
-|   | [Raindrop.io `1.103.2`](https://raycast.com/lardissone/raindrop-io) [(⚠️4)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20raindrop-io%22%20state%3Aopen) |
+|   | [Proxmox `1.103.9`](https://raycast.com/CzBiX/proxmox) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20proxmox%22%20state%3Aopen) |
+|   | [Raindrop.io `1.103.2`](https://raycast.com/lardissone/raindrop-io) [(⚠️5)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20raindrop-io%22%20state%3Aopen) |
 |   | [Random Data Generator `1.104.1`](https://raycast.com/loris/random) |
 |   | [Say - Text to Speech `1.104.4`](https://raycast.com/litomore/say) |
 |   | [Search MDN `1.76.1`](https://raycast.com/krzysztofzuraw/search-mdn) |
