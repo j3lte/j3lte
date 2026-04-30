@@ -80,12 +80,12 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Substack `1.103.10`](https://raycast.com/j3lte/substack) | [Fotmob `1.104.10`](https://raycast.com/iamlas/fotmob) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20fotmob%22%20state%3Aopen) |
 |   | [Get SSH Key `1.104.11`](https://raycast.com/Theon/get-ssh-key) |
 |   | [GIF Search `1.104.0`](https://raycast.com/josephschmitt/gif-search) [(⚠️6)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gif-search%22%20state%3Aopen) |
-|   | [GitHub `1.93.2`](https://raycast.com/raycast/github) [(⚠️14)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
+|   | [GitHub `1.93.2`](https://raycast.com/raycast/github) [(⚠️13)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 |   | [GitHub Repository Search `1.79.1`](https://raycast.com/thomas/github-repository-search) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github-repository-search%22%20state%3Aopen) |
 |   | [GitHub Status `1.104.8`](https://raycast.com/FezVrasta/github-status) |
 |   | [GitLab `1.102.3`](https://raycast.com/tonka3000/gitlab) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gitlab%22%20state%3Aopen) |
 |   | [Google Calendar `1.103.6`](https://raycast.com/thomas/google-calendar) [(⚠️10)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
-|   | [Google Chrome `1.104.1`](https://raycast.com/Codely/google-chrome) [(⚠️8)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
+|   | [Google Chrome `1.104.1`](https://raycast.com/Codely/google-chrome) [(⚠️10)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
 |   | [Heroicons `1.70.3`](https://raycast.com/johndoe123789/heroicons) |
 |   | [HubSpot `1.99.4`](https://raycast.com/harisvsulaiman/hubspot) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20hubspot%22%20state%3Aopen) |
 |   | [Iconify — Search Icons `1.103.10`](https://raycast.com/destiner/iconify) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20iconify%22%20state%3Aopen) |
