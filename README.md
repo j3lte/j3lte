@@ -122,7 +122,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Wayback Machine `1.104.1`](https://raycast.com/pernielsentikaer/wayback-machine) |
 |   | [Whois `1.104.10`](https://raycast.com/zavbala/whois) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20whois%22%20state%3Aopen) |
 |   | [Wikipedia `1.93.2`](https://raycast.com/vimtor/wikipedia) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20wikipedia%22%20state%3Aopen) |
-|   | [Word Search `1.84.3`](https://raycast.com/rishabswift/word-search) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20word-search%22%20state%3Aopen) |
+|   | [Word Search `1.84.3`](https://raycast.com/rishabswift/word-search) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20word-search%22%20state%3Aopen) |
 
 <!-- END RAYCAST -->
 
