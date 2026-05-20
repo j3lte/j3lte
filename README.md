@@ -74,16 +74,16 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Freesound `1.76.0`](https://raycast.com/j3lte/freesound) | [DICOM `1.103.10`](https://raycast.com/sedghi/dicom) |
 | [Govee `1.79.1`](https://raycast.com/j3lte/govee) | [Dig - DNS Lookup `1.104.10`](https://raycast.com/danielbahl/dig) |
 | [HTTP Observatory `1.103.3`](https://raycast.com/j3lte/http-observatory) | [Dutch License Plate Search `1.103.10`](https://raycast.com/jeffreyvanhees/rdw-kentekencheck) |
-| [JSR `1.104.10`](https://raycast.com/j3lte/jsr) | [FFmpeg - View, Analyze and Manipulate `1.104.10`](https://raycast.com/RenderCoder/ffmpeg) |
+| [JSR `1.104.17`](https://raycast.com/j3lte/jsr) | [FFmpeg - View, Analyze and Manipulate `1.104.10`](https://raycast.com/RenderCoder/ffmpeg) |
 | [NU Nieuws `1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [Font Awesome `1.103.3`](https://raycast.com/dutzi/font-awesome) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20font-awesome%22%20state%3Aopen) |
 | [Password Strength `1.103.10`](https://raycast.com/j3lte/password-strength) | [Forked Extensions `1.104.6`](https://raycast.com/litomore/forked-extensions) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20forked-extensions%22%20state%3Aopen) |
 | [Substack `1.103.10`](https://raycast.com/j3lte/substack) | [Fotmob `1.104.10`](https://raycast.com/iamlas/fotmob) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20fotmob%22%20state%3Aopen) |
 |   | [Get SSH Key `1.104.15`](https://raycast.com/Theon/get-ssh-key) |
 |   | [GIF Search `1.104.0`](https://raycast.com/josephschmitt/gif-search) [(⚠️7)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gif-search%22%20state%3Aopen) |
-|   | [GitHub `1.93.2`](https://raycast.com/raycast/github) [(⚠️13)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
+|   | [GitHub `1.93.2`](https://raycast.com/raycast/github) [(⚠️12)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 |   | [GitHub Repository Search `1.79.1`](https://raycast.com/thomas/github-repository-search) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github-repository-search%22%20state%3Aopen) |
 |   | [GitHub Status `1.104.8`](https://raycast.com/FezVrasta/github-status) |
-|   | [GitLab `1.102.3`](https://raycast.com/tonka3000/gitlab) [(⚠️6)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gitlab%22%20state%3Aopen) |
+|   | [GitLab `1.102.3`](https://raycast.com/tonka3000/gitlab) [(⚠️4)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gitlab%22%20state%3Aopen) |
 |   | [Google Calendar `1.104.16`](https://raycast.com/thomas/google-calendar) [(⚠️8)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
 |   | [Google Chrome `1.104.1`](https://raycast.com/Codely/google-chrome) [(⚠️14)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
 |   | [Heroicons `1.70.3`](https://raycast.com/johndoe123789/heroicons) |
@@ -100,7 +100,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Mac App Store Search `1.71.4`](https://raycast.com/say4n/mac-app-store-search) |
 |   | [Material Icons `1.103.10`](https://raycast.com/creasty/material-icons) |
 |   | [MyIP `1.102.7`](https://raycast.com/Kang/myip) |
-|   | [NASA `1.103.10`](https://raycast.com/mSarheed/nasa) |
+|   | [NASA `1.103.10`](https://raycast.com/mSarheed/nasa) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20nasa%22%20state%3Aopen) |
 |   | [NATO Phonetic Alphabet `1.79.1`](https://raycast.com/jns/nato-phonetic-alphabet) |
 |   | [OBS Control `1.79.1`](https://raycast.com/Yukai/obs-control) |
 |   | [Open Graph `1.103.10`](https://raycast.com/1weiho/open-graph) |
