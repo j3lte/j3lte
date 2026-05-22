@@ -65,7 +65,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 
 | Authored | Contributed |
 | --- | --- |
-| [Anna's Archive `1.104.1`](https://raycast.com/j3lte/anna-s-archive) | [Brew `1.104.6`](https://raycast.com/nhojb/brew) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
+| [Anna's Archive `1.104.1`](https://raycast.com/j3lte/anna-s-archive) | [Brew `1.104.6`](https://raycast.com/nhojb/brew) [(⚠️4)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
 | [Composerize `1.103.10`](https://raycast.com/j3lte/composerize) | [Can I Use `1.104.1`](https://raycast.com/thomaslombart/can-i-use) |
 | [CSS Tricks `1.103.10`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Deno Deploy `1.95.0`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `1.103.10`](https://raycast.com/xmok/changedetection-io) |
@@ -76,7 +76,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [HTTP Observatory `1.103.3`](https://raycast.com/j3lte/http-observatory) | [Dutch License Plate Search `1.103.10`](https://raycast.com/jeffreyvanhees/rdw-kentekencheck) |
 | [JSR `1.104.17`](https://raycast.com/j3lte/jsr) | [FFmpeg - View, Analyze and Manipulate `1.104.10`](https://raycast.com/RenderCoder/ffmpeg) |
 | [NU Nieuws `1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [Font Awesome `1.103.3`](https://raycast.com/dutzi/font-awesome) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20font-awesome%22%20state%3Aopen) |
-| [Password Strength `1.103.10`](https://raycast.com/j3lte/password-strength) | [Forked Extensions `1.104.6`](https://raycast.com/litomore/forked-extensions) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20forked-extensions%22%20state%3Aopen) |
+| [Password Strength `1.103.10`](https://raycast.com/j3lte/password-strength) | [Forked Extensions `1.104.6`](https://raycast.com/litomore/forked-extensions) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20forked-extensions%22%20state%3Aopen) |
 | [Substack `1.103.10`](https://raycast.com/j3lte/substack) | [Fotmob `1.104.10`](https://raycast.com/iamlas/fotmob) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20fotmob%22%20state%3Aopen) |
 |   | [Get SSH Key `1.104.15`](https://raycast.com/Theon/get-ssh-key) |
 |   | [GIF Search `1.104.0`](https://raycast.com/josephschmitt/gif-search) [(⚠️7)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gif-search%22%20state%3Aopen) |
