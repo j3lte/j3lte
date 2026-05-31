@@ -99,7 +99,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Lucide Icons Search `1.103.10`](https://raycast.com/Sn0wye/lucide-icons) |
 |   | [Mac App Store Search `1.71.4`](https://raycast.com/say4n/mac-app-store-search) |
 |   | [Material Icons `1.103.10`](https://raycast.com/creasty/material-icons) |
-|   | [MyIP `1.102.7`](https://raycast.com/Kang/myip) |
+|   | [MyIP `1.102.7`](https://raycast.com/Kang/myip) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20myip%22%20state%3Aopen) |
 |   | [NASA `1.103.10`](https://raycast.com/mSarheed/nasa) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20nasa%22%20state%3Aopen) |
 |   | [NATO Phonetic Alphabet `1.79.1`](https://raycast.com/jns/nato-phonetic-alphabet) |
 |   | [OBS Control `1.79.1`](https://raycast.com/Yukai/obs-control) |
@@ -113,7 +113,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Say - Text to Speech `1.104.4`](https://raycast.com/litomore/say) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20say%22%20state%3Aopen) |
 |   | [Search MDN `1.76.1`](https://raycast.com/krzysztofzuraw/search-mdn) |
 |   | [Search npm Packages `1.104.11`](https://raycast.com/mrmartineau/search-npm) |
-|   | [Sonarr `1.85.2`](https://raycast.com/Aayush9029/sonarr) |
+|   | [Sonarr `1.85.2`](https://raycast.com/Aayush9029/sonarr) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20sonarr%22%20state%3Aopen) |
 |   | [Tailscale `1.104.5`](https://raycast.com/tailscale/tailscale) |
 |   | [The Movie Database `1.75.2`](https://raycast.com/Aayush9029/tmdb) |
 |   | [TinyPNG `1.93.1`](https://raycast.com/kawamataryo/tinypng) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tinypng%22%20state%3Aopen) |
