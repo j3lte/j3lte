@@ -117,7 +117,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Tailscale `1.104.5`](https://raycast.com/tailscale/tailscale) |
 |   | [The Movie Database `1.75.2`](https://raycast.com/Aayush9029/tmdb) |
 |   | [TinyPNG `1.93.1`](https://raycast.com/kawamataryo/tinypng) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tinypng%22%20state%3Aopen) |
-|   | [Transmission `1.104.15`](https://raycast.com/FezVrasta/transmission) |
+|   | [Transmission `1.104.15`](https://raycast.com/FezVrasta/transmission) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20transmission%22%20state%3Aopen) |
 |   | [Unicode Symbols Search `1.103.10`](https://raycast.com/mmazzarolo/unicode-symbols) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20unicode-symbols%22%20state%3Aopen) |
 |   | [Wayback Machine `1.104.1`](https://raycast.com/pernielsentikaer/wayback-machine) |
 |   | [Whois `1.104.16`](https://raycast.com/zavbala/whois) |
