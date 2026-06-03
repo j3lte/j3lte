@@ -99,7 +99,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Lucide Icons Search `1.103.10`](https://raycast.com/Sn0wye/lucide-icons) |
 |   | [Mac App Store Search `1.71.4`](https://raycast.com/say4n/mac-app-store-search) |
 |   | [Material Icons `1.103.10`](https://raycast.com/creasty/material-icons) |
-|   | [MyIP `1.102.7`](https://raycast.com/Kang/myip) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20myip%22%20state%3Aopen) |
+|   | [MyIP `1.102.7`](https://raycast.com/Kang/myip) |
 |   | [NASA `1.103.10`](https://raycast.com/mSarheed/nasa) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20nasa%22%20state%3Aopen) |
 |   | [NATO Phonetic Alphabet `1.79.1`](https://raycast.com/jns/nato-phonetic-alphabet) |
 |   | [OBS Control `1.79.1`](https://raycast.com/Yukai/obs-control) |
