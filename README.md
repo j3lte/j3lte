@@ -70,7 +70,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [CSS Tricks `1.103.10`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Deno Deploy `1.95.0`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `1.103.10`](https://raycast.com/xmok/changedetection-io) |
 | [Evil Insult `1.76.1`](https://raycast.com/j3lte/evil-insult) | [Country Lookup `1.99.4`](https://raycast.com/pernielsentikaer/country-lookup) |
-| [Exif Viewer `1.104.10`](https://raycast.com/j3lte/exif) | [DevDocs `1.103.10`](https://raycast.com/djpowers/devdocs) |
+| [Exif Viewer `1.104.19`](https://raycast.com/j3lte/exif) | [DevDocs `1.103.10`](https://raycast.com/djpowers/devdocs) |
 | [Freesound `1.76.0`](https://raycast.com/j3lte/freesound) | [DICOM `1.103.10`](https://raycast.com/sedghi/dicom) |
 | [Govee `1.79.1`](https://raycast.com/j3lte/govee) | [Dig - DNS Lookup `1.104.10`](https://raycast.com/danielbahl/dig) |
 | [HTTP Observatory `1.103.3`](https://raycast.com/j3lte/http-observatory) | [Dutch License Plate Search `1.103.10`](https://raycast.com/jeffreyvanhees/rdw-kentekencheck) |
@@ -90,7 +90,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [HubSpot `1.99.4`](https://raycast.com/harisvsulaiman/hubspot) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20hubspot%22%20state%3Aopen) |
 |   | [Iconify — Search Icons `1.103.10`](https://raycast.com/destiner/iconify) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20iconify%22%20state%3Aopen) |
 |   | [IconPark `1.78.0`](https://raycast.com/koinzhang/iconpark) |
-|   | [Imgur `1.103.10`](https://raycast.com/BalliAsghar/imgur) |
+|   | [Imgur `1.104.19`](https://raycast.com/BalliAsghar/imgur) |
 |   | [Jump `1.63.0`](https://raycast.com/HelloImSteven/jump) |
 |   | [JustWatch Search `1.84.2`](https://raycast.com/rishabswift/search-justwatch) |
 |   | [Library Genesis `1.101.1`](https://raycast.com/yz3440/library-genesis) |
@@ -99,7 +99,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Lucide Icons Search `1.103.10`](https://raycast.com/Sn0wye/lucide-icons) |
 |   | [Mac App Store Search `1.71.4`](https://raycast.com/say4n/mac-app-store-search) |
 |   | [Material Icons `1.103.10`](https://raycast.com/creasty/material-icons) |
-|   | [MyIP `1.102.7`](https://raycast.com/Kang/myip) |
+|   | [MyIP `1.104.19`](https://raycast.com/Kang/myip) |
 |   | [NASA `1.103.10`](https://raycast.com/mSarheed/nasa) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20nasa%22%20state%3Aopen) |
 |   | [NATO Phonetic Alphabet `1.79.1`](https://raycast.com/jns/nato-phonetic-alphabet) |
 |   | [OBS Control `1.79.1`](https://raycast.com/Yukai/obs-control) |
