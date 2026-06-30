@@ -119,7 +119,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [TinyPNG `1.93.1`](https://raycast.com/kawamataryo/tinypng) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tinypng%22%20state%3Aopen) |
 |   | [Transmission `1.104.15`](https://raycast.com/FezVrasta/transmission) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20transmission%22%20state%3Aopen) |
 |   | [Unicode Symbols Search `1.103.10`](https://raycast.com/mmazzarolo/unicode-symbols) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20unicode-symbols%22%20state%3Aopen) |
-|   | [Wayback Machine `1.104.1`](https://raycast.com/pernielsentikaer/wayback-machine) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20wayback-machine%22%20state%3Aopen) |
+|   | [Wayback Machine `1.104.20`](https://raycast.com/pernielsentikaer/wayback-machine) |
 |   | [Whois `1.104.16`](https://raycast.com/zavbala/whois) |
 |   | [Wikipedia `1.93.2`](https://raycast.com/vimtor/wikipedia) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20wikipedia%22%20state%3Aopen) |
 |   | [Word Search `1.104.18`](https://raycast.com/rishabswift/word-search) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20word-search%22%20state%3Aopen) |
