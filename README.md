@@ -70,7 +70,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [CSS Tricks `1.103.10`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Deno Deploy `1.95.0`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `1.103.10`](https://raycast.com/xmok/changedetection-io) |
 | [Evil Insult `1.76.1`](https://raycast.com/j3lte/evil-insult) | [Country Lookup `1.99.4`](https://raycast.com/pernielsentikaer/country-lookup) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20country-lookup%22%20state%3Aopen) |
-| [Exif Viewer `1.104.19`](https://raycast.com/j3lte/exif) | [DevDocs `1.103.10`](https://raycast.com/djpowers/devdocs) |
+| [Exif Viewer `1.104.19`](https://raycast.com/j3lte/exif) | [DevDocs `1.103.10`](https://raycast.com/djpowers/devdocs) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20devdocs%22%20state%3Aopen) |
 | [Freesound `1.76.0`](https://raycast.com/j3lte/freesound) | [DICOM `1.103.10`](https://raycast.com/sedghi/dicom) |
 | [Govee `1.79.1`](https://raycast.com/j3lte/govee) | [Dig - DNS Lookup `1.104.10`](https://raycast.com/danielbahl/dig) |
 | [HTTP Observatory `1.103.3`](https://raycast.com/j3lte/http-observatory) | [Dutch License Plate Search `1.103.10`](https://raycast.com/jeffreyvanhees/rdw-kentekencheck) |
@@ -79,7 +79,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Password Strength `1.103.10`](https://raycast.com/j3lte/password-strength) | [Forked Extensions `1.104.6`](https://raycast.com/litomore/forked-extensions) |
 | [Substack `1.103.10`](https://raycast.com/j3lte/substack) | [Fotmob `1.104.10`](https://raycast.com/iamlas/fotmob) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20fotmob%22%20state%3Aopen) |
 |   | [Get SSH Key `1.104.15`](https://raycast.com/Theon/get-ssh-key) |
-|   | [GIF Search `1.104.20`](https://raycast.com/josephschmitt/gif-search) [(⚠️9)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gif-search%22%20state%3Aopen) |
+|   | [GIF Search `1.104.20`](https://raycast.com/josephschmitt/gif-search) [(⚠️8)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gif-search%22%20state%3Aopen) |
 |   | [GitHub `1.104.17`](https://raycast.com/raycast/github) [(⚠️11)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 |   | [GitHub Repository Search `1.79.1`](https://raycast.com/thomas/github-repository-search) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github-repository-search%22%20state%3Aopen) |
 |   | [GitHub Status `1.104.8`](https://raycast.com/FezVrasta/github-status) |
