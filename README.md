@@ -84,7 +84,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [GitHub Repository Search `1.79.1`](https://raycast.com/thomas/github-repository-search) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github-repository-search%22%20state%3Aopen) |
 |   | [GitHub Status `1.104.8`](https://raycast.com/FezVrasta/github-status) |
 |   | [GitLab `1.102.3`](https://raycast.com/tonka3000/gitlab) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gitlab%22%20state%3Aopen) |
-|   | [Google Calendar `1.104.16`](https://raycast.com/thomas/google-calendar) [(⚠️9)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
+|   | [Google Calendar `1.104.16`](https://raycast.com/thomas/google-calendar) [(⚠️8)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
 |   | [Google Chrome `1.104.1`](https://raycast.com/Codely/google-chrome) [(⚠️13)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
 |   | [Heroicons `1.70.3`](https://raycast.com/johndoe123789/heroicons) |
 |   | [HubSpot `1.99.4`](https://raycast.com/harisvsulaiman/hubspot) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20hubspot%22%20state%3Aopen) |
@@ -114,7 +114,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Search MDN `1.76.1`](https://raycast.com/krzysztofzuraw/search-mdn) |
 |   | [Search npm Packages `1.104.11`](https://raycast.com/mrmartineau/search-npm) |
 |   | [Sonarr `1.85.2`](https://raycast.com/Aayush9029/sonarr) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20sonarr%22%20state%3Aopen) |
-|   | [Tailscale `1.104.5`](https://raycast.com/tailscale/tailscale) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tailscale%22%20state%3Aopen) |
+|   | [Tailscale `1.104.5`](https://raycast.com/tailscale/tailscale) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tailscale%22%20state%3Aopen) |
 |   | [The Movie Database `1.75.2`](https://raycast.com/Aayush9029/tmdb) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tmdb%22%20state%3Aopen) |
 |   | [TinyPNG `1.104.20`](https://raycast.com/kawamataryo/tinypng) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tinypng%22%20state%3Aopen) |
 |   | [Transmission `1.104.15`](https://raycast.com/FezVrasta/transmission) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20transmission%22%20state%3Aopen) |
