@@ -112,7 +112,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Random Data Generator `1.104.1`](https://raycast.com/loris/random) |
 |   | [Say - Text to Speech `1.104.4`](https://raycast.com/litomore/say) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20say%22%20state%3Aopen) |
 |   | [Search MDN `1.76.1`](https://raycast.com/krzysztofzuraw/search-mdn) |
-|   | [Search npm Packages `1.104.11`](https://raycast.com/mrmartineau/search-npm) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20search-npm%22%20state%3Aopen) |
+|   | [Search npm Packages `1.104.22`](https://raycast.com/mrmartineau/search-npm) |
 |   | [Sonarr `1.85.2`](https://raycast.com/Aayush9029/sonarr) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20sonarr%22%20state%3Aopen) |
 |   | [Tailscale `1.104.5`](https://raycast.com/tailscale/tailscale) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tailscale%22%20state%3Aopen) |
 |   | [The Movie Database `1.75.2`](https://raycast.com/Aayush9029/tmdb) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tmdb%22%20state%3Aopen) |
