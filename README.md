@@ -70,7 +70,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [CSS Tricks `1.103.10`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Deno Deploy `1.95.0`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `1.103.10`](https://raycast.com/xmok/changedetection-io) |
 | [Evil Insult `1.76.1`](https://raycast.com/j3lte/evil-insult) | [Country Lookup `1.104.23`](https://raycast.com/pernielsentikaer/country-lookup) |
-| [Exif Viewer `1.104.19`](https://raycast.com/j3lte/exif) | [DevDocs `1.104.20`](https://raycast.com/djpowers/devdocs) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20devdocs%22%20state%3Aopen) |
+| [Exif Viewer `1.104.19`](https://raycast.com/j3lte/exif) | [DevDocs `1.104.23`](https://raycast.com/djpowers/devdocs) |
 | [Freesound `1.76.0`](https://raycast.com/j3lte/freesound) | [DICOM `1.103.10`](https://raycast.com/sedghi/dicom) |
 | [Govee `1.79.1`](https://raycast.com/j3lte/govee) | [Dig - DNS Lookup `1.104.10`](https://raycast.com/danielbahl/dig) |
 | [HTTP Observatory `1.103.3`](https://raycast.com/j3lte/http-observatory) | [Dutch License Plate Search `1.103.10`](https://raycast.com/jeffreyvanhees/rdw-kentekencheck) |
