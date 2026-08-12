@@ -80,7 +80,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Substack `1.103.10`](https://raycast.com/j3lte/substack) | [Fotmob `1.104.10`](https://raycast.com/iamlas/fotmob) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20fotmob%22%20state%3Aopen) |
 |   | [Get SSH Key `1.104.15`](https://raycast.com/Theon/get-ssh-key) |
 |   | [GIF Search `1.104.20`](https://raycast.com/josephschmitt/gif-search) [(⚠️7)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gif-search%22%20state%3Aopen) |
-|   | [GitHub `1.104.17`](https://raycast.com/raycast/github) [(⚠️18)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
+|   | [GitHub `1.104.17`](https://raycast.com/raycast/github) [(⚠️16)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 |   | [GitHub Repository Search `1.79.1`](https://raycast.com/thomas/github-repository-search) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github-repository-search%22%20state%3Aopen) |
 |   | [GitHub Status `1.104.8`](https://raycast.com/FezVrasta/github-status) |
 |   | [GitLab `1.102.3`](https://raycast.com/tonka3000/gitlab) [(⚠️6)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gitlab%22%20state%3Aopen) |
@@ -96,7 +96,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Library Genesis `1.101.1`](https://raycast.com/yz3440/library-genesis) |
 |   | [Lorem Ipsum `1.103.10`](https://raycast.com/AntonNiklasson/lorem-ipsum) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20lorem-ipsum%22%20state%3Aopen) |
 |   | [Lorem Picsum `1.103.10`](https://raycast.com/michaelfarquhar/lorem-picsum) |
-|   | [Lucide Icons Search `1.103.10`](https://raycast.com/Sn0wye/lucide-icons) |
+|   | [Lucide Icons Search `1.103.10`](https://raycast.com/Sn0wye/lucide-icons) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20lucide-icons%22%20state%3Aopen) |
 |   | [Mac App Store Search `1.71.4`](https://raycast.com/say4n/mac-app-store-search) |
 |   | [Material Icons `1.103.10`](https://raycast.com/creasty/material-icons) |
 |   | [MyIP `1.104.19`](https://raycast.com/Kang/myip) |
@@ -107,7 +107,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Pixabay `1.71.4`](https://raycast.com/tonka3000/pixabay) |
 |   | [Placeholder `1.104.6`](https://raycast.com/koinzhang/placeholder) |
 |   | [Pomodoro `1.93.2`](https://raycast.com/asubbotin/pomodoro) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20pomodoro%22%20state%3Aopen) |
-|   | [Proxmox `1.103.9`](https://raycast.com/CzBiX/proxmox) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20proxmox%22%20state%3Aopen) |
+|   | [Proxmox `1.103.9`](https://raycast.com/CzBiX/proxmox) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20proxmox%22%20state%3Aopen) |
 |   | [Raindrop.io `1.103.2`](https://raycast.com/lardissone/raindrop-io) [(⚠️6)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20raindrop-io%22%20state%3Aopen) |
 |   | [Random Data Generator `1.104.1`](https://raycast.com/loris/random) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20random%22%20state%3Aopen) |
 |   | [Say - Text to Speech `1.104.4`](https://raycast.com/litomore/say) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20say%22%20state%3Aopen) |
