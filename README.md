@@ -65,7 +65,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 
 | Authored | Contributed |
 | --- | --- |
-| [Anna's Archive `1.104.1`](https://raycast.com/j3lte/anna-s-archive) | [Brew `1.104.6`](https://raycast.com/nhojb/brew) [(⚠️7)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
+| [Anna's Archive `1.104.1`](https://raycast.com/j3lte/anna-s-archive) | [Brew `1.104.6`](https://raycast.com/nhojb/brew) [(⚠️8)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
 | [Composerize `1.103.10`](https://raycast.com/j3lte/composerize) | [Can I Use `1.104.1`](https://raycast.com/thomaslombart/can-i-use) |
 | [CSS Tricks `1.103.10`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Deno Deploy `1.95.0`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `1.103.10`](https://raycast.com/xmok/changedetection-io) |
@@ -102,7 +102,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [MyIP `1.104.19`](https://raycast.com/Kang/myip) |
 |   | [NASA `1.103.10`](https://raycast.com/mSarheed/nasa) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20nasa%22%20state%3Aopen) |
 |   | [NATO Phonetic Alphabet `1.79.1`](https://raycast.com/jns/nato-phonetic-alphabet) |
-|   | [OBS Control `1.79.1`](https://raycast.com/Yukai/obs-control) |
+|   | [OBS Control `1.79.1`](https://raycast.com/Yukai/obs-control) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20obs-control%22%20state%3Aopen) |
 |   | [Open Graph `1.103.10`](https://raycast.com/1weiho/open-graph) |
 |   | [Pixabay `1.71.4`](https://raycast.com/tonka3000/pixabay) |
 |   | [Placeholder `1.104.6`](https://raycast.com/koinzhang/placeholder) |
