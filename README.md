@@ -79,8 +79,8 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Password Strength `1.103.10`](https://raycast.com/j3lte/password-strength) | [Forked Extensions `1.104.6`](https://raycast.com/litomore/forked-extensions) |
 | [Substack `1.103.10`](https://raycast.com/j3lte/substack) | [Fotmob `1.104.10`](https://raycast.com/iamlas/fotmob) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20fotmob%22%20state%3Aopen) |
 |   | [Get SSH Key `1.104.15`](https://raycast.com/Theon/get-ssh-key) |
-|   | [GIF Search `1.104.20`](https://raycast.com/josephschmitt/gif-search) [(⚠️7)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gif-search%22%20state%3Aopen) |
-|   | [GitHub `1.104.17`](https://raycast.com/raycast/github) [(⚠️17)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
+|   | [GIF Search `1.104.20`](https://raycast.com/josephschmitt/gif-search) [(⚠️8)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gif-search%22%20state%3Aopen) |
+|   | [GitHub `1.104.17`](https://raycast.com/raycast/github) [(⚠️16)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 |   | [GitHub Repository Search `1.79.1`](https://raycast.com/thomas/github-repository-search) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github-repository-search%22%20state%3Aopen) |
 |   | [GitHub Status `1.104.8`](https://raycast.com/FezVrasta/github-status) |
 |   | [GitLab `1.102.3`](https://raycast.com/tonka3000/gitlab) [(⚠️4)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gitlab%22%20state%3Aopen) |
@@ -116,7 +116,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Sonarr `2.0.5`](https://raycast.com/Aayush9029/sonarr) |
 |   | [Tailscale `1.104.5`](https://raycast.com/tailscale/tailscale) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tailscale%22%20state%3Aopen) |
 |   | [The Movie Database `1.75.2`](https://raycast.com/Aayush9029/tmdb) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tmdb%22%20state%3Aopen) |
-|   | [TinyPNG `1.104.20`](https://raycast.com/kawamataryo/tinypng) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tinypng%22%20state%3Aopen) |
+|   | [TinyPNG `2.0.6`](https://raycast.com/kawamataryo/tinypng) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tinypng%22%20state%3Aopen) |
 |   | [Transmission `1.104.15`](https://raycast.com/FezVrasta/transmission) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20transmission%22%20state%3Aopen) |
 |   | [Unicode Symbols Search `1.103.10`](https://raycast.com/mmazzarolo/unicode-symbols) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20unicode-symbols%22%20state%3Aopen) |
 |   | [Wayback Machine `1.104.20`](https://raycast.com/pernielsentikaer/wayback-machine) |
