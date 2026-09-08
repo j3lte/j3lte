@@ -65,7 +65,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 
 | Authored | Contributed |
 | --- | --- |
-| [Anna's Archive `1.104.1`](https://raycast.com/j3lte/anna-s-archive) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20anna-s-archive%22%20state%3Aopen) | [Brew `2.1.0`](https://raycast.com/nhojb/brew) [(⚠️5)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
+| [Anna's Archive `1.104.1`](https://raycast.com/j3lte/anna-s-archive) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20anna-s-archive%22%20state%3Aopen) | [Brew `2.1.0`](https://raycast.com/nhojb/brew) [(⚠️6)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
 | [Composerize `1.103.10`](https://raycast.com/j3lte/composerize) | [Can I Use `1.104.1`](https://raycast.com/thomaslombart/can-i-use) |
 | [CSS Tricks `1.103.10`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Deno Deploy `1.95.0`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `1.103.10`](https://raycast.com/xmok/changedetection-io) |
@@ -109,7 +109,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Pomodoro `1.93.2`](https://raycast.com/asubbotin/pomodoro) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20pomodoro%22%20state%3Aopen) |
 |   | [Proxmox `1.103.9`](https://raycast.com/CzBiX/proxmox) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20proxmox%22%20state%3Aopen) |
 |   | [Raindrop.io `1.103.2`](https://raycast.com/lardissone/raindrop-io) [(⚠️6)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20raindrop-io%22%20state%3Aopen) |
-|   | [Random Data Generator `1.104.1`](https://raycast.com/loris/random) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20random%22%20state%3Aopen) |
+|   | [Random Data Generator `1.104.1`](https://raycast.com/loris/random) |
 |   | [Say - Text to Speech `1.104.4`](https://raycast.com/litomore/say) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20say%22%20state%3Aopen) |
 |   | [Search MDN `1.76.1`](https://raycast.com/krzysztofzuraw/search-mdn) |
 |   | [Search npm Packages `1.104.22`](https://raycast.com/mrmartineau/search-npm) |
