@@ -69,7 +69,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Composerize `1.103.10`](https://raycast.com/j3lte/composerize) | [Can I Use `1.104.1`](https://raycast.com/thomaslombart/can-i-use) |
 | [CSS Tricks `1.103.10`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Deno Deploy `1.95.0`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `1.103.10`](https://raycast.com/xmok/changedetection-io) |
-| [Evil Insult `1.76.1`](https://raycast.com/j3lte/evil-insult) | [Country Lookup `1.104.23`](https://raycast.com/pernielsentikaer/country-lookup) |
+| [Evil Insult `1.76.1`](https://raycast.com/j3lte/evil-insult) | [Country Lookup `1.104.25`](https://raycast.com/pernielsentikaer/country-lookup) |
 | [Exif Viewer `1.104.19`](https://raycast.com/j3lte/exif) | [DevDocs `1.104.23`](https://raycast.com/djpowers/devdocs) |
 | [Freesound `1.76.0`](https://raycast.com/j3lte/freesound) | [DICOM `1.103.10`](https://raycast.com/sedghi/dicom) |
 | [Govee `1.79.1`](https://raycast.com/j3lte/govee) | [Dig - DNS Lookup `1.104.10`](https://raycast.com/danielbahl/dig) |
@@ -79,12 +79,12 @@ Have been doing mostly Front End development in the past, but made the transitio
 | [Password Strength `1.103.10`](https://raycast.com/j3lte/password-strength) | [Forked Extensions `1.104.6`](https://raycast.com/litomore/forked-extensions) |
 | [Substack `1.103.10`](https://raycast.com/j3lte/substack) | [Fotmob `1.104.10`](https://raycast.com/iamlas/fotmob) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20fotmob%22%20state%3Aopen) |
 |   | [Get SSH Key `1.104.15`](https://raycast.com/Theon/get-ssh-key) |
-|   | [GIF Search `1.104.20`](https://raycast.com/josephschmitt/gif-search) [(⚠️8)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gif-search%22%20state%3Aopen) |
-|   | [GitHub `1.104.17`](https://raycast.com/raycast/github) [(⚠️15)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
+|   | [GIF Search `1.104.20`](https://raycast.com/josephschmitt/gif-search) [(⚠️9)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gif-search%22%20state%3Aopen) |
+|   | [GitHub `1.104.25`](https://raycast.com/raycast/github) [(⚠️15)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 |   | [GitHub Repository Search `1.79.1`](https://raycast.com/thomas/github-repository-search) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github-repository-search%22%20state%3Aopen) |
 |   | [GitHub Status `1.104.8`](https://raycast.com/FezVrasta/github-status) |
-|   | [GitLab `1.102.3`](https://raycast.com/tonka3000/gitlab) [(⚠️5)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gitlab%22%20state%3Aopen) |
-|   | [Google Calendar `1.104.16`](https://raycast.com/thomas/google-calendar) [(⚠️9)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
+|   | [GitLab `1.102.3`](https://raycast.com/tonka3000/gitlab) [(⚠️4)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gitlab%22%20state%3Aopen) |
+|   | [Google Calendar `1.104.25`](https://raycast.com/thomas/google-calendar) [(⚠️9)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
 |   | [Google Chrome `1.104.1`](https://raycast.com/Codely/google-chrome) [(⚠️14)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
 |   | [Heroicons `1.70.3`](https://raycast.com/johndoe123789/heroicons) |
 |   | [HubSpot `1.99.4`](https://raycast.com/harisvsulaiman/hubspot) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20hubspot%22%20state%3Aopen) |
@@ -112,17 +112,17 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Random Data Generator `1.104.1`](https://raycast.com/loris/random) |
 |   | [Say - Text to Speech `1.104.4`](https://raycast.com/litomore/say) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20say%22%20state%3Aopen) |
 |   | [Search MDN `1.76.1`](https://raycast.com/krzysztofzuraw/search-mdn) |
-|   | [Search npm Packages `1.104.22`](https://raycast.com/mrmartineau/search-npm) |
+|   | [Search npm Packages `1.104.25`](https://raycast.com/mrmartineau/search-npm) |
 |   | [Sonarr `2.0.5`](https://raycast.com/Aayush9029/sonarr) |
 |   | [Tailscale `1.104.5`](https://raycast.com/tailscale/tailscale) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tailscale%22%20state%3Aopen) |
 |   | [The Movie Database `1.75.2`](https://raycast.com/Aayush9029/tmdb) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tmdb%22%20state%3Aopen) |
 |   | [TinyPNG `2.0.6`](https://raycast.com/kawamataryo/tinypng) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tinypng%22%20state%3Aopen) |
 |   | [Transmission `1.104.15`](https://raycast.com/FezVrasta/transmission) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20transmission%22%20state%3Aopen) |
 |   | [Unicode Symbols Search `1.103.10`](https://raycast.com/mmazzarolo/unicode-symbols) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20unicode-symbols%22%20state%3Aopen) |
-|   | [Wayback Machine `1.104.20`](https://raycast.com/pernielsentikaer/wayback-machine) |
+|   | [Wayback Machine `1.104.25`](https://raycast.com/pernielsentikaer/wayback-machine) |
 |   | [Whois `1.104.16`](https://raycast.com/zavbala/whois) |
 |   | [Wikipedia `1.104.24`](https://raycast.com/vimtor/wikipedia) |
-|   | [Word Search `1.104.18`](https://raycast.com/rishabswift/word-search) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20word-search%22%20state%3Aopen) |
+|   | [Word Search `1.104.25`](https://raycast.com/rishabswift/word-search) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20word-search%22%20state%3Aopen) |
 
 <!-- END RAYCAST -->
 
