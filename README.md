@@ -93,7 +93,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Imgur `1.104.19`](https://raycast.com/BalliAsghar/imgur) |
 |   | [Jump `1.63.0`](https://raycast.com/HelloImSteven/jump) |
 |   | [JustWatch Search `1.84.2`](https://raycast.com/rishabswift/search-justwatch) |
-|   | [Library Genesis `1.101.1`](https://raycast.com/yz3440/library-genesis) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20library-genesis%22%20state%3Aopen) |
+|   | [Library Genesis `1.101.1`](https://raycast.com/yz3440/library-genesis) |
 |   | [Lorem Ipsum `1.103.10`](https://raycast.com/AntonNiklasson/lorem-ipsum) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20lorem-ipsum%22%20state%3Aopen) |
 |   | [Lorem Picsum `1.103.10`](https://raycast.com/michaelfarquhar/lorem-picsum) |
 |   | [Lucide Icons Search `1.104.24`](https://raycast.com/Sn0wye/lucide-icons) |
@@ -119,7 +119,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [TinyPNG `2.0.6`](https://raycast.com/kawamataryo/tinypng) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tinypng%22%20state%3Aopen) |
 |   | [Transmission `1.104.15`](https://raycast.com/FezVrasta/transmission) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20transmission%22%20state%3Aopen) |
 |   | [Unicode Symbols Search `1.103.10`](https://raycast.com/mmazzarolo/unicode-symbols) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20unicode-symbols%22%20state%3Aopen) |
-|   | [Wayback Machine `1.104.25`](https://raycast.com/pernielsentikaer/wayback-machine) |
+|   | [Wayback Machine `1.104.25`](https://raycast.com/pernielsentikaer/wayback-machine) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20wayback-machine%22%20state%3Aopen) |
 |   | [Whois `1.104.16`](https://raycast.com/zavbala/whois) |
 |   | [Wikipedia `1.104.24`](https://raycast.com/vimtor/wikipedia) |
 |   | [Word Search `1.104.25`](https://raycast.com/rishabswift/word-search) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20word-search%22%20state%3Aopen) |
