@@ -65,16 +65,16 @@ Have been doing mostly Front End development in the past, but made the transitio
 
 | Authored | Contributed |
 | --- | --- |
-| [Anna's Archive `1.104.1`](https://raycast.com/j3lte/anna-s-archive) | [Brew `2.6.0`](https://raycast.com/nhojb/brew) [(⚠️4)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
+| [Anna's Archive `1.104.1`](https://raycast.com/j3lte/anna-s-archive) | [Brew `2.6.0`](https://raycast.com/nhojb/brew) [(⚠️5)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
 | [Composerize `1.103.10`](https://raycast.com/j3lte/composerize) | [Can I Use `1.104.1`](https://raycast.com/thomaslombart/can-i-use) |
 | [CSS Tricks `1.103.10`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Deno Deploy `1.95.0`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `1.103.10`](https://raycast.com/xmok/changedetection-io) |
 | [Evil Insult `1.76.1`](https://raycast.com/j3lte/evil-insult) | [Country Lookup `1.104.25`](https://raycast.com/pernielsentikaer/country-lookup) |
-| [Exif Viewer `1.104.19`](https://raycast.com/j3lte/exif) | [DevDocs `1.104.23`](https://raycast.com/djpowers/devdocs) |
+| [Exif Viewer `1.104.19`](https://raycast.com/j3lte/exif) | [DevDocs `1.104.25`](https://raycast.com/djpowers/devdocs) |
 | [Freesound `1.76.0`](https://raycast.com/j3lte/freesound) | [DICOM `1.103.10`](https://raycast.com/sedghi/dicom) |
 | [Govee `1.79.1`](https://raycast.com/j3lte/govee) | [Dig - DNS Lookup `1.104.10`](https://raycast.com/danielbahl/dig) |
 | [HTTP Observatory `1.103.3`](https://raycast.com/j3lte/http-observatory) | [Dutch License Plate Search `1.103.10`](https://raycast.com/jeffreyvanhees/rdw-kentekencheck) |
-| [JSR `1.104.21`](https://raycast.com/j3lte/jsr) | [FFmpeg - View, Analyze and Manipulate `1.104.10`](https://raycast.com/RenderCoder/ffmpeg) |
+| [JSR `1.104.25`](https://raycast.com/j3lte/jsr) | [FFmpeg - View, Analyze and Manipulate `1.104.10`](https://raycast.com/RenderCoder/ffmpeg) |
 | [NU Nieuws `1.71.3`](https://raycast.com/j3lte/nu-nieuws) | [Font Awesome `1.103.3`](https://raycast.com/dutzi/font-awesome) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20font-awesome%22%20state%3Aopen) |
 | [Password Strength `1.103.10`](https://raycast.com/j3lte/password-strength) | [Forked Extensions `1.104.6`](https://raycast.com/litomore/forked-extensions) |
 | [Substack `1.103.10`](https://raycast.com/j3lte/substack) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20substack%22%20state%3Aopen) | [Fotmob `1.104.10`](https://raycast.com/iamlas/fotmob) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20fotmob%22%20state%3Aopen) |
@@ -96,8 +96,8 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Library Genesis `1.101.1`](https://raycast.com/yz3440/library-genesis) |
 |   | [Lorem Ipsum `1.103.10`](https://raycast.com/AntonNiklasson/lorem-ipsum) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20lorem-ipsum%22%20state%3Aopen) |
 |   | [Lorem Picsum `1.103.10`](https://raycast.com/michaelfarquhar/lorem-picsum) |
-|   | [Lucide Icons Search `1.104.24`](https://raycast.com/Sn0wye/lucide-icons) |
-|   | [Mac App Store Search `1.104.24`](https://raycast.com/say4n/mac-app-store-search) |
+|   | [Lucide Icons Search `1.104.25`](https://raycast.com/Sn0wye/lucide-icons) |
+|   | [Mac App Store Search `1.104.25`](https://raycast.com/say4n/mac-app-store-search) |
 |   | [Material Icons `1.103.10`](https://raycast.com/creasty/material-icons) |
 |   | [MyIP `1.104.19`](https://raycast.com/Kang/myip) |
 |   | [NASA `1.103.10`](https://raycast.com/mSarheed/nasa) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20nasa%22%20state%3Aopen) |
@@ -121,7 +121,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Unicode Symbols Search `1.103.10`](https://raycast.com/mmazzarolo/unicode-symbols) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20unicode-symbols%22%20state%3Aopen) |
 |   | [Wayback Machine `1.104.25`](https://raycast.com/pernielsentikaer/wayback-machine) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20wayback-machine%22%20state%3Aopen) |
 |   | [Whois `1.104.16`](https://raycast.com/zavbala/whois) |
-|   | [Wikipedia `1.104.24`](https://raycast.com/vimtor/wikipedia) |
+|   | [Wikipedia `1.104.25`](https://raycast.com/vimtor/wikipedia) |
 |   | [Word Search `1.104.25`](https://raycast.com/rishabswift/word-search) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20word-search%22%20state%3Aopen) |
 
 <!-- END RAYCAST -->
