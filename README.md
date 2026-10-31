@@ -103,7 +103,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [NASA `1.103.10`](https://raycast.com/mSarheed/nasa) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20nasa%22%20state%3Aopen) |
 |   | [NATO Phonetic Alphabet `1.79.1`](https://raycast.com/jns/nato-phonetic-alphabet) |
 |   | [OBS Control `1.79.1`](https://raycast.com/Yukai/obs-control) |
-|   | [Open Graph `1.103.10`](https://raycast.com/1weiho/open-graph) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20open-graph%22%20state%3Aopen) |
+|   | [Open Graph `1.103.10`](https://raycast.com/1weiho/open-graph) |
 |   | [Pixabay `1.71.4`](https://raycast.com/tonka3000/pixabay) |
 |   | [Placeholder `1.104.6`](https://raycast.com/koinzhang/placeholder) |
 |   | [Pomodoro `1.93.2`](https://raycast.com/asubbotin/pomodoro) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20pomodoro%22%20state%3Aopen) |
