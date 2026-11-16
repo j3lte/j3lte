@@ -65,7 +65,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 
 | Authored | Contributed |
 | --- | --- |
-| [Anna's Archive `1.104.1`](https://raycast.com/j3lte/anna-s-archive) | [Brew `2.6.0`](https://raycast.com/nhojb/brew) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
+| [Anna's Archive `1.104.1`](https://raycast.com/j3lte/anna-s-archive) | [Brew `2.6.0`](https://raycast.com/nhojb/brew) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
 | [Composerize `1.103.10`](https://raycast.com/j3lte/composerize) | [Can I Use `1.104.1`](https://raycast.com/thomaslombart/can-i-use) |
 | [CSS Tricks `1.103.10`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Deno Deploy `1.95.0`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `1.103.10`](https://raycast.com/xmok/changedetection-io) |
@@ -94,7 +94,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Jump `1.63.0`](https://raycast.com/HelloImSteven/jump) |
 |   | [JustWatch Search `1.84.2`](https://raycast.com/rishabswift/search-justwatch) |
 |   | [Library Genesis `1.101.1`](https://raycast.com/yz3440/library-genesis) |
-|   | [Lorem Ipsum `1.103.10`](https://raycast.com/AntonNiklasson/lorem-ipsum) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20lorem-ipsum%22%20state%3Aopen) |
+|   | [Lorem Ipsum `1.103.10`](https://raycast.com/AntonNiklasson/lorem-ipsum) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20lorem-ipsum%22%20state%3Aopen) |
 |   | [Lorem Picsum `1.103.10`](https://raycast.com/michaelfarquhar/lorem-picsum) |
 |   | [Lucide Icons Search `1.104.25`](https://raycast.com/Sn0wye/lucide-icons) |
 |   | [Mac App Store Search `1.104.25`](https://raycast.com/say4n/mac-app-store-search) |
