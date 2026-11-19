@@ -83,7 +83,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [GitHub `2.10.0`](https://raycast.com/raycast/github) [(⚠️12)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github%22%20state%3Aopen) |
 |   | [GitHub Repository Search `1.79.1`](https://raycast.com/thomas/github-repository-search) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github-repository-search%22%20state%3Aopen) |
 |   | [GitHub Status `1.104.8`](https://raycast.com/FezVrasta/github-status) |
-|   | [GitLab `1.102.3`](https://raycast.com/tonka3000/gitlab) [(⚠️9)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gitlab%22%20state%3Aopen) |
+|   | [GitLab `1.102.3`](https://raycast.com/tonka3000/gitlab) [(⚠️7)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gitlab%22%20state%3Aopen) |
 |   | [Google Calendar `2.10.1`](https://raycast.com/thomas/google-calendar) [(⚠️10)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
 |   | [Google Chrome `1.104.1`](https://raycast.com/Codely/google-chrome) [(⚠️14)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
 |   | [Heroicons `1.70.3`](https://raycast.com/johndoe123789/heroicons) |
@@ -99,7 +99,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Lucide Icons Search `1.104.25`](https://raycast.com/Sn0wye/lucide-icons) |
 |   | [Mac App Store Search `1.104.25`](https://raycast.com/say4n/mac-app-store-search) |
 |   | [Material Icons `1.103.10`](https://raycast.com/creasty/material-icons) |
-|   | [MyIP `1.104.19`](https://raycast.com/Kang/myip) |
+|   | [MyIP `1.104.19`](https://raycast.com/Kang/myip) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20myip%22%20state%3Aopen) |
 |   | [NASA `1.103.10`](https://raycast.com/mSarheed/nasa) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20nasa%22%20state%3Aopen) |
 |   | [NATO Phonetic Alphabet `1.79.1`](https://raycast.com/jns/nato-phonetic-alphabet) |
 |   | [OBS Control `1.79.1`](https://raycast.com/Yukai/obs-control) |
@@ -108,7 +108,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Placeholder `1.104.6`](https://raycast.com/koinzhang/placeholder) |
 |   | [Pomodoro `1.93.2`](https://raycast.com/asubbotin/pomodoro) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20pomodoro%22%20state%3Aopen) |
 |   | [Proxmox `1.103.9`](https://raycast.com/CzBiX/proxmox) |
-|   | [Raindrop.io `1.103.2`](https://raycast.com/lardissone/raindrop-io) [(⚠️6)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20raindrop-io%22%20state%3Aopen) |
+|   | [Raindrop.io `1.103.2`](https://raycast.com/lardissone/raindrop-io) [(⚠️7)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20raindrop-io%22%20state%3Aopen) |
 |   | [Random Data Generator `1.104.1`](https://raycast.com/loris/random) |
 |   | [Say - Text to Speech `1.104.4`](https://raycast.com/litomore/say) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20say%22%20state%3Aopen) |
 |   | [Search MDN `1.76.1`](https://raycast.com/krzysztofzuraw/search-mdn) |
