@@ -65,7 +65,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 
 | Authored | Contributed |
 | --- | --- |
-| [Anna's Archive `1.104.25`](https://raycast.com/j3lte/anna-s-archive) | [Brew `2.12.1`](https://raycast.com/nhojb/brew) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
+| [Anna's Archive `1.104.25`](https://raycast.com/j3lte/anna-s-archive) | [Brew `2.12.1`](https://raycast.com/nhojb/brew) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20brew%22%20state%3Aopen) |
 | [Composerize `1.104.25`](https://raycast.com/j3lte/composerize) | [Can I Use `1.104.25`](https://raycast.com/thomaslombart/can-i-use) |
 | [CSS Tricks `1.104.25`](https://raycast.com/j3lte/css-tricks) | [Capture Fullpage of Website `1.76.0`](https://raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Deno Deploy `1.104.25`](https://raycast.com/j3lte/deno-deploy) | [ChangeDetection.io `1.104.25`](https://raycast.com/xmok/changedetection-io) |
@@ -84,7 +84,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [GitHub Repository Search `1.79.1`](https://raycast.com/thomas/github-repository-search) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20github-repository-search%22%20state%3Aopen) |
 |   | [GitHub Status `1.104.25`](https://raycast.com/FezVrasta/github-status) |
 |   | [GitLab `1.104.25`](https://raycast.com/tonka3000/gitlab) [(⚠️7)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20gitlab%22%20state%3Aopen) |
-|   | [Google Calendar `2.10.1`](https://raycast.com/thomas/google-calendar) [(⚠️11)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
+|   | [Google Calendar `2.14.0`](https://raycast.com/thomas/google-calendar) [(⚠️10)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-calendar%22%20state%3Aopen) |
 |   | [Google Chrome `1.104.25`](https://raycast.com/Codely/google-chrome) [(⚠️15)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20google-chrome%22%20state%3Aopen) |
 |   | [Heroicons `1.70.3`](https://raycast.com/johndoe123789/heroicons) |
 |   | [HubSpot `1.104.25`](https://raycast.com/harisvsulaiman/hubspot) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20hubspot%22%20state%3Aopen) |
@@ -117,7 +117,7 @@ Have been doing mostly Front End development in the past, but made the transitio
 |   | [Tailscale `1.104.25`](https://raycast.com/tailscale/tailscale) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tailscale%22%20state%3Aopen) |
 |   | [The Movie Database `1.75.2`](https://raycast.com/Aayush9029/tmdb) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tmdb%22%20state%3Aopen) |
 |   | [TinyPNG `2.13.1`](https://raycast.com/kawamataryo/tinypng) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20tinypng%22%20state%3Aopen) |
-|   | [Transmission `1.104.25`](https://raycast.com/FezVrasta/transmission) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20transmission%22%20state%3Aopen) |
+|   | [Transmission `1.104.25`](https://raycast.com/FezVrasta/transmission) [(⚠️2)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20transmission%22%20state%3Aopen) |
 |   | [Unicode Symbols Search `1.104.25`](https://raycast.com/mmazzarolo/unicode-symbols) [(⚠️3)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20unicode-symbols%22%20state%3Aopen) |
 |   | [Wayback Machine `1.104.25`](https://raycast.com/pernielsentikaer/wayback-machine) [(⚠️1)](https://github.com/raycast/extensions/issues?q=is%3Aissue%20label%3A%22extension%3A%20wayback-machine%22%20state%3Aopen) |
 |   | [Whois `1.104.16`](https://raycast.com/zavbala/whois) |
